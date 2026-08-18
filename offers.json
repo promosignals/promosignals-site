@@ -1,5 +1,19 @@
 [
   {
+    "id": 62,
+    "source": "Doctor of Credit",
+    "title": "[State Farm Customers Only] U.S. Bank $1,200-$1,500 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/state-farm-customers-only-u-s-bank-1200-1500-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$1,500 Bank Bonus",
+    "summary": "Bank bonus: $1,500",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": null,
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Sun, 16 Aug 2026 20:41:12 +0000"
+  },
+  {
     "id": 3,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: ADT, Spend $250+ & Receive $250 Statement Credit",
@@ -12,6 +26,20 @@
     "status": null,
     "why_it_matters": "This Amex Offer provides a meaningful rebate that may stack with loyalty program rewards.",
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
+  },
+  {
+    "id": 61,
+    "source": "Doctor of Credit",
+    "title": "Staples: 100% Back In Points On Post-It Purchases, Up To $40 + $10 Fandango Code",
+    "url": "https://www.doctorofcredit.com/staples-100-back-in-points-on-post-it-purchases-up-to-40-10-fandango-code/",
+    "offer_type": "promo",
+    "headline": "100% Back, $40 Value",
+    "summary": "Promo: 100% back, $40 value",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": null,
+    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "published": "Sun, 16 Aug 2026 20:52:40 +0000"
   },
   {
     "id": 7,
@@ -28,6 +56,34 @@
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
   },
   {
+    "id": 59,
+    "source": "Doctor of Credit",
+    "title": "[AR, TN] First National Bank $200-$500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ar-tn-first-national-bank-200-500-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": null,
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Sun, 16 Aug 2026 21:30:56 +0000"
+  },
+  {
+    "id": 60,
+    "source": "Doctor of Credit",
+    "title": "[OK] Sovereign Bank $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ok-sovereign-bank-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Sun, 16 Aug 2026 21:00:52 +0000"
+  },
+  {
     "id": 40,
     "source": "Frequent Miler",
     "title": "Marriott Bonvoy Citi Offer: Get 10% back on $300",
@@ -42,6 +98,20 @@
     "published": "Thu, 13 Aug 2026 22:45:38 +0000"
   },
   {
+    "id": 58,
+    "source": "Doctor of Credit",
+    "title": "[FL, In Branch Only] First Federal Bank $200 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/fl-in-branch-only-first-federal-bank-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Sun, 16 Aug 2026 22:00:58 +0000"
+  },
+  {
     "id": 48,
     "source": "Doctor of Credit",
     "title": "[VA, WV, OH only] City National Bank $200 Checking Bonus",
@@ -51,7 +121,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sat, 15 Aug 2026 23:15:09 +0000"
   },
@@ -65,7 +135,7 @@
     "summary": "Bank bonus: $110",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 00:30:59 +0000"
   },
@@ -79,7 +149,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 14:00:47 +0000"
   }

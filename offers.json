@@ -1,5 +1,33 @@
 [
   {
+    "id": 107,
+    "source": "Frequent Miler",
+    "title": "Delta Amex Offer: Spend $2K & get $250 back when booking through Amex Travel™",
+    "url": "https://frequentmiler.com/delta-amex-offer-spend-2k-get-250-back-when-booking-through-amex-travel/",
+    "offer_type": "amex_offer",
+    "headline": "$2 value",
+    "summary": "Amex Offer: $2 value",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "This Amex Offer provides a meaningful rebate that may stack with loyalty program rewards.",
+    "published": "Wed, 19 Aug 2026 19:45:43 +0000"
+  },
+  {
+    "id": 101,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: YouTube TV, Spend $49.99 & Get $20 Back (Can Be Done 3 Times; Ends 12/31/2026)",
+    "url": "https://www.doctorofcredit.com/amex-offers-youtube-tv-spend-57-99-get-20-back-3x/",
+    "offer_type": "amex_offer",
+    "headline": "$49 value",
+    "summary": "Amex Offer: $49 value",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "This Amex Offer provides a meaningful rebate that may stack with loyalty program rewards.",
+    "published": "Wed, 19 Aug 2026 21:45:44 +0000"
+  },
+  {
     "id": 62,
     "source": "Doctor of Credit",
     "title": "[State Farm Customers Only] U.S. Bank $1,200-$1,500 Business Checking Bonus",
@@ -54,6 +82,20 @@
     "status": null,
     "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
+  },
+  {
+    "id": 96,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] [AK, CO, CT, ID, IN, MA, ME, MI, NY, OH, OR, PA, UT, VT, or WA, In Branch] Keybank $500 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ak-co-ct-id-in-ma-me-mi-ny-oh-or-pa-ut-vt-or-wa-in-branch-keybank-500-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Thu, 20 Aug 2026 15:00:55 +0000"
   },
   {
     "id": 59,

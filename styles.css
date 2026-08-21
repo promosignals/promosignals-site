@@ -20,6 +20,8 @@ h2 { margin-top: 34px; font-size: 1.55rem; }
 .why p { margin: 4px 0 0; }
 .offer-link { display: inline-block; margin-top: 8px; padding: 10px 14px; border-radius: 8px; color: #fff; background: var(--blue); font-weight: 700; text-decoration: none; }
 .offer-link:focus-visible { outline: 3px solid #f59e0b; outline-offset: 3px; }
-.signup { margin-top: 42px; padding: 24px; border-radius: 14px; background: #eaf1ff; }
+.signup { margin: 0 0 34px; padding: 20px; border: 1px solid var(--border); border-radius: 14px; background: var(--surface); box-shadow: 0 4px 16px rgba(15, 23, 42, .05); }
+.signup h2 { margin: 0; }
+.signup-copy { margin: 6px 0 14px; color: var(--muted); }
 footer { padding: 26px 0; color: var(--muted); background: #e9edf5; font-size: .9rem; }
-@media (max-width: 520px) { .hero { padding-block: 40px 34px; } .offer-card { padding: 17px; } }
+@media (max-width: 520px) { .hero { padding-block: 40px 34px; } .offer-card, .signup { padding: 17px; } }

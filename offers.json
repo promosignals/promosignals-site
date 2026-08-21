@@ -9,7 +9,7 @@
     "summary": "Amex Offer: $2 value",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This Amex Offer provides a meaningful rebate that may stack with loyalty program rewards.",
     "published": "Wed, 19 Aug 2026 19:45:43 +0000"
   },
@@ -23,7 +23,7 @@
     "summary": "Amex Offer: $49 value",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This Amex Offer provides a meaningful rebate that may stack with loyalty program rewards.",
     "published": "Wed, 19 Aug 2026 21:45:44 +0000"
   },
@@ -84,6 +84,20 @@
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
   },
   {
+    "id": 117,
+    "source": "Doctor of Credit",
+    "title": "Wells Fargo $400 Checking Bonus – Available Online",
+    "url": "https://www.doctorofcredit.com/wells-fargo-325-checking-bonus-available-online/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Thu, 20 Aug 2026 18:00:25 +0000"
+  },
+  {
     "id": 96,
     "source": "Doctor of Credit",
     "title": "[Targeted] [AK, CO, CT, ID, IN, MA, ME, MI, NY, OH, OR, PA, UT, VT, or WA, In Branch] Keybank $500 Business Checking Bonus",
@@ -93,7 +107,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Thu, 20 Aug 2026 15:00:55 +0000"
   },
@@ -110,6 +124,20 @@
     "status": null,
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
+  },
+  {
+    "id": 111,
+    "source": "Doctor of Credit",
+    "title": "Aven Rewards Checking + Rewards Visa: 5% Back On All Purchases (Up To $25,000 Each Year), Requires $25,000 Balance",
+    "url": "https://www.doctorofcredit.com/aven-rewards-checking-rewards-visa-5-back-on-all-purchases-up-to-25000-each-year-requires-25000-balance/",
+    "offer_type": "promo",
+    "headline": "5% Back, $25,000 Value",
+    "summary": "Promo: 5% back, $25,000 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "published": "Fri, 21 Aug 2026 13:00:06 +0000"
   },
   {
     "id": 60,

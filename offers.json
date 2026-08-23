@@ -9,7 +9,7 @@
     "summary": "Amex Offer: spend $49.99, get $20 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": "This is effectively a 40% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
     "published": "Wed, 19 Aug 2026 21:45:44 +0000"
   },
@@ -79,7 +79,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Fri, 21 Aug 2026 21:01:09 +0000"
   },
@@ -149,7 +149,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sat, 22 Aug 2026 15:30:04 +0000"
   },
@@ -191,7 +191,7 @@
     "summary": "Promo: $400 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 21 Aug 2026 23:45:47 +0000"
   },
@@ -205,7 +205,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 20 Aug 2026 17:45:44 +0000"
   },
@@ -219,7 +219,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 20 Aug 2026 21:04:56 +0000"
   },
@@ -233,7 +233,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 21 Aug 2026 00:00:01 +0000"
   },
@@ -247,7 +247,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 21 Aug 2026 15:00:00 +0000"
   },
@@ -261,7 +261,7 @@
     "summary": "Promo: $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Wed, 19 Aug 2026 21:45:10 +0000"
   },
@@ -275,7 +275,7 @@
     "summary": "Promo: $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 20 Aug 2026 15:30:55 +0000"
   },
@@ -289,7 +289,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Tue, 18 Aug 2026 20:45:54 +0000"
   },
@@ -303,7 +303,7 @@
     "summary": "Promo: $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Tue, 18 Aug 2026 20:46:07 +0000"
   },
@@ -317,7 +317,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Tue, 18 Aug 2026 21:15:44 +0000"
   },
@@ -331,7 +331,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Sat, 15 Aug 2026 23:19:49 +0000"
   },
@@ -359,7 +359,7 @@
     "summary": "Promo: $6 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 14 Aug 2026 15:00:23 +0000"
   },
@@ -373,7 +373,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 14 Aug 2026 19:09:59 +0000"
   },
@@ -387,7 +387,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
   },

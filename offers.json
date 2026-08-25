@@ -2,7 +2,7 @@
   {
     "id": 101,
     "source": "Doctor of Credit",
-    "title": "AmEx Offers: YouTube TV, Spend $49.99 & Get $20 Back (Can Be Done 3 Times; Ends 12/31/2026)",
+    "title": "AmEx Offers: YouTube TV, Spend $39.99 & Get $20 Back (Can Be Done 3 Times; Ends 12/31/2026)",
     "url": "https://www.doctorofcredit.com/amex-offers-youtube-tv-spend-57-99-get-20-back-3x/",
     "offer_type": "amex_offer",
     "headline": "$20 Back on $49.99 Spend",
@@ -42,18 +42,18 @@
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
   },
   {
-    "id": 61,
+    "id": 148,
     "source": "Doctor of Credit",
-    "title": "Staples: 100% Back In Points On Post-It Purchases, Up To $40 + $10 Fandango Code",
-    "url": "https://www.doctorofcredit.com/staples-100-back-in-points-on-post-it-purchases-up-to-40-10-fandango-code/",
-    "offer_type": "promo",
-    "headline": "100% Back, $40 Value",
-    "summary": "Promo: 100% back, $40 value",
+    "title": "[New 10% APY Account, Up To $1,000][Expired] [NM, CA, AZ, TX, CO] Sunward $225 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/nm-ca-az-tx-co-sunward-225-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "10% APY on up to $1,000",
+    "summary": "Bank APY: 10% APY on up to $1,000",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
-    "published": "Sun, 16 Aug 2026 20:52:40 +0000"
+    "status": "REDUCED",
+    "why_it_matters": "This promotional yield applies only within the stated balance cap and promotional period, when provided.",
+    "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
     "id": 7,
@@ -68,6 +68,20 @@
     "status": null,
     "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
+  },
+  {
+    "id": 152,
+    "source": "Doctor of Credit",
+    "title": "[OK, IL KS & MO,In Branch only] Central Bank $500 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ok-il-ks-mo-co-in-branch-only-central-bank-500-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": null,
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Sun, 23 Aug 2026 22:00:59 +0000"
   },
   {
     "id": 129,
@@ -126,6 +140,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 153,
+    "source": "Frequent Miler",
+    "title": "25% transfer bonus from Citi to Leading Hotels of the World Leaders Club",
+    "url": "https://frequentmiler.com/citi-thankyou-leading-hotels-of-the-world-lhw-25-percent-transfer-bonus/",
+    "offer_type": "transfer",
+    "headline": "25% Transfer Bonus",
+    "summary": "Transfer bonus: 25%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 24 Aug 2026 13:45:52 +0000"
+  },
+  {
     "id": 111,
     "source": "Doctor of Credit",
     "title": "Aven Rewards Checking + Rewards Visa: 5% Back On All Purchases (Up To $25,000 Each Year), Requires $25,000 Balance",
@@ -138,6 +166,34 @@
     "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
+  },
+  {
+    "id": 150,
+    "source": "Doctor of Credit",
+    "title": "[NV only] Greater Nevada Credit Union – $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/nv-only-greater-nevada-credit-union-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Sun, 23 Aug 2026 22:11:38 +0000"
+  },
+  {
+    "id": 149,
+    "source": "Doctor of Credit",
+    "title": "[OK & TX] Great Plains Bank $300 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/ok-tx-great-plains-bank-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Sun, 23 Aug 2026 22:30:11 +0000"
   },
   {
     "id": 126,
@@ -180,6 +236,34 @@
     "status": null,
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
+  },
+  {
+    "id": 162,
+    "source": "Doctor of Credit",
+    "title": "Chewy.com: Earn $30 Giftcard When You Spend $100",
+    "url": "https://www.doctorofcredit.com/chewy-com-earn-30-giftcard-when-you-spend-100-stack-with-15-amex-offer-portal/",
+    "offer_type": "promo",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "published": "Mon, 24 Aug 2026 20:50:58 +0000"
+  },
+  {
+    "id": 151,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Gemini, Purchase $100+ In Stocks & Get $10 (Up To $200)",
+    "url": "https://www.doctorofcredit.com/targeted-gemini-purchase-100-in-stocks-get-10-up-to-200/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "published": "Sun, 23 Aug 2026 22:06:58 +0000"
   },
   {
     "id": 135,
@@ -322,20 +406,6 @@
     "published": "Tue, 18 Aug 2026 21:15:44 +0000"
   },
   {
-    "id": 46,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Capital One: Spend $25+ On Amazon & Earn $10 Back",
-    "url": "https://www.doctorofcredit.com/targeted-capital-one-spend-25-on-amazon-earn-10-back/",
-    "offer_type": "promo",
-    "headline": "$10 Value",
-    "summary": "Promo: $10 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
-    "published": "Sat, 15 Aug 2026 23:19:49 +0000"
-  },
-  {
     "id": 40,
     "source": "Frequent Miler",
     "title": "Marriott Bonvoy Citi Offer: Get 10% back on $300",
@@ -390,6 +460,20 @@
     "status": null,
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
+  },
+  {
+    "id": 147,
+    "source": "Doctor of Credit",
+    "title": "[AL, FL] Alabama Credit Union $100 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/al-fl-alabama-credit-union-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$100 Bank Bonus",
+    "summary": "Bank bonus: $100",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Sun, 23 Aug 2026 23:03:08 +0000"
   },
   {
     "id": 58,

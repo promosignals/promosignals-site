@@ -1,5 +1,33 @@
 [
   {
+    "id": 200,
+    "source": "Frequent Miler",
+    "title": "Delta Business Cards: Earn up to 200K SkyMiles with limited-time welcome offers",
+    "url": "https://frequentmiler.com/delta-business-cards-earn-up-to-200k-skymiles/",
+    "offer_type": "credit_card",
+    "headline": "200,000 Points",
+    "summary": "Credit card offer: 200,000 points",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
+    "published": "Thu, 27 Aug 2026 18:03:49 +0000"
+  },
+  {
+    "id": 191,
+    "source": "Doctor of Credit",
+    "title": "Increased American Express Delta Offers, Up To 200,000 Miles (Personal & Business Gold, Platinum, Reserve)",
+    "url": "https://www.doctorofcredit.com/increased-american-express-delta-offers-up-to-125000-miles-personal-business-gold-platinum-reserve/",
+    "offer_type": "credit_card",
+    "headline": "200,000 Points",
+    "summary": "Credit card offer: 200,000 points",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
+    "published": "Thu, 27 Aug 2026 18:32:57 +0000"
+  },
+  {
     "id": 101,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: YouTube TV, Spend $39.99 & Get $20 Back (Can Be Done 3 Times; Ends 12/31/2026)",
@@ -12,20 +40,6 @@
     "status": "NEW",
     "why_it_matters": "This is effectively a 50% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
     "published": "Wed, 19 Aug 2026 21:45:44 +0000"
-  },
-  {
-    "id": 64,
-    "source": "Doctor of Credit",
-    "title": "[CT, DE, MA, MI, NH, NJ, NY, OH, PA, RI, VT, VA, D.C., MD, FL] Citizens Bank $500 Savings Account Bonus With $30,000 Deposit",
-    "url": "https://www.doctorofcredit.com/ymmvct-de-ma-mi-nh-nj-ny-oh-pa-ri-vt-va-d-c-md-fl-citizens-bank-500-savings-account-bonus-with-10000-deposit/",
-    "offer_type": "bank",
-    "headline": "$30,000 Bank Bonus",
-    "summary": "Bank bonus: $30,000",
-    "score": 8.5,
-    "score_label": "Excellent",
-    "status": "NEW",
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
-    "published": "Sun, 16 Aug 2026 18:15:22 +0000"
   },
   {
     "id": 62,
@@ -56,6 +70,20 @@
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
   },
   {
+    "id": 201,
+    "source": "Frequent Miler",
+    "title": "Earn a $500 bonus with a new Wells Fargo checking account",
+    "url": "https://frequentmiler.com/earn-a-500-bonus-with-a-new-wells-fargo-checking-account/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "IMPROVED",
+    "why_it_matters": "This offer improved recently by 100, making it more valuable than before.",
+    "published": "Thu, 27 Aug 2026 13:45:09 +0000"
+  },
+  {
     "id": 148,
     "source": "Doctor of Credit",
     "title": "[New 10% APY Account, Up To $1,000][Expired] [NM, CA, AZ, TX, CO] Sunward $225 Checking Bonus",
@@ -65,7 +93,7 @@
     "summary": "Bank APY: 10% APY on up to $1,000",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotional yield applies only within the stated balance cap and promotional period, when provided.",
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
@@ -112,20 +140,6 @@
     "published": "Sun, 23 Aug 2026 22:00:59 +0000"
   },
   {
-    "id": 129,
-    "source": "Doctor of Credit",
-    "title": "Wells Fargo $500 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/wells-fargo-500-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$500 Bank Bonus",
-    "summary": "Bank bonus: $500",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": "NEW",
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
-    "published": "Fri, 21 Aug 2026 21:01:09 +0000"
-  },
-  {
     "id": 117,
     "source": "Doctor of Credit",
     "title": "Wells Fargo $400 Checking Bonus – Available Online",
@@ -152,6 +166,20 @@
     "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Thu, 20 Aug 2026 15:00:55 +0000"
+  },
+  {
+    "id": 64,
+    "source": "Doctor of Credit",
+    "title": "[CT, DE, MA, MI, NH, NJ, NY, OH, PA, RI, VT, VA, D.C., MD, FL] Citizens Bank $500 Savings Account Bonus With $30,000 Deposit",
+    "url": "https://www.doctorofcredit.com/ymmvct-de-ma-mi-nh-nj-ny-oh-pa-ri-vt-va-d-c-md-fl-citizens-bank-500-savings-account-bonus-with-10000-deposit/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus with $30,000 Deposit",
+    "summary": "Bank bonus: $500 with $30,000 deposit",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Sun, 16 Aug 2026 18:15:22 +0000"
   },
   {
     "id": 59,
@@ -264,6 +292,34 @@
     "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
+  },
+  {
+    "id": 195,
+    "source": "Doctor of Credit",
+    "title": "Amazon: $15 Credit With $50 Household Essentials (Kleenex, Bounty, Tide, Hefty, Charmin & More)",
+    "url": "https://www.doctorofcredit.com/amazon-15-credit-with-50-household-essentials-stack-with-30-tide-coupon/",
+    "offer_type": "promo",
+    "headline": "$15 Value",
+    "summary": "Promo: $15 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "published": "Thu, 27 Aug 2026 16:00:31 +0000"
+  },
+  {
+    "id": 190,
+    "source": "Doctor of Credit",
+    "title": "Fetch Rewards: Sign Up For Sam’s Club Membership ($25) & Get $27-$54 In Points",
+    "url": "https://www.doctorofcredit.com/fetch-rewards-sign-up-for-sams-club-membership-25-get-27-54-in-points/",
+    "offer_type": "promo",
+    "headline": "$27 Value",
+    "summary": "Promo: $27 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "published": "Thu, 27 Aug 2026 21:27:52 +0000"
   },
   {
     "id": 174,

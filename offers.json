@@ -1,19 +1,5 @@
 [
   {
-    "id": 200,
-    "source": "Frequent Miler",
-    "title": "Delta Business Cards: Earn up to 200K SkyMiles with limited-time welcome offers",
-    "url": "https://frequentmiler.com/delta-business-cards-earn-up-to-200k-skymiles/",
-    "offer_type": "credit_card",
-    "headline": "200,000 Points",
-    "summary": "Credit card offer: 200,000 points",
-    "score": 9.5,
-    "score_label": "Exceptional",
-    "status": "NEW",
-    "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
-    "published": "Thu, 27 Aug 2026 18:03:49 +0000"
-  },
-  {
     "id": 191,
     "source": "Doctor of Credit",
     "title": "Increased American Express Delta Offers, Up To 200,000 Miles (Personal & Business Gold, Platinum, Reserve)",
@@ -26,6 +12,20 @@
     "status": "NEW",
     "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
+  },
+  {
+    "id": 218,
+    "source": "Frequent Miler",
+    "title": "Bilt Rent Day: Up to 100% Transfer Bonus to Virgin Atlantic / Virgin Red",
+    "url": "https://frequentmiler.com/bilt-rent-day-up-to-100-transfer-bonus-to-virgin/",
+    "offer_type": "transfer",
+    "headline": "100% Transfer Bonus",
+    "summary": "Transfer bonus: 100%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 28 Aug 2026 15:57:29 +0000"
   },
   {
     "id": 101,
@@ -68,20 +68,6 @@
     "status": "NEW",
     "why_it_matters": "This is effectively a 100% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
-  },
-  {
-    "id": 201,
-    "source": "Frequent Miler",
-    "title": "Earn a $500 bonus with a new Wells Fargo checking account",
-    "url": "https://frequentmiler.com/earn-a-500-bonus-with-a-new-wells-fargo-checking-account/",
-    "offer_type": "bank",
-    "headline": "$500 Bank Bonus",
-    "summary": "Bank bonus: $500",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": "IMPROVED",
-    "why_it_matters": "This offer improved recently by 100, making it more valuable than before.",
-    "published": "Thu, 27 Aug 2026 13:45:09 +0000"
   },
   {
     "id": 148,
@@ -138,6 +124,20 @@
     "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 23 Aug 2026 22:00:59 +0000"
+  },
+  {
+    "id": 129,
+    "source": "Doctor of Credit",
+    "title": "Wells Fargo $500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wells-fargo-500-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Fri, 21 Aug 2026 21:01:09 +0000"
   },
   {
     "id": 117,
@@ -294,18 +294,18 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
-    "id": 195,
+    "id": 210,
     "source": "Doctor of Credit",
-    "title": "Amazon: $15 Credit With $50 Household Essentials (Kleenex, Bounty, Tide, Hefty, Charmin & More)",
-    "url": "https://www.doctorofcredit.com/amazon-15-credit-with-50-household-essentials-stack-with-30-tide-coupon/",
-    "offer_type": "promo",
-    "headline": "$15 Value",
-    "summary": "Promo: $15 value",
-    "score": 4.5,
+    "title": "AmEx Offers: Allegiant Air, Spend $200/$250 & Get $50 Back",
+    "url": "https://www.doctorofcredit.com/amex-offers-allegiant-air-spend-200-250-get-50-back/",
+    "offer_type": "amex_offer",
+    "headline": "Tiered/multiple dollar offer",
+    "summary": "Amex Offer: tiered/multiple dollar offer",
+    "score": 5.5,
     "score_label": "Standard",
     "status": "NEW",
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
-    "published": "Thu, 27 Aug 2026 16:00:31 +0000"
+    "why_it_matters": "This Amex Offer provides a meaningful rebate that may stack with loyalty program rewards.",
+    "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
     "id": 190,

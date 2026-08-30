@@ -9,7 +9,7 @@
     "summary": "Credit card offer: 200,000 points",
     "score": 9.5,
     "score_label": "Exceptional",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
   },
@@ -37,7 +37,7 @@
     "summary": "Amex Offer: spend $39.99, get $20 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This is effectively a 50% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
     "published": "Wed, 19 Aug 2026 21:45:44 +0000"
   },
@@ -51,7 +51,7 @@
     "summary": "Bank bonus: $1,500",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 20:41:12 +0000"
   },
@@ -65,7 +65,7 @@
     "summary": "Amex Offer: spend $250, get $250 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This is effectively a 100% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
   },
@@ -79,23 +79,9 @@
     "summary": "Bank APY: 10% APY on up to $1,000",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotional yield applies only within the stated balance cap and promotional period, when provided.",
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
-  },
-  {
-    "id": 129,
-    "source": "Doctor of Credit",
-    "title": "Wells Fargo $500 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/wells-fargo-500-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$500 Bank Bonus",
-    "summary": "Bank bonus: $500",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": "IMPROVED",
-    "why_it_matters": "This offer improved recently by 100, making it more valuable than before.",
-    "published": "Fri, 21 Aug 2026 21:01:09 +0000"
   },
   {
     "id": 7,
@@ -107,7 +93,7 @@
     "summary": "Credit card offer: 80,000 points",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
   },
@@ -121,7 +107,7 @@
     "summary": "Amex Offer: spend $1,000, get $200 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This is effectively a 20% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
   },
@@ -135,7 +121,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sat, 29 Aug 2026 13:00:05 +0000"
   },
@@ -149,9 +135,23 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 23 Aug 2026 22:00:59 +0000"
+  },
+  {
+    "id": 129,
+    "source": "Doctor of Credit",
+    "title": "Wells Fargo $500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wells-fargo-500-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "published": "Fri, 21 Aug 2026 21:01:09 +0000"
   },
   {
     "id": 117,
@@ -163,7 +163,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "REDUCED",
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Thu, 20 Aug 2026 18:00:25 +0000"
   },
@@ -177,7 +177,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Thu, 20 Aug 2026 15:00:55 +0000"
   },
@@ -191,7 +191,7 @@
     "summary": "Bank bonus: $500 with $30,000 deposit",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 18:15:22 +0000"
   },
@@ -205,9 +205,23 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
+  },
+  {
+    "id": 226,
+    "source": "Doctor of Credit",
+    "title": "J.P. Morgan Self-Directed Investing Up To $1,000 Bonus With $5k-$250k Invested [+$100 Rakuten]",
+    "url": "https://www.doctorofcredit.com/chase-you-invest-bonus-200-625-bonus-with-25000-250000-investment-account/",
+    "offer_type": "promo",
+    "headline": "$1,000 Value",
+    "summary": "Promo: $1,000 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "published": "Sun, 30 Aug 2026 14:00:32 +0000"
   },
   {
     "id": 153,
@@ -233,7 +247,7 @@
     "summary": "Promo: 5% back, $25,000 value",
     "score": 6.5,
     "score_label": "Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
@@ -247,7 +261,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 23 Aug 2026 22:11:38 +0000"
   },
@@ -261,7 +275,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 23 Aug 2026 22:30:11 +0000"
   },
@@ -275,7 +289,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sat, 22 Aug 2026 15:30:04 +0000"
   },
@@ -289,7 +303,7 @@
     "summary": "Amex Offer: spend $2,000, get $250 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This is effectively a 12% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
     "published": "Wed, 19 Aug 2026 19:45:43 +0000"
   },
@@ -303,7 +317,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
@@ -331,7 +345,7 @@
     "summary": "Promo: $27 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 27 Aug 2026 21:27:52 +0000"
   },
@@ -345,7 +359,7 @@
     "summary": "Promo: $150 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Wed, 26 Aug 2026 15:00:33 +0000"
   },
@@ -359,7 +373,7 @@
     "summary": "Promo: $250 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Wed, 26 Aug 2026 15:05:12 +0000"
   },
@@ -373,7 +387,7 @@
     "summary": "Promo: $30 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Mon, 24 Aug 2026 20:50:58 +0000"
   },
@@ -387,7 +401,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Sun, 23 Aug 2026 22:06:58 +0000"
   },
@@ -401,7 +415,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 20 Aug 2026 21:04:56 +0000"
   },
@@ -415,7 +429,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 21 Aug 2026 00:00:01 +0000"
   },
@@ -429,7 +443,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 21 Aug 2026 15:00:00 +0000"
   },
@@ -443,7 +457,7 @@
     "summary": "Promo: $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 20 Aug 2026 15:30:55 +0000"
   },
@@ -457,7 +471,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Tue, 18 Aug 2026 20:45:54 +0000"
   },
@@ -471,7 +485,7 @@
     "summary": "Promo: $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Tue, 18 Aug 2026 20:46:07 +0000"
   },
@@ -485,7 +499,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Sat, 29 Aug 2026 11:30:44 +0000"
   },
@@ -499,7 +513,7 @@
     "summary": "Promo: 10% back, $300 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 13 Aug 2026 22:45:38 +0000"
   },
@@ -513,7 +527,7 @@
     "summary": "Promo: $6 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 14 Aug 2026 15:00:23 +0000"
   },
@@ -527,7 +541,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Fri, 14 Aug 2026 19:09:59 +0000"
   },
@@ -541,7 +555,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
   },
@@ -555,7 +569,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 23 Aug 2026 23:03:08 +0000"
   },
@@ -569,7 +583,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 22:00:58 +0000"
   },
@@ -583,7 +597,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sat, 15 Aug 2026 23:15:09 +0000"
   },
@@ -597,7 +611,7 @@
     "summary": "Bank bonus: $110",
     "score": 4.0,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 00:30:59 +0000"
   },
@@ -611,7 +625,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
     "published": "Sun, 16 Aug 2026 14:00:47 +0000"
   }

@@ -10,8 +10,36 @@
     "score": 9.5,
     "score_label": "Exceptional",
     "status": null,
-    "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
+    "why_it_matters": null,
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
+  },
+  {
+    "id": 250,
+    "source": "Frequent Miler",
+    "title": "Rove has added Copa Airlines as transfer partner, launching with 40% transfer bonus",
+    "url": "https://frequentmiler.com/rove-copa-airlines-transfer-partner-bonus/",
+    "offer_type": "transfer",
+    "headline": "40% Transfer Bonus",
+    "summary": "Transfer bonus: 40%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": "A 40% bonus means 1,000 transferable points become 1,400 partner points.",
+    "published": "Tue, 01 Sep 2026 13:45:52 +0000"
+  },
+  {
+    "id": 244,
+    "source": "Doctor of Credit",
+    "title": "Rove Adds Copa Airlines ConnectMiles As 1:1 Transfer Partner + 40% Transfer Bonus",
+    "url": "https://www.doctorofcredit.com/rove-adds-copa-airlines-connectmiles-as-11-transfer-partner-40-transfer-bonus/",
+    "offer_type": "transfer",
+    "headline": "40% Transfer Bonus",
+    "summary": "Transfer bonus: 40%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": "A 40% bonus means 1,000 transferable points become 1,400 partner points.",
+    "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
     "id": 218,
@@ -24,8 +52,8 @@
     "score": 9.0,
     "score_label": "Exceptional",
     "status": "NEW",
-    "why_it_matters": null,
-    "published": "Fri, 28 Aug 2026 15:57:29 +0000"
+    "why_it_matters": "A 100% bonus means 1,000 transferable points become 2,000 partner points.",
+    "published": "Tue, 01 Sep 2026 14:45:06 +0000"
   },
   {
     "id": 101,
@@ -38,7 +66,7 @@
     "score": 8.5,
     "score_label": "Excellent",
     "status": null,
-    "why_it_matters": "This is effectively a 50% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
+    "why_it_matters": "That's an effective 50% rebate when you meet the $39.99 spend requirement.",
     "published": "Wed, 19 Aug 2026 21:45:44 +0000"
   },
   {
@@ -52,7 +80,7 @@
     "score": 8.5,
     "score_label": "Excellent",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 20:41:12 +0000"
   },
   {
@@ -66,7 +94,7 @@
     "score": 8.5,
     "score_label": "Excellent",
     "status": null,
-    "why_it_matters": "This is effectively a 100% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
+    "why_it_matters": "That's an effective 100% rebate when you meet the $250 spend requirement.",
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
   },
   {
@@ -79,8 +107,8 @@
     "summary": "Promo: 100% back, $40 value",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "status": null,
+    "why_it_matters": null,
     "published": "Mon, 31 Aug 2026 00:05:40 +0000"
   },
   {
@@ -94,7 +122,7 @@
     "score": 8.0,
     "score_label": "Excellent",
     "status": null,
-    "why_it_matters": "This promotional yield applies only within the stated balance cap and promotional period, when provided.",
+    "why_it_matters": "The 10% APY applies to up to $1,000, so the balance cap limits how much earns the promotional rate.",
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
@@ -108,7 +136,7 @@
     "score": 8.0,
     "score_label": "Excellent",
     "status": null,
-    "why_it_matters": "Large credit card bonuses can often be worth hundreds of dollars when redeemed strategically.",
+    "why_it_matters": null,
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
   },
   {
@@ -122,21 +150,35 @@
     "score": 7.5,
     "score_label": "Very Good",
     "status": null,
-    "why_it_matters": "This is effectively a 20% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 246,
+    "source": "Doctor of Credit",
+    "title": "[Available To All To Premium X.com Users] Elon Musk ‘X Money’ Features Revealed (6% APY, Debit Card With Rewards & More)",
+    "url": "https://www.doctorofcredit.com/elon-musk-x-money-features-revealed-6-apy-debit-card-with-rewards-more/",
+    "offer_type": "bank",
+    "headline": "6% APY",
+    "summary": "Bank APY: 6% APY",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 01 Sep 2026 02:20:52 +0000"
   },
   {
     "id": 232,
     "source": "Doctor of Credit",
-    "title": "[NY, OH, IN, PA] Northwest Bank $400 Checking Bonus",
+    "title": "[NY, OH, IN, PA] Northwest Bank $400/$600 Checking Bonus",
     "url": "https://www.doctorofcredit.com/pa-northwest-bank-160-checking-bonus/",
     "offer_type": "bank",
     "headline": "$400 Bank Bonus",
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "status": null,
+    "why_it_matters": null,
     "published": "Mon, 31 Aug 2026 04:50:03 +0000"
   },
   {
@@ -150,7 +192,7 @@
     "score": 7.0,
     "score_label": "Very Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sat, 29 Aug 2026 13:00:05 +0000"
   },
   {
@@ -164,7 +206,7 @@
     "score": 7.0,
     "score_label": "Very Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 23 Aug 2026 22:00:59 +0000"
   },
   {
@@ -178,7 +220,7 @@
     "score": 7.0,
     "score_label": "Very Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 21:01:09 +0000"
   },
   {
@@ -192,7 +234,7 @@
     "score": 7.0,
     "score_label": "Very Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 18:00:25 +0000"
   },
   {
@@ -206,7 +248,7 @@
     "score": 7.0,
     "score_label": "Very Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 15:00:55 +0000"
   },
   {
@@ -220,7 +262,7 @@
     "score": 7.0,
     "score_label": "Very Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": "The $500 bonus is equivalent to about 1.7% of the $30,000 deposit requirement, before considering how long the funds must remain deposited.",
     "published": "Sun, 16 Aug 2026 18:15:22 +0000"
   },
   {
@@ -234,7 +276,7 @@
     "score": 7.0,
     "score_label": "Very Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
@@ -247,8 +289,8 @@
     "summary": "Promo: $3,000 value",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "status": null,
+    "why_it_matters": null,
     "published": "Mon, 31 Aug 2026 13:00:41 +0000"
   },
   {
@@ -262,7 +304,7 @@
     "score": 6.5,
     "score_label": "Good",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Sun, 30 Aug 2026 14:00:32 +0000"
   },
   {
@@ -276,7 +318,7 @@
     "score": 6.5,
     "score_label": "Good",
     "status": "NEW",
-    "why_it_matters": null,
+    "why_it_matters": "A 25% bonus means 1,000 transferable points become 1,250 partner points.",
     "published": "Mon, 24 Aug 2026 13:45:52 +0000"
   },
   {
@@ -290,7 +332,7 @@
     "score": 6.5,
     "score_label": "Good",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
@@ -303,8 +345,8 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "status": null,
+    "why_it_matters": null,
     "published": "Mon, 31 Aug 2026 01:20:45 +0000"
   },
   {
@@ -318,7 +360,7 @@
     "score": 6.0,
     "score_label": "Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 23 Aug 2026 22:11:38 +0000"
   },
   {
@@ -332,7 +374,7 @@
     "score": 6.0,
     "score_label": "Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 23 Aug 2026 22:30:11 +0000"
   },
   {
@@ -346,7 +388,7 @@
     "score": 6.0,
     "score_label": "Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sat, 22 Aug 2026 15:30:04 +0000"
   },
   {
@@ -360,7 +402,7 @@
     "score": 6.0,
     "score_label": "Good",
     "status": null,
-    "why_it_matters": "This is effectively a 12% rebate before any loyalty earnings, cashback portals, or credit card rewards.",
+    "why_it_matters": "That's an effective 12.5% rebate when you meet the $2,000 spend requirement.",
     "published": "Wed, 19 Aug 2026 19:45:43 +0000"
   },
   {
@@ -374,7 +416,7 @@
     "score": 6.0,
     "score_label": "Good",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
@@ -388,8 +430,22 @@
     "score": 5.5,
     "score_label": "Standard",
     "status": "NEW",
-    "why_it_matters": "This Amex Offer provides a meaningful rebate that may stack with loyalty program rewards.",
+    "why_it_matters": null,
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
+  },
+  {
+    "id": 242,
+    "source": "Doctor of Credit",
+    "title": "NinjaTrader (Futures Trading): $50-$250 Bonus When You Deposit $250-$2,500+",
+    "url": "https://www.doctorofcredit.com/ninjatrader-futures-trading-50-250-bonus-when-you-deposit-250-2500/",
+    "offer_type": "promo",
+    "headline": "$250 Value",
+    "summary": "Promo: $250 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 01 Sep 2026 15:00:27 +0000"
   },
   {
     "id": 238,
@@ -401,8 +457,8 @@
     "summary": "Promo: $15 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "status": null,
+    "why_it_matters": null,
     "published": "Sun, 30 Aug 2026 15:30:43 +0000"
   },
   {
@@ -415,8 +471,8 @@
     "summary": "Promo: $85 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "status": null,
+    "why_it_matters": null,
     "published": "Sun, 30 Aug 2026 16:00:51 +0000"
   },
   {
@@ -429,8 +485,8 @@
     "summary": "Promo: $300 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "status": null,
+    "why_it_matters": null,
     "published": "Sun, 30 Aug 2026 17:00:02 +0000"
   },
   {
@@ -443,8 +499,8 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "status": null,
+    "why_it_matters": null,
     "published": "Sun, 30 Aug 2026 19:34:31 +0000"
   },
   {
@@ -458,7 +514,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Thu, 27 Aug 2026 21:27:52 +0000"
   },
   {
@@ -472,7 +528,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Wed, 26 Aug 2026 15:00:33 +0000"
   },
   {
@@ -486,7 +542,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Wed, 26 Aug 2026 15:05:12 +0000"
   },
   {
@@ -500,7 +556,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Mon, 24 Aug 2026 20:50:58 +0000"
   },
   {
@@ -514,7 +570,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Sun, 23 Aug 2026 22:06:58 +0000"
   },
   {
@@ -528,7 +584,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 21:04:56 +0000"
   },
   {
@@ -542,7 +598,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 00:00:01 +0000"
   },
   {
@@ -556,7 +612,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 15:00:00 +0000"
   },
   {
@@ -570,7 +626,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 15:30:55 +0000"
   },
   {
@@ -584,7 +640,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Tue, 18 Aug 2026 20:45:54 +0000"
   },
   {
@@ -598,7 +654,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Tue, 18 Aug 2026 20:46:07 +0000"
   },
   {
@@ -612,7 +668,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Sat, 29 Aug 2026 11:30:44 +0000"
   },
   {
@@ -626,7 +682,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Thu, 13 Aug 2026 22:45:38 +0000"
   },
   {
@@ -640,7 +696,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Fri, 14 Aug 2026 15:00:23 +0000"
   },
   {
@@ -654,7 +710,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Fri, 14 Aug 2026 19:09:59 +0000"
   },
   {
@@ -668,7 +724,7 @@
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "This promotion may provide above-average value compared to typical cashback or rewards offers.",
+    "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
   },
   {
@@ -682,7 +738,7 @@
     "score": 4.0,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 23 Aug 2026 23:03:08 +0000"
   },
   {
@@ -696,7 +752,7 @@
     "score": 4.0,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 22:00:58 +0000"
   },
   {
@@ -710,7 +766,7 @@
     "score": 4.0,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sat, 15 Aug 2026 23:15:09 +0000"
   },
   {
@@ -724,7 +780,7 @@
     "score": 4.0,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 00:30:59 +0000"
   },
   {
@@ -738,7 +794,7 @@
     "score": 4.0,
     "score_label": "Standard",
     "status": null,
-    "why_it_matters": "Bank bonuses can be one of the easiest ways to earn cash if you can meet the account requirements.",
+    "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 14:00:47 +0000"
   }
 ]

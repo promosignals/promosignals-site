@@ -37,7 +37,7 @@
     "summary": "Amex Offer: spend $300, get $100 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 33.3% rebate when you meet the $300 spend requirement.",
     "published": "Tue, 01 Sep 2026 23:45:57 +0000"
   },
@@ -51,7 +51,7 @@
     "summary": "Amex Offer: spend $19.95, get $15 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 75.2% rebate when you meet the $19.95 spend requirement.",
     "published": "Tue, 01 Sep 2026 22:19:13 +0000"
   },
@@ -98,20 +98,6 @@
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
   },
   {
-    "id": 274,
-    "source": "Frequent Miler",
-    "title": "Get a 30% transfer bonus from Amex Membership Rewards to Hilton Honors",
-    "url": "https://frequentmiler.com/amex-membership-rewards-hilton-honors-30-percent-transfer-bonus/",
-    "offer_type": "transfer",
-    "headline": "30% Transfer Bonus",
-    "summary": "Transfer bonus: 30%",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": "NEW",
-    "why_it_matters": "A 30% bonus means 1,000 transferable points become 1,300 partner points.",
-    "published": "Tue, 01 Sep 2026 19:45:12 +0000"
-  },
-  {
     "id": 265,
     "source": "Doctor of Credit",
     "title": "Capital One Transfer Bonus: 30% Japan Airlines (1,000:975)",
@@ -121,7 +107,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "A 30% bonus means 1,000 transferable points become 1,300 partner points.",
     "published": "Tue, 01 Sep 2026 20:37:11 +0000"
   },
@@ -135,7 +121,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "A 30% bonus means 1,000 transferable points become 1,300 partner points.",
     "published": "Tue, 01 Sep 2026 20:46:38 +0000"
   },
@@ -152,20 +138,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 31 Aug 2026 00:05:40 +0000"
-  },
-  {
-    "id": 232,
-    "source": "Doctor of Credit",
-    "title": "[NY, OH, IN, PA] Northwest Bank $400/$600 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/pa-northwest-bank-160-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$600 Bank Bonus",
-    "summary": "Bank bonus: $600",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Mon, 31 Aug 2026 04:50:03 +0000"
   },
   {
     "id": 148,
@@ -210,6 +182,20 @@
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
   },
   {
+    "id": 282,
+    "source": "Doctor of Credit",
+    "title": "Bank of America $100-$500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/bank-of-america-100-500-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 02 Sep 2026 21:10:47 +0000"
+  },
+  {
     "id": 260,
     "source": "Doctor of Credit",
     "title": "[NH, MA, RI, CT, DE, NY, NJ, PA, or FL, Inbranch] Santander $300-$500 Checking Bonus",
@@ -219,7 +205,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 00:15:49 +0000"
   },
@@ -233,7 +219,7 @@
     "summary": "Bank APY: 6% APY",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 14:00:52 +0000"
   },
@@ -250,6 +236,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 01 Sep 2026 02:20:52 +0000"
+  },
+  {
+    "id": 232,
+    "source": "Doctor of Credit",
+    "title": "[NY, OH, IN, PA] Northwest Bank $400/$600 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/pa-northwest-bank-160-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$600 Bank Bonus",
+    "summary": "Bank bonus: $600",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 31 Aug 2026 04:50:03 +0000"
   },
   {
     "id": 222,
@@ -350,6 +350,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 290,
+    "source": "Frequent Miler",
+    "title": "Caesars Chase Offer: 10% back on up to $500 spend",
+    "url": "https://frequentmiler.com/caesars-chase-offer-10-back-up-to-50-stack-with-amex-offer/",
+    "offer_type": "promo",
+    "headline": "10% Back, $500 Value",
+    "summary": "Promo: 10% back, $500 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 02 Sep 2026 21:45:23 +0000"
+  },
+  {
     "id": 231,
     "source": "Doctor of Credit",
     "title": "Best Posts Last Week: New Transfer Partner, Increased Delta Offers & Expired $3,000 Bonus",
@@ -415,7 +429,7 @@
     "summary": "Amex Offer: spend $30, get $5 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 16.7% rebate when you meet the $30 spend requirement.",
     "published": "Tue, 01 Sep 2026 21:41:42 +0000"
   },
@@ -518,6 +532,48 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 283,
+    "source": "Doctor of Credit",
+    "title": "U.S. Bank Smartly Card: Get $10 + $5 Off Uber Rides (9/13-12/31)",
+    "url": "https://www.doctorofcredit.com/u-s-bank-smartly-card-get-10-5-off-uber-rides-9-13-12-31/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 02 Sep 2026 18:57:08 +0000"
+  },
+  {
+    "id": 278,
+    "source": "Doctor of Credit",
+    "title": "Topcashback: Get $2.50 Bonus With $20 Spend (9/3-9/4)",
+    "url": "https://www.doctorofcredit.com/topcashback-get-3-bonus-when-you-spend-10-today-only/",
+    "offer_type": "promo",
+    "headline": "$2.50 Value",
+    "summary": "Promo: $2.50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 03 Sep 2026 10:45:56 +0000"
+  },
+  {
+    "id": 277,
+    "source": "Doctor of Credit",
+    "title": "Citi Offers: Get 15% Back At Stop & Shop, Giant (2x; $10 Max Cashback)",
+    "url": "https://www.doctorofcredit.com/citi-offers-get-4-back-at-giant-stop-30-max-cashback/",
+    "offer_type": "promo",
+    "headline": "15% Back, $10 Value",
+    "summary": "Promo: 15% back, $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 03 Sep 2026 12:00:48 +0000"
+  },
+  {
     "id": 266,
     "source": "Frequent Miler",
     "title": "Citi Travel promo: Get $75 off $400+ hotel stay, stack with other hotel credits",
@@ -527,7 +583,7 @@
     "summary": "Promo: $75 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 14:45:03 +0000"
   },

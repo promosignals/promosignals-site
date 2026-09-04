@@ -28,6 +28,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 297,
+    "source": "Doctor of Credit",
+    "title": "[Ends Soon] Chase INK Cash & INK Unlimited 100,000 Points Signup Bonus",
+    "url": "https://www.doctorofcredit.com/chase-ink-cash-ink-unlimited-100000-points-signup-bonus-starts-june-15th/",
+    "offer_type": "credit_card",
+    "headline": "100,000 Points",
+    "summary": "Credit card offer: 100,000 points",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "This 100,000-point offer is 25,000 points above the card's 75,000-point baseline, a 33.3% increase.",
+    "published": "Thu, 03 Sep 2026 19:30:01 +0000"
+  },
+  {
     "id": 270,
     "source": "Frequent Miler",
     "title": "Small Luxury Hotels of the World (SLH) Amex Offer: Get $100 back on $300 spend",
@@ -96,6 +110,20 @@
     "status": null,
     "why_it_matters": "That's an effective 100% rebate when you meet the $250 spend requirement.",
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
+  },
+  {
+    "id": 309,
+    "source": "Frequent Miler",
+    "title": "Avios Cards (British Airways, Iberia, Aer Lingus): Increased 90K Welcome Offers",
+    "url": "https://frequentmiler.com/avios-cards-british-airways-iberia-aer-lingus-increased-90k-welcome-offers/",
+    "offer_type": "credit_card",
+    "headline": "90,000 Points",
+    "summary": "Credit card offer: 90,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 03 Sep 2026 17:46:31 +0000"
   },
   {
     "id": 265,
@@ -191,7 +219,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 21:10:47 +0000"
   },
@@ -359,7 +387,7 @@
     "summary": "Promo: 10% back, $500 value",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 21:45:23 +0000"
   },
@@ -490,20 +518,6 @@
     "published": "Sat, 22 Aug 2026 15:30:04 +0000"
   },
   {
-    "id": 107,
-    "source": "Frequent Miler",
-    "title": "Delta Amex Offer: Spend $2K & get $250 back when booking through Amex Travel™",
-    "url": "https://frequentmiler.com/delta-amex-offer-spend-2k-get-250-back-when-booking-through-amex-travel/",
-    "offer_type": "amex_offer",
-    "headline": "$250 Back on $2,000 Spend",
-    "summary": "Amex Offer: spend $2,000, get $250 back",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": "That's an effective 12.5% rebate when you meet the $2,000 spend requirement.",
-    "published": "Wed, 19 Aug 2026 19:45:43 +0000"
-  },
-  {
     "id": 60,
     "source": "Doctor of Credit",
     "title": "[OK] Sovereign Bank $250 Checking Bonus",
@@ -532,6 +546,48 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 306,
+    "source": "Frequent Miler",
+    "title": "American Express Rewards Checking: $300 bonus for new customers",
+    "url": "https://frequentmiler.com/ameircan-express-rewards-checking-bonus-for-new-customers/",
+    "offer_type": "promo",
+    "headline": "$300 Value",
+    "summary": "Promo: $300 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 03 Sep 2026 21:45:23 +0000"
+  },
+  {
+    "id": 301,
+    "source": "Doctor of Credit",
+    "title": "(Ends Soon) Paze: Get Free $100 Back *Per Card* (10 x $10)",
+    "url": "https://www.doctorofcredit.com/paze-get-free-100-back-per-card-10-x-10/",
+    "offer_type": "promo",
+    "headline": "$100 Value",
+    "summary": "Promo: $100 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 03 Sep 2026 17:31:23 +0000"
+  },
+  {
+    "id": 299,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers: Get 15% Back On Home Improvement Stores (Max $50 Cashback)",
+    "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-on-home-improvement-stores/",
+    "offer_type": "promo",
+    "headline": "15% Back, $50 Value",
+    "summary": "Promo: 15% back, $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 03 Sep 2026 19:10:12 +0000"
+  },
+  {
     "id": 283,
     "source": "Doctor of Credit",
     "title": "U.S. Bank Smartly Card: Get $10 + $5 Off Uber Rides (9/13-12/31)",
@@ -541,7 +597,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
   },
@@ -555,21 +611,21 @@
     "summary": "Promo: $2.50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 10:45:56 +0000"
   },
   {
     "id": 277,
     "source": "Doctor of Credit",
-    "title": "Citi Offers: Get 15% Back At Stop & Shop, Giant (2x; $10 Max Cashback)",
+    "title": "Citi/Chase Offers: Get Up To 15% Back At Stop & Shop, Giant (2x; $10 Max Cashback)",
     "url": "https://www.doctorofcredit.com/citi-offers-get-4-back-at-giant-stop-30-max-cashback/",
     "offer_type": "promo",
     "headline": "15% Back, $10 Value",
     "summary": "Promo: 15% back, $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 12:00:48 +0000"
   },
@@ -740,20 +796,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 21:04:56 +0000"
-  },
-  {
-    "id": 114,
-    "source": "Doctor of Credit",
-    "title": "Best Western: Purchase $100 Giftcard & Get $20 Bonus Card",
-    "url": "https://www.doctorofcredit.com/best-western-purchase-100-giftcard-get-20-bonus-card-3/",
-    "offer_type": "promo",
-    "headline": "$20 Value",
-    "summary": "Promo: $20 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 21 Aug 2026 00:00:01 +0000"
   },
   {
     "id": 110,

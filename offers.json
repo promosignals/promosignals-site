@@ -37,7 +37,7 @@
     "summary": "Credit card offer: 100,000 points",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": "ABOVE NORMAL",
     "why_it_matters": "This 100,000-point offer is 25,000 points above the card's 75,000-point baseline, a 33.3% increase.",
     "published": "Thu, 03 Sep 2026 19:30:01 +0000"
   },
@@ -121,7 +121,7 @@
     "summary": "Credit card offer: 90,000 points",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 17:46:31 +0000"
   },
@@ -208,6 +208,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 310,
+    "source": "Doctor of Credit",
+    "title": "[PA Only] Clearview Credit Union $412 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/pa-only-clearview-credit-union-412-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$412 Bank Bonus",
+    "summary": "Bank bonus: $412",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 05 Sep 2026 14:30:25 +0000"
   },
   {
     "id": 282,
@@ -448,6 +462,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 326,
+    "source": "Frequent Miler",
+    "title": "Airbnb Amex Offers: $30 back when you spend $250+ or 15% back up to $30 (targeted)",
+    "url": "https://frequentmiler.com/airbnb-amex-offers-30-back-when-you-spend-250-or-15-back-up-to-30-targeted/",
+    "offer_type": "amex_offer",
+    "headline": "$30 Back on $250 Spend",
+    "summary": "Amex Offer: spend $250, get $30 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 12% rebate when you meet the $250 spend requirement.",
+    "published": "Fri, 04 Sep 2026 15:45:33 +0000"
+  },
+  {
     "id": 263,
     "source": "Doctor of Credit",
     "title": "Amex Offers: Chevron, Texaco, Spend $30 & Get $5, Must Use App Or Pay At Pump",
@@ -546,6 +574,76 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 324,
+    "source": "Frequent Miler",
+    "title": "Get up to $100 back on every eligible card through Paze (last week)",
+    "url": "https://frequentmiler.com/get-up-to-100-back-on-every-visa-card-through-paze-10-back-on-10-up-to-100-back-per-card-stack-with-extra-points/",
+    "offer_type": "promo",
+    "headline": "$100 Value",
+    "summary": "Promo: $100 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 04 Sep 2026 19:00:07 +0000"
+  },
+  {
+    "id": 318,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] Ibotta: Sign Up For Espolòn E-mails & Get $2 Bonus",
+    "url": "https://www.doctorofcredit.com/ymmv-ibotta-sign-up-for-espolon-e-mails-get-2-bonus/",
+    "offer_type": "promo",
+    "headline": "$2 Value",
+    "summary": "Promo: $2 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 04 Sep 2026 20:48:22 +0000"
+  },
+  {
+    "id": 316,
+    "source": "Doctor of Credit",
+    "title": "Amazon: $25 Credit When You Purchase $100 of Baby Care Items (Diapers, Wipes, Sunscreen, Desitin, etc)",
+    "url": "https://www.doctorofcredit.com/amazon-25-credit-when-you-purchase-100-of-baby-care-items-diapers-wipes-sunscreen-desitin-etc/",
+    "offer_type": "promo",
+    "headline": "$25 Value",
+    "summary": "Promo: $25 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 04 Sep 2026 21:20:50 +0000"
+  },
+  {
+    "id": 313,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Venmo: Google Play – Spend $5, Get $5 Back",
+    "url": "https://www.doctorofcredit.com/targeted-venmo-google-play-spend-5-get-5-back/",
+    "offer_type": "promo",
+    "headline": "$5 Value",
+    "summary": "Promo: $5 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 04 Sep 2026 23:24:00 +0000"
+  },
+  {
+    "id": 312,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Gemini: 50% Bonus On Prediction Markets Up To $50",
+    "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
+    "offer_type": "promo",
+    "headline": "50% Back, $50 Value",
+    "summary": "Promo: 50% back, $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 05 Sep 2026 00:36:10 +0000"
+  },
+  {
     "id": 306,
     "source": "Frequent Miler",
     "title": "American Express Rewards Checking: $300 bonus for new customers",
@@ -555,7 +653,7 @@
     "summary": "Promo: $300 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 21:45:23 +0000"
   },
@@ -569,7 +667,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 17:31:23 +0000"
   },
@@ -583,7 +681,7 @@
     "summary": "Promo: 15% back, $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 19:10:12 +0000"
   },
@@ -625,7 +723,7 @@
     "summary": "Promo: 15% back, $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 12:00:48 +0000"
   },

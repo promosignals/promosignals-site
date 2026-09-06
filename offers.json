@@ -58,16 +58,16 @@
   {
     "id": 262,
     "source": "Doctor of Credit",
-    "title": "[Targeted] AmEx Offers: Sling TV, Spend $19.95+ & Receive $15 Statement Credit (Limit 2)",
+    "title": "[Targeted] AmEx Offers: Sling TV, Spend $19.95+ & Receive $15 Statement Credit (Limit 2) + 45x On Rakuten",
     "url": "https://www.doctorofcredit.com/targeted-amex-offers-sling-tv-spend-19-95-receive-15-statement-credit-limit-2/",
     "offer_type": "amex_offer",
     "headline": "$15 Back on $19.95 Spend",
     "summary": "Amex Offer: spend $19.95, get $15 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "That's an effective 75.2% rebate when you meet the $19.95 spend requirement.",
-    "published": "Tue, 01 Sep 2026 22:19:13 +0000"
+    "published": "Sun, 06 Sep 2026 10:00:13 +0000"
   },
   {
     "id": 101,
@@ -154,20 +154,6 @@
     "published": "Tue, 01 Sep 2026 20:46:38 +0000"
   },
   {
-    "id": 234,
-    "source": "Doctor of Credit",
-    "title": "Staples: 100% Back In Points On Sharpie Products, Up To $40",
-    "url": "https://www.doctorofcredit.com/staples-100-back-in-points-on-sharpie-products-up-to-40/",
-    "offer_type": "promo",
-    "headline": "100% Back, $40 Value",
-    "summary": "Promo: 100% back, $40 value",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 31 Aug 2026 00:05:40 +0000"
-  },
-  {
     "id": 148,
     "source": "Doctor of Credit",
     "title": "[New 10% APY Account, Up To $1,000][Expired] [NM, CA, AZ, TX, CO] Sunward $225 Checking Bonus",
@@ -196,6 +182,20 @@
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
   },
   {
+    "id": 335,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offers: Platinum Member Airfares, Spend $1,000+ & Receive $200 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offers-platinum-member-airfares-spend-1000-receive-200-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$200 Back on $1,000 Spend",
+    "summary": "Amex Offer: spend $1,000, get $200 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
+    "published": "Sat, 05 Sep 2026 16:45:07 +0000"
+  },
+  {
     "id": 185,
     "source": "Frequent Miler",
     "title": "Lufthansa Group Amex Offer: Spend $1K+ via Amex Travel & get $200 back",
@@ -210,6 +210,20 @@
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
   },
   {
+    "id": 333,
+    "source": "Doctor of Credit",
+    "title": "[IA] Maxx: by Cedar Rapids Bank & Trust: $425 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/maxx-by-cedar-rapids-bank-trust-333-checking-bonus-available-nationwide/",
+    "offer_type": "bank",
+    "headline": "$425 Bank Bonus",
+    "summary": "Bank bonus: $425",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 05 Sep 2026 18:00:50 +0000"
+  },
+  {
     "id": 310,
     "source": "Doctor of Credit",
     "title": "[PA Only] Clearview Credit Union $412 Checking Bonus, Direct Deposit Not Required",
@@ -219,7 +233,7 @@
     "summary": "Bank bonus: $412",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 05 Sep 2026 14:30:25 +0000"
   },
@@ -462,6 +476,48 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 334,
+    "source": "Doctor of Credit",
+    "title": "[TN only] SouthEast Bank $250/$300 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/tn-only-southeast-bank-100-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 05 Sep 2026 17:00:15 +0000"
+  },
+  {
+    "id": 331,
+    "source": "Doctor of Credit",
+    "title": "[OR, CA, NV] Sage Credit Union $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/or-ca-nv-sage-credit-union-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 05 Sep 2026 19:15:01 +0000"
+  },
+  {
+    "id": 330,
+    "source": "Doctor of Credit",
+    "title": "[Targeted – NC & VA] Langley Federal Credit Union $300 Checking & $250 Savings Bonus",
+    "url": "https://www.doctorofcredit.com/targeted-nc-va-langley-federal-credit-union-300-checking-250-savings-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 06 Sep 2026 13:00:10 +0000"
+  },
+  {
     "id": 326,
     "source": "Frequent Miler",
     "title": "Airbnb Amex Offers: $30 back when you spend $250+ or 15% back up to $30 (targeted)",
@@ -471,7 +527,7 @@
     "summary": "Amex Offer: spend $250, get $30 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 12% rebate when you meet the $250 spend requirement.",
     "published": "Fri, 04 Sep 2026 15:45:33 +0000"
   },
@@ -583,7 +639,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 04 Sep 2026 19:00:07 +0000"
   },
@@ -597,7 +653,7 @@
     "summary": "Promo: $2 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 04 Sep 2026 20:48:22 +0000"
   },
@@ -611,7 +667,7 @@
     "summary": "Promo: $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 04 Sep 2026 21:20:50 +0000"
   },
@@ -625,7 +681,7 @@
     "summary": "Promo: $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 04 Sep 2026 23:24:00 +0000"
   },
@@ -639,7 +695,7 @@
     "summary": "Promo: 50% back, $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 05 Sep 2026 00:36:10 +0000"
   },
@@ -723,7 +779,7 @@
     "summary": "Promo: 15% back, $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 12:00:48 +0000"
   },
@@ -754,20 +810,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 01 Sep 2026 15:00:27 +0000"
-  },
-  {
-    "id": 238,
-    "source": "Doctor of Credit",
-    "title": "Office Depot/Max Stores: Buy $300 In Mastercard Giftcards & Get $15 Instant Discount (8/30-9/5)",
-    "url": "https://www.doctorofcredit.com/office-depot-max-stores-buy-300-in-mastercard-giftcards-get-15-instant-discount-2-13-2-19/",
-    "offer_type": "promo",
-    "headline": "$15 Value",
-    "summary": "Promo: $15 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 30 Aug 2026 15:30:43 +0000"
   },
   {
     "id": 237,

@@ -65,7 +65,7 @@
     "summary": "Amex Offer: spend $19.95, get $15 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 75.2% rebate when you meet the $19.95 spend requirement.",
     "published": "Sun, 06 Sep 2026 10:00:13 +0000"
   },
@@ -191,7 +191,7 @@
     "summary": "Amex Offer: spend $1,000, get $200 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Sat, 05 Sep 2026 16:45:07 +0000"
   },
@@ -210,6 +210,48 @@
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
   },
   {
+    "id": 343,
+    "source": "Doctor of Credit",
+    "title": "[WI + IL, In Branch Only] Northshore Bank $500 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wi-il-in-branch-only-northshore-bank-500-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 06 Sep 2026 18:00:08 +0000"
+  },
+  {
+    "id": 342,
+    "source": "Doctor of Credit",
+    "title": "[CO Only] Elevations Credit Union $500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/elevations-credit-union-350-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 06 Sep 2026 18:30:16 +0000"
+  },
+  {
+    "id": 341,
+    "source": "Doctor of Credit",
+    "title": "[MO] Guaranty Bank $500 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/mo-guaranty-bank-500-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 06 Sep 2026 19:00:12 +0000"
+  },
+  {
     "id": 333,
     "source": "Doctor of Credit",
     "title": "[IA] Maxx: by Cedar Rapids Bank & Trust: $425 Checking Bonus",
@@ -219,7 +261,7 @@
     "summary": "Bank bonus: $425",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 05 Sep 2026 18:00:50 +0000"
   },
@@ -406,6 +448,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 337,
+    "source": "Doctor of Credit",
+    "title": "Best Posts Last Week: Bank of America $625 Bonus, 10% Off Visa Giftcards & More",
+    "url": "https://www.doctorofcredit.com/best-posts-last-week-bank-of-america-625-bonus-10-off-visa-giftcards-more/",
+    "offer_type": "promo",
+    "headline": "10% Back, $625 Value",
+    "summary": "Promo: 10% back, $625 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 07 Sep 2026 13:00:55 +0000"
+  },
+  {
     "id": 290,
     "source": "Frequent Miler",
     "title": "Caesars Chase Offer: 10% back on up to $500 spend",
@@ -485,7 +541,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 05 Sep 2026 17:00:15 +0000"
   },
@@ -499,7 +555,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 05 Sep 2026 19:15:01 +0000"
   },
@@ -513,7 +569,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 06 Sep 2026 13:00:10 +0000"
   },
@@ -628,6 +684,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
+  },
+  {
+    "id": 336,
+    "source": "Doctor of Credit",
+    "title": "Spruce Money (Fintech) $100 Bonus",
+    "url": "https://www.doctorofcredit.com/spruce-money-fintech-100-bonus/",
+    "offer_type": "promo",
+    "headline": "$100 Value",
+    "summary": "Promo: $100 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 07 Sep 2026 14:00:04 +0000"
   },
   {
     "id": 324,
@@ -1062,6 +1132,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
+  },
+  {
+    "id": 340,
+    "source": "Doctor of Credit",
+    "title": "[MS] Members Exchange Federal Credit Union $200 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ms-members-exchange-federal-credit-union-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 06 Sep 2026 20:00:14 +0000"
   },
   {
     "id": 147,

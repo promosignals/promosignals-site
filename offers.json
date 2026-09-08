@@ -219,7 +219,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 06 Sep 2026 18:00:08 +0000"
   },
@@ -233,7 +233,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 06 Sep 2026 18:30:16 +0000"
   },
@@ -247,7 +247,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 06 Sep 2026 19:00:12 +0000"
   },
@@ -420,20 +420,6 @@
     "published": "Thu, 20 Aug 2026 15:00:55 +0000"
   },
   {
-    "id": 64,
-    "source": "Doctor of Credit",
-    "title": "[CT, DE, MA, MI, NH, NJ, NY, OH, PA, RI, VT, VA, D.C., MD, FL] Citizens Bank $500 Savings Account Bonus With $30,000 Deposit",
-    "url": "https://www.doctorofcredit.com/ymmvct-de-ma-mi-nh-nj-ny-oh-pa-ri-vt-va-d-c-md-fl-citizens-bank-500-savings-account-bonus-with-10000-deposit/",
-    "offer_type": "bank",
-    "headline": "$500 Bank Bonus with $30,000 Deposit",
-    "summary": "Bank bonus: $500 with $30,000 deposit",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": "The $500 bonus is equivalent to about 1.7% of the $30,000 deposit requirement, before considering how long the funds must remain deposited.",
-    "published": "Sun, 16 Aug 2026 18:15:22 +0000"
-  },
-  {
     "id": 59,
     "source": "Doctor of Credit",
     "title": "[AR, TN] First National Bank $200-$500 Checking Bonus",
@@ -448,20 +434,6 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
-    "id": 337,
-    "source": "Doctor of Credit",
-    "title": "Best Posts Last Week: Bank of America $625 Bonus, 10% Off Visa Giftcards & More",
-    "url": "https://www.doctorofcredit.com/best-posts-last-week-bank-of-america-625-bonus-10-off-visa-giftcards-more/",
-    "offer_type": "promo",
-    "headline": "10% Back, $625 Value",
-    "summary": "Promo: 10% back, $625 value",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": "NEW",
-    "why_it_matters": null,
-    "published": "Mon, 07 Sep 2026 13:00:55 +0000"
-  },
-  {
     "id": 290,
     "source": "Frequent Miler",
     "title": "Caesars Chase Offer: 10% back on up to $500 spend",
@@ -474,20 +446,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 21:45:23 +0000"
-  },
-  {
-    "id": 231,
-    "source": "Doctor of Credit",
-    "title": "Best Posts Last Week: New Transfer Partner, Increased Delta Offers & Expired $3,000 Bonus",
-    "url": "https://www.doctorofcredit.com/best-posts-last-week-new-transfer-partner-increased-delta-offers-expired-3000-bonus/",
-    "offer_type": "promo",
-    "headline": "$3,000 Value",
-    "summary": "Promo: $3,000 value",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 31 Aug 2026 13:00:41 +0000"
   },
   {
     "id": 226,
@@ -672,6 +630,20 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
+    "id": 316,
+    "source": "Doctor of Credit",
+    "title": "Amazon: $45 Credit When You Purchase $100 of Baby Care Items (Diapers, Wipes, Sunscreen, Desitin, etc)",
+    "url": "https://www.doctorofcredit.com/amazon-25-credit-when-you-purchase-100-of-baby-care-items-diapers-wipes-sunscreen-desitin-etc/",
+    "offer_type": "promo",
+    "headline": "$45 Value",
+    "summary": "Promo: $45 value",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Mon, 07 Sep 2026 19:05:50 +0000"
+  },
+  {
     "id": 210,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Allegiant Air, Spend $200/$250 & Get $50 Back",
@@ -686,6 +658,20 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 349,
+    "source": "Doctor of Credit",
+    "title": "(YMMV) Capital One Shopping: Get $300 With Squarespace Signup (Free With AmEx Business Gold)",
+    "url": "https://www.doctorofcredit.com/ymmv-capital-one-shopping-get-300-with-squarespace-signup-free-with-amex-business-gold/",
+    "offer_type": "promo",
+    "headline": "$300 Value",
+    "summary": "Promo: $300 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 07 Sep 2026 17:25:14 +0000"
+  },
+  {
     "id": 336,
     "source": "Doctor of Credit",
     "title": "Spruce Money (Fintech) $100 Bonus",
@@ -695,7 +681,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 07 Sep 2026 14:00:04 +0000"
   },
@@ -726,20 +712,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 04 Sep 2026 20:48:22 +0000"
-  },
-  {
-    "id": 316,
-    "source": "Doctor of Credit",
-    "title": "Amazon: $25 Credit When You Purchase $100 of Baby Care Items (Diapers, Wipes, Sunscreen, Desitin, etc)",
-    "url": "https://www.doctorofcredit.com/amazon-25-credit-when-you-purchase-100-of-baby-care-items-diapers-wipes-sunscreen-desitin-etc/",
-    "offer_type": "promo",
-    "headline": "$25 Value",
-    "summary": "Promo: $25 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 04 Sep 2026 21:20:50 +0000"
   },
   {
     "id": 313,
@@ -824,20 +796,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
-  },
-  {
-    "id": 278,
-    "source": "Doctor of Credit",
-    "title": "Topcashback: Get $2.50 Bonus With $20 Spend (9/3-9/4)",
-    "url": "https://www.doctorofcredit.com/topcashback-get-3-bonus-when-you-spend-10-today-only/",
-    "offer_type": "promo",
-    "headline": "$2.50 Value",
-    "summary": "Promo: $2.50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 03 Sep 2026 10:45:56 +0000"
   },
   {
     "id": 277,
@@ -1143,7 +1101,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 06 Sep 2026 20:00:14 +0000"
   },

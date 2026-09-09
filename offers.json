@@ -28,6 +28,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 370,
+    "source": "Frequent Miler",
+    "title": "Marriott Amex Offer: Spend $450 & get $200 back (targeted)",
+    "url": "https://frequentmiler.com/marriott-amex-offer-spend-450-get-200-back-targeted/",
+    "offer_type": "amex_offer",
+    "headline": "$200 Back on $450 Spend",
+    "summary": "Amex Offer: spend $450, get $200 back",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 44.4% rebate when you meet the $450 spend requirement.",
+    "published": "Tue, 08 Sep 2026 19:45:13 +0000"
+  },
+  {
     "id": 297,
     "source": "Doctor of Credit",
     "title": "[Ends Soon] Chase INK Cash & INK Unlimited 100,000 Points Signup Bonus",
@@ -490,6 +504,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 361,
+    "source": "Doctor of Credit",
+    "title": "Live Oak Bank $300 Savings Bonus (New & Existing Customers)",
+    "url": "https://www.doctorofcredit.com/live-oak-bank-300-savings-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 08 Sep 2026 18:30:21 +0000"
+  },
+  {
     "id": 334,
     "source": "Doctor of Credit",
     "title": "[TN only] SouthEast Bank $250/$300 Checking Bonus",
@@ -630,18 +658,18 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
-    "id": 316,
+    "id": 363,
     "source": "Doctor of Credit",
-    "title": "Amazon: $45 Credit When You Purchase $100 of Baby Care Items (Diapers, Wipes, Sunscreen, Desitin, etc)",
-    "url": "https://www.doctorofcredit.com/amazon-25-credit-when-you-purchase-100-of-baby-care-items-diapers-wipes-sunscreen-desitin-etc/",
-    "offer_type": "promo",
-    "headline": "$45 Value",
-    "summary": "Promo: $45 value",
+    "title": "[Targeted] AmEx Offers: Marriott, Spend $300/$450 & Get $150/$200 Back",
+    "url": "https://www.doctorofcredit.com/amex-offers-marriott-spend-300-450-get-150-200-back/",
+    "offer_type": "amex_offer",
+    "headline": "Tiered/multiple dollar offer",
+    "summary": "Amex Offer: tiered/multiple dollar offer",
     "score": 5.5,
     "score_label": "Standard",
-    "status": "IMPROVED",
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Mon, 07 Sep 2026 19:05:50 +0000"
+    "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
     "id": 210,
@@ -658,6 +686,20 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 367,
+    "source": "Frequent Miler",
+    "title": "Avis Citi Offer: Get $30 back when spending $250+ on a rental",
+    "url": "https://frequentmiler.com/avis-citi-offer-get-30-back-when-spending-250-on-a-rental/",
+    "offer_type": "promo",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 08 Sep 2026 23:45:31 +0000"
+  },
+  {
     "id": 349,
     "source": "Doctor of Credit",
     "title": "(YMMV) Capital One Shopping: Get $300 With Squarespace Signup (Free With AmEx Business Gold)",
@@ -667,7 +709,7 @@
     "summary": "Promo: $300 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 07 Sep 2026 17:25:14 +0000"
   },
@@ -714,6 +756,20 @@
     "published": "Fri, 04 Sep 2026 20:48:22 +0000"
   },
   {
+    "id": 316,
+    "source": "Doctor of Credit",
+    "title": "Amazon: $45 Credit When You Purchase $100 of Baby Care Items (Diapers, Wipes, Sunscreen, Desitin, etc)",
+    "url": "https://www.doctorofcredit.com/amazon-25-credit-when-you-purchase-100-of-baby-care-items-diapers-wipes-sunscreen-desitin-etc/",
+    "offer_type": "promo",
+    "headline": "$45 Value",
+    "summary": "Promo: $45 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 07 Sep 2026 19:05:50 +0000"
+  },
+  {
     "id": 313,
     "source": "Doctor of Credit",
     "title": "[Targeted] Venmo: Google Play – Spend $5, Get $5 Back",
@@ -758,16 +814,16 @@
   {
     "id": 301,
     "source": "Doctor of Credit",
-    "title": "(Ends Soon) Paze: Get Free $100 Back *Per Card* (10 x $10)",
+    "title": "(Last Chance) Paze: Get Free $100 Back *Per Card* (10 x $10)",
     "url": "https://www.doctorofcredit.com/paze-get-free-100-back-per-card-10-x-10/",
     "offer_type": "promo",
     "headline": "$100 Value",
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Thu, 03 Sep 2026 17:31:23 +0000"
+    "published": "Tue, 08 Sep 2026 16:40:23 +0000"
   },
   {
     "id": 299,

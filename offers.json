@@ -28,6 +28,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 401,
+    "source": "Frequent Miler",
+    "title": "Chase Business Cards: Improved 100K welcome offers (last chance)",
+    "url": "https://frequentmiler.com/chase-business-cards-improved-100k-200k-welcome-offers-now-live/",
+    "offer_type": "credit_card",
+    "headline": "100,000 Points",
+    "summary": "Credit card offer: 100,000 points",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 10 Sep 2026 16:50:51 +0000"
+  },
+  {
     "id": 370,
     "source": "Frequent Miler",
     "title": "Marriott Amex Offer: Spend $450 & get $200 back (targeted)",
@@ -44,7 +58,7 @@
   {
     "id": 297,
     "source": "Doctor of Credit",
-    "title": "[Ends Soon] Chase INK Cash & INK Unlimited 100,000 Points Signup Bonus",
+    "title": "[Ends September 17th at 9am] Chase INK Cash & INK Unlimited 100,000 Points Signup Bonus",
     "url": "https://www.doctorofcredit.com/chase-ink-cash-ink-unlimited-100000-points-signup-bonus-starts-june-15th/",
     "offer_type": "credit_card",
     "headline": "100,000 Points",
@@ -135,7 +149,7 @@
     "summary": "Credit card offer: 75,000 points",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 09 Sep 2026 18:45:36 +0000"
   },
@@ -208,6 +222,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
+  },
+  {
+    "id": 349,
+    "source": "Doctor of Credit",
+    "title": "(YMMV) Capital One Shopping: Get $600 With Squarespace Signup (Free With AmEx Business Gold)",
+    "url": "https://www.doctorofcredit.com/ymmv-capital-one-shopping-get-300-with-squarespace-signup-free-with-amex-business-gold/",
+    "offer_type": "promo",
+    "headline": "$600 Value",
+    "summary": "Promo: $600 value",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Fri, 11 Sep 2026 02:00:14 +0000"
   },
   {
     "id": 335,
@@ -672,6 +700,20 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
+    "id": 394,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AA SimplyMiles: Spend $65 On AT&T Wireless & Earn 2,325 Miles",
+    "url": "https://www.doctorofcredit.com/targeted-aa-simplymiles-spend-65-on-att-wireless-earn-2325-miles/",
+    "offer_type": "promo",
+    "headline": "Earn 2,325 Points with $65 Spend",
+    "summary": "Promo: earn 2,325 points with $65 spend",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 11 Sep 2026 01:50:53 +0000"
+  },
+  {
     "id": 363,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Marriott, Spend $300/$450 & Get $150/$200 Back",
@@ -700,6 +742,34 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 393,
+    "source": "Doctor of Credit",
+    "title": "Capital One Offers: Use Any Offer & Get Additional $30 Bonus",
+    "url": "https://www.doctorofcredit.com/capital-one-offers-use-any-offer-get-additional-30-bonus/",
+    "offer_type": "promo",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 11 Sep 2026 02:29:24 +0000"
+  },
+  {
+    "id": 390,
+    "source": "Doctor of Credit",
+    "title": "Varo Money $300 Bonus Via Finder",
+    "url": "https://www.doctorofcredit.com/varo-money-300-bonus-via-finder/",
+    "offer_type": "promo",
+    "headline": "$300 Value",
+    "summary": "Promo: $300 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 11 Sep 2026 14:00:33 +0000"
+  },
+  {
     "id": 388,
     "source": "Frequent Miler",
     "title": "Best Western Chase Offer: Get 10% back on $100-$320 spend",
@@ -709,7 +779,7 @@
     "summary": "Promo: 10% back, $320 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 09 Sep 2026 17:45:42 +0000"
   },
@@ -728,20 +798,6 @@
     "published": "Tue, 08 Sep 2026 23:45:31 +0000"
   },
   {
-    "id": 349,
-    "source": "Doctor of Credit",
-    "title": "(YMMV) Capital One Shopping: Get $300 With Squarespace Signup (Free With AmEx Business Gold)",
-    "url": "https://www.doctorofcredit.com/ymmv-capital-one-shopping-get-300-with-squarespace-signup-free-with-amex-business-gold/",
-    "offer_type": "promo",
-    "headline": "$300 Value",
-    "summary": "Promo: $300 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 07 Sep 2026 17:25:14 +0000"
-  },
-  {
     "id": 336,
     "source": "Doctor of Credit",
     "title": "Spruce Money (Fintech) $100 Bonus",
@@ -758,16 +814,16 @@
   {
     "id": 324,
     "source": "Frequent Miler",
-    "title": "Get up to $100 back on every eligible card through Paze (last week)",
+    "title": "Get up to $100 back on every eligible card through Paze (last day)",
     "url": "https://frequentmiler.com/get-up-to-100-back-on-every-visa-card-through-paze-10-back-on-10-up-to-100-back-per-card-stack-with-extra-points/",
     "offer_type": "promo",
     "headline": "$100 Value",
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Fri, 04 Sep 2026 19:00:07 +0000"
+    "published": "Thu, 10 Sep 2026 19:46:31 +0000"
   },
   {
     "id": 318,
@@ -842,7 +898,7 @@
   {
     "id": 301,
     "source": "Doctor of Credit",
-    "title": "(Last Chance) Paze: Get Free $100 Back *Per Card* (10 x $10)",
+    "title": "(Last Day) Paze: Get Free $100 Back *Per Card* (10 x $10)",
     "url": "https://www.doctorofcredit.com/paze-get-free-100-back-per-card-10-x-10/",
     "offer_type": "promo",
     "headline": "$100 Value",

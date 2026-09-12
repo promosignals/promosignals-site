@@ -28,6 +28,34 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 414,
+    "source": "Frequent Miler",
+    "title": "Wells Fargo: $400 / $550 / $825 bonus for new business checking account (no direct deposit required)",
+    "url": "https://frequentmiler.com/wells-fargo-400-825-bonus-for-new-business-checking-account-no-direct-deposit-required/",
+    "offer_type": "bank",
+    "headline": "$825 Bank Bonus",
+    "summary": "Bank bonus: $825",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 11 Sep 2026 15:45:30 +0000"
+  },
+  {
+    "id": 403,
+    "source": "Doctor of Credit",
+    "title": "[LA, MS, FL, AL, TX] Hancock Whitney Bank $600/$1,000 Checking & Savings Bonus",
+    "url": "https://www.doctorofcredit.com/la-ms-fl-al-tx-hancock-whitney-bank-600-checking-savings-bonus/",
+    "offer_type": "bank",
+    "headline": "$1,000 Bank Bonus",
+    "summary": "Bank bonus: $1,000",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 12 Sep 2026 14:00:40 +0000"
+  },
+  {
     "id": 401,
     "source": "Frequent Miler",
     "title": "Chase Business Cards: Improved 100K welcome offers (last chance)",
@@ -37,7 +65,7 @@
     "summary": "Credit card offer: 100,000 points",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 10 Sep 2026 16:50:51 +0000"
   },
@@ -65,7 +93,7 @@
     "summary": "Credit card offer: 100,000 points",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "ABOVE NORMAL",
+    "status": "NEW",
     "why_it_matters": "This 100,000-point offer is 25,000 points above the card's 75,000-point baseline, a 33.3% increase.",
     "published": "Thu, 03 Sep 2026 19:30:01 +0000"
   },
@@ -224,20 +252,6 @@
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
   },
   {
-    "id": 349,
-    "source": "Doctor of Credit",
-    "title": "(YMMV) Capital One Shopping: Get $600 With Squarespace Signup (Free With AmEx Business Gold)",
-    "url": "https://www.doctorofcredit.com/ymmv-capital-one-shopping-get-300-with-squarespace-signup-free-with-amex-business-gold/",
-    "offer_type": "promo",
-    "headline": "$600 Value",
-    "summary": "Promo: $600 value",
-    "score": 7.5,
-    "score_label": "Very Good",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Fri, 11 Sep 2026 02:00:14 +0000"
-  },
-  {
     "id": 335,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Platinum Member Airfares, Spend $1,000+ & Receive $200 Statement Credit",
@@ -264,6 +278,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 413,
+    "source": "Frequent Miler",
+    "title": "Earn $450 bonus with a new US Bank checking account",
+    "url": "https://frequentmiler.com/earn-450-bonus-with-a-new-us-bank-checking-account/",
+    "offer_type": "bank",
+    "headline": "$450 Bank Bonus",
+    "summary": "Bank bonus: $450",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 11 Sep 2026 20:45:04 +0000"
   },
   {
     "id": 343,
@@ -490,6 +518,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 349,
+    "source": "Doctor of Credit",
+    "title": "(YMMV) Capital One Shopping: Get $600 With Squarespace Signup (Free With AmEx Business Gold)",
+    "url": "https://www.doctorofcredit.com/ymmv-capital-one-shopping-get-300-with-squarespace-signup-free-with-amex-business-gold/",
+    "offer_type": "promo",
+    "headline": "$600 Value",
+    "summary": "Promo: $600 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Fri, 11 Sep 2026 02:00:14 +0000"
+  },
+  {
     "id": 290,
     "source": "Frequent Miler",
     "title": "Caesars Chase Offer: 10% back on up to $500 spend",
@@ -709,7 +751,7 @@
     "summary": "Promo: earn 2,325 points with $65 spend",
     "score": 5.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 11 Sep 2026 01:50:53 +0000"
   },
@@ -751,7 +793,7 @@
     "summary": "Promo: $30 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 11 Sep 2026 02:29:24 +0000"
   },
@@ -765,7 +807,7 @@
     "summary": "Promo: $300 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 11 Sep 2026 14:00:33 +0000"
   },
@@ -821,7 +863,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 10 Sep 2026 19:46:31 +0000"
   },
@@ -905,7 +947,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": null,
     "published": "Tue, 08 Sep 2026 16:40:23 +0000"
   },

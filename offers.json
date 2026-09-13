@@ -37,7 +37,7 @@
     "summary": "Bank bonus: $825",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 11 Sep 2026 15:45:30 +0000"
   },
@@ -51,7 +51,7 @@
     "summary": "Bank bonus: $1,000",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 12 Sep 2026 14:00:40 +0000"
   },
@@ -93,7 +93,7 @@
     "summary": "Credit card offer: 100,000 points",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": "ABOVE NORMAL",
     "why_it_matters": "This 100,000-point offer is 25,000 points above the card's 75,000-point baseline, a 33.3% increase.",
     "published": "Thu, 03 Sep 2026 19:30:01 +0000"
   },
@@ -280,6 +280,20 @@
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
   },
   {
+    "id": 415,
+    "source": "Doctor of Credit",
+    "title": "[OR, ID, Northern CA] Rogue Credit Union $500 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/or-id-northern-ca-rogue-credit-union-500-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 13 Sep 2026 14:00:13 +0000"
+  },
+  {
     "id": 413,
     "source": "Frequent Miler",
     "title": "Earn $450 bonus with a new US Bank checking account",
@@ -289,7 +303,7 @@
     "summary": "Bank bonus: $450",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 11 Sep 2026 20:45:04 +0000"
   },
@@ -588,6 +602,76 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 420,
+    "source": "Doctor of Credit",
+    "title": "[CA, Select Counties] Valley Strong Credit Union $250 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/ca-select-counties-valley-strong-credit-union-250-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 12 Sep 2026 15:00:54 +0000"
+  },
+  {
+    "id": 419,
+    "source": "Doctor of Credit",
+    "title": "[DC, DE, PA, VA, WV, MD] SECU $350 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/dc-de-pa-va-wv-md-secu-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$350 Bank Bonus",
+    "summary": "Bank bonus: $350",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 12 Sep 2026 17:00:09 +0000"
+  },
+  {
+    "id": 418,
+    "source": "Doctor of Credit",
+    "title": "[WV, PA, OH, IN, KY, MD, In Branch] Wesbanco $300 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wv-pa-oh-in-ky-md-wesbanco-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 12 Sep 2026 18:00:13 +0000"
+  },
+  {
+    "id": 417,
+    "source": "Doctor of Credit",
+    "title": "[MA, ME, NH] Camden National Bank $300 Checking Bonus + $200 Savings Bonus",
+    "url": "https://www.doctorofcredit.com/me-nh-camden-national-bank-300-checking-bonus-2/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 12 Sep 2026 19:30:23 +0000"
+  },
+  {
+    "id": 416,
+    "source": "Doctor of Credit",
+    "title": "[CT only] Mutual Security Credit Union $250 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ct-only-mutual-security-credit-union-250-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 13 Sep 2026 13:00:47 +0000"
+  },
+  {
     "id": 361,
     "source": "Doctor of Credit",
     "title": "Live Oak Bank $300 Savings Bonus (New & Existing Customers)",
@@ -854,20 +938,6 @@
     "published": "Mon, 07 Sep 2026 14:00:04 +0000"
   },
   {
-    "id": 324,
-    "source": "Frequent Miler",
-    "title": "Get up to $100 back on every eligible card through Paze (last day)",
-    "url": "https://frequentmiler.com/get-up-to-100-back-on-every-visa-card-through-paze-10-back-on-10-up-to-100-back-per-card-stack-with-extra-points/",
-    "offer_type": "promo",
-    "headline": "$100 Value",
-    "summary": "Promo: $100 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 10 Sep 2026 19:46:31 +0000"
-  },
-  {
     "id": 318,
     "source": "Doctor of Credit",
     "title": "[YMMV] Ibotta: Sign Up For Espolòn E-mails & Get $2 Bonus",
@@ -936,20 +1006,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 21:45:23 +0000"
-  },
-  {
-    "id": 301,
-    "source": "Doctor of Credit",
-    "title": "(Last Day) Paze: Get Free $100 Back *Per Card* (10 x $10)",
-    "url": "https://www.doctorofcredit.com/paze-get-free-100-back-per-card-10-x-10/",
-    "offer_type": "promo",
-    "headline": "$100 Value",
-    "summary": "Promo: $100 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": "NEW",
-    "why_it_matters": null,
-    "published": "Tue, 08 Sep 2026 16:40:23 +0000"
   },
   {
     "id": 299,

@@ -128,7 +128,7 @@
   {
     "id": 101,
     "source": "Doctor of Credit",
-    "title": "AmEx Offers: YouTube TV, Spend $39.99 & Get $20 Back (Can Be Done 3 Times; Ends 12/31/2026)",
+    "title": "(Update) AmEx Offers: YouTube TV, Spend $39.99 & Get $20 Back (Can Be Done 3 Times; Ends 12/31/2026)",
     "url": "https://www.doctorofcredit.com/amex-offers-youtube-tv-spend-57-99-get-20-back-3x/",
     "offer_type": "amex_offer",
     "headline": "$20 Back on $39.99 Spend",
@@ -289,7 +289,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 13 Sep 2026 14:00:13 +0000"
   },
@@ -611,7 +611,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 12 Sep 2026 15:00:54 +0000"
   },
@@ -625,7 +625,7 @@
     "summary": "Bank bonus: $350",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 12 Sep 2026 17:00:09 +0000"
   },
@@ -639,7 +639,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 12 Sep 2026 18:00:13 +0000"
   },
@@ -653,7 +653,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 12 Sep 2026 19:30:23 +0000"
   },
@@ -667,7 +667,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 13 Sep 2026 13:00:47 +0000"
   },
@@ -866,6 +866,48 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
+  },
+  {
+    "id": 429,
+    "source": "Doctor of Credit",
+    "title": "Target: $10 Bonus Target Giftcard When You Buy Select $100 One4All Giftcards [9/13-9/19]",
+    "url": "https://www.doctorofcredit.com/target-10-bonus-target-giftcard-when-you-buy-select-100-one4all-giftcards/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 13 Sep 2026 16:30:43 +0000"
+  },
+  {
+    "id": 425,
+    "source": "Doctor of Credit",
+    "title": "Albert (Fintech): Get $200 In Stock For Free",
+    "url": "https://www.doctorofcredit.com/albert-fintech-get-200-in-stock-for-free/",
+    "offer_type": "promo",
+    "headline": "$200 Value",
+    "summary": "Promo: $200 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 13 Sep 2026 22:20:36 +0000"
+  },
+  {
+    "id": 422,
+    "source": "Doctor of Credit",
+    "title": "AmEx, Wells, USB Offers: Get 10% Off CVS (Max $5 Back)",
+    "url": "https://www.doctorofcredit.com/amex-offers-get-10-off-cvs-max-10-back/",
+    "offer_type": "promo",
+    "headline": "10% Back, $5 Value",
+    "summary": "Promo: 10% back, $5 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 14 Sep 2026 14:42:55 +0000"
   },
   {
     "id": 393,
@@ -1290,16 +1332,16 @@
   {
     "id": 29,
     "source": "Doctor of Credit",
-    "title": "Citi Offers: bp and/or Amoco Fuel, Spend $35+ & Get $6 Back",
+    "title": "Citi Offers: bp and/or Amoco Fuel, Spend $40+ & Get $5 Back",
     "url": "https://www.doctorofcredit.com/citi-offers-shell-fuel-spend-35-get-5-back-limit-2/",
     "offer_type": "promo",
-    "headline": "$6 Value",
-    "summary": "Promo: $6 value",
+    "headline": "$5 Value",
+    "summary": "Promo: $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Fri, 14 Aug 2026 15:00:23 +0000"
+    "published": "Mon, 14 Sep 2026 02:05:23 +0000"
   },
   {
     "id": 26,
@@ -1328,6 +1370,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
+  },
+  {
+    "id": 428,
+    "source": "Doctor of Credit",
+    "title": "[AR, MS, TN only] Orion Financial $150 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ar-ms-tn-only-orion-financial-150-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$150 Bank Bonus",
+    "summary": "Bank bonus: $150",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 13 Sep 2026 18:00:46 +0000"
   },
   {
     "id": 340,

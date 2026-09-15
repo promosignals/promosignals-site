@@ -28,6 +28,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 440,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offers: Dish Network, Spend $94.99+ & Receive $80 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offers-dish-network-spend-89-99-receive-80-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$80 Back on $94.99 Spend",
+    "summary": "Amex Offer: spend $94.99, get $80 back",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 84.2% rebate when you meet the $94.99 spend requirement.",
+    "published": "Mon, 14 Sep 2026 16:25:10 +0000"
+  },
+  {
     "id": 414,
     "source": "Frequent Miler",
     "title": "Wells Fargo: $400 / $550 / $825 bonus for new business checking account (no direct deposit required)",
@@ -135,7 +149,7 @@
     "summary": "Amex Offer: spend $39.99, get $20 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": "That's an effective 50% rebate when you meet the $39.99 spend requirement.",
     "published": "Wed, 19 Aug 2026 21:45:44 +0000"
   },
@@ -278,6 +292,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 434,
+    "source": "Doctor of Credit",
+    "title": "[FL, GA] Addition Financial $400 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/fl-addition-financial-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 15 Sep 2026 03:15:07 +0000"
   },
   {
     "id": 415,
@@ -562,7 +590,7 @@
   {
     "id": 226,
     "source": "Doctor of Credit",
-    "title": "J.P. Morgan Self-Directed Investing Up To $1,000 Bonus With $5k-$250k Invested [+$100 Rakuten]",
+    "title": "J.P. Morgan Self-Directed Investing Up To $1,000 Bonus With $5k-$250k Invested [+$150 Rakuten]",
     "url": "https://www.doctorofcredit.com/chase-you-invest-bonus-200-625-bonus-with-25000-250000-investment-account/",
     "offer_type": "promo",
     "headline": "$1,000 Value",
@@ -571,7 +599,7 @@
     "score_label": "Good",
     "status": null,
     "why_it_matters": null,
-    "published": "Sun, 30 Aug 2026 14:00:32 +0000"
+    "published": "Mon, 14 Sep 2026 22:52:32 +0000"
   },
   {
     "id": 153,
@@ -877,7 +905,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 13 Sep 2026 16:30:43 +0000"
   },
@@ -891,7 +919,7 @@
     "summary": "Promo: $200 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 13 Sep 2026 22:20:36 +0000"
   },
@@ -905,7 +933,7 @@
     "summary": "Promo: 10% back, $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 14 Sep 2026 14:42:55 +0000"
   },
@@ -1339,7 +1367,7 @@
     "summary": "Promo: $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 14 Sep 2026 02:05:23 +0000"
   },
@@ -1381,7 +1409,7 @@
     "summary": "Bank bonus: $150",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 13 Sep 2026 18:00:46 +0000"
   },

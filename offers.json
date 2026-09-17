@@ -14,6 +14,20 @@
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
   },
   {
+    "id": 470,
+    "source": "Doctor of Credit",
+    "title": "Chase Ultimate Rewards: 70% Transfer Bonus To Marriott (1:1.70)",
+    "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-70-transfer-bonus-to-marriott-11-70/",
+    "offer_type": "transfer",
+    "headline": "70% Transfer Bonus",
+    "summary": "Transfer bonus: 70%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": "A 70% bonus means 1,000 transferable points become 1,700 partner points.",
+    "published": "Wed, 16 Sep 2026 20:40:14 +0000"
+  },
+  {
     "id": 462,
     "source": "Frequent Miler",
     "title": "Get a 70% transfer bonus from Chase Ultimate Rewards to Marriott Bonvoy",
@@ -23,7 +37,7 @@
     "summary": "Transfer bonus: 70%",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "A 70% bonus means 1,000 transferable points become 1,700 partner points.",
     "published": "Tue, 15 Sep 2026 17:45:47 +0000"
   },
@@ -280,6 +294,20 @@
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
   },
   {
+    "id": 474,
+    "source": "Frequent Miler",
+    "title": "National Car Rental Amex Offer: Spend $250 & get $50 back",
+    "url": "https://frequentmiler.com/national-car-rental-amex-offer-spend-250-get-50-back/",
+    "offer_type": "amex_offer",
+    "headline": "$50 Back on $250 Spend",
+    "summary": "Amex Offer: spend $250, get $50 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
+    "published": "Wed, 16 Sep 2026 21:45:50 +0000"
+  },
+  {
     "id": 335,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Platinum Member Airfares, Spend $1,000+ & Receive $200 Statement Credit",
@@ -308,6 +336,20 @@
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
   },
   {
+    "id": 466,
+    "source": "Doctor of Credit",
+    "title": "[CT, D.C., DE, FL, MA, MD, MI, NH, NJ, NY, OH, PA, RI, VT, VA] Citizens Bank $400/$500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ct-de-ma-mi-nh-nj-ny-oh-pa-ri-vt-citizens-bank-400-checking-bonus-2/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 17 Sep 2026 00:15:42 +0000"
+  },
+  {
     "id": 450,
     "source": "Doctor of Credit",
     "title": "[FL, MI, OH & ?? AZ, CA, IN, NJ, NY, WI] Flagstar Bank $400-$500 Checking Bonus",
@@ -317,21 +359,21 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 15 Sep 2026 22:05:54 +0000"
   },
   {
     "id": 448,
     "source": "Doctor of Credit",
-    "title": "E*Trade $400 Savings Bonus (Requires $20k Deposit) + 4% Intro Rate",
+    "title": "E*Trade $400-$800 Savings Bonus (Requires $20k-$100k Deposit) + 4% Intro Rate",
     "url": "https://www.doctorofcredit.com/etrade-400-savings-bonus-requires-20k-deposit-4-intro-rate/",
     "offer_type": "bank",
     "headline": "$400 Bank Bonus with $20,000 Deposit",
     "summary": "Bank bonus: $400 with $20,000 deposit",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "The $400 bonus is equivalent to about 2% of the $20,000 deposit requirement, before considering how long the funds must remain deposited.",
     "published": "Wed, 16 Sep 2026 14:00:39 +0000"
   },
@@ -600,6 +642,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
+  },
+  {
+    "id": 478,
+    "source": "Frequent Miler",
+    "title": "Giftcards.com Chase Offer: Get 5% back on up to $1,000 spend",
+    "url": "https://frequentmiler.com/giftcards-com-chase-offer-get-5-back-on-up-to-1000-spend/",
+    "offer_type": "promo",
+    "headline": "5% Back, $1,000 Value",
+    "summary": "Promo: 5% back, $1,000 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 16 Sep 2026 14:46:30 +0000"
   },
   {
     "id": 349,
@@ -938,6 +994,48 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 151,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Gemini, Purchase $1,000+ In Stocks & Get $75",
+    "url": "https://www.doctorofcredit.com/targeted-gemini-purchase-100-in-stocks-get-10-up-to-200/",
+    "offer_type": "promo",
+    "headline": "$75 Value",
+    "summary": "Promo: $75 value",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Wed, 16 Sep 2026 23:54:58 +0000"
+  },
+  {
+    "id": 472,
+    "source": "Frequent Miler",
+    "title": "VanillaGift, MastercardGiftCard.com, & AmexGiftCard: Get $10 gift cards free or waived purchase fees",
+    "url": "https://frequentmiler.com/vanillagift-mastercardgiftcard-com-amexgiftcard-get-10-gift-cards-free-or-waived-purchase-fees/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 16 Sep 2026 23:45:09 +0000"
+  },
+  {
+    "id": 469,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Percapita (Fintech): Earn $25-$50 Per Month When You Spend $300-$600",
+    "url": "https://www.doctorofcredit.com/targeted-percapita-fintech-earn-25-30-per-month-when-you-spend-300-600/",
+    "offer_type": "promo",
+    "headline": "$25 Value",
+    "summary": "Promo: $25 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 16 Sep 2026 21:02:41 +0000"
+  },
+  {
     "id": 460,
     "source": "Frequent Miler",
     "title": "Away Chase Offer: Get $50 back when spending $295+ on luggage, bags, & accessories",
@@ -947,7 +1045,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 15 Sep 2026 21:45:42 +0000"
   },
@@ -961,7 +1059,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 15 Sep 2026 15:08:25 +0000"
   },
@@ -975,7 +1073,7 @@
     "summary": "Promo: 10% back, $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 15 Sep 2026 18:00:51 +0000"
   },
@@ -1132,20 +1230,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 04 Sep 2026 23:24:00 +0000"
-  },
-  {
-    "id": 312,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Gemini: 50% Bonus On Prediction Markets Up To $50",
-    "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
-    "offer_type": "promo",
-    "headline": "50% Back, $50 Value",
-    "summary": "Promo: 50% back, $50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 05 Sep 2026 00:36:10 +0000"
   },
   {
     "id": 306,
@@ -1328,20 +1412,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 24 Aug 2026 20:50:58 +0000"
-  },
-  {
-    "id": 151,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Gemini, Purchase $100+ In Stocks & Get $10 (Up To $200)",
-    "url": "https://www.doctorofcredit.com/targeted-gemini-purchase-100-in-stocks-get-10-up-to-200/",
-    "offer_type": "promo",
-    "headline": "$10 Value",
-    "summary": "Promo: $10 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 23 Aug 2026 22:06:58 +0000"
   },
   {
     "id": 116,

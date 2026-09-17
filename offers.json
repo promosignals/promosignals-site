@@ -14,6 +14,20 @@
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
   },
   {
+    "id": 462,
+    "source": "Frequent Miler",
+    "title": "Get a 70% transfer bonus from Chase Ultimate Rewards to Marriott Bonvoy",
+    "url": "https://frequentmiler.com/70-percent-transfer-bonus-chase-ultimate-rewards-marriott-bonvoy/",
+    "offer_type": "transfer",
+    "headline": "70% Transfer Bonus",
+    "summary": "Transfer bonus: 70%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": "A 70% bonus means 1,000 transferable points become 1,700 partner points.",
+    "published": "Tue, 15 Sep 2026 17:45:47 +0000"
+  },
+  {
     "id": 244,
     "source": "Doctor of Credit",
     "title": "Rove Adds Copa Airlines ConnectMiles As 1:1 Transfer Partner + 40% Transfer Bonus",
@@ -37,7 +51,7 @@
     "summary": "Amex Offer: spend $94.99, get $80 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 84.2% rebate when you meet the $94.99 spend requirement.",
     "published": "Mon, 14 Sep 2026 16:25:10 +0000"
   },
@@ -149,7 +163,7 @@
     "summary": "Amex Offer: spend $39.99, get $20 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 50% rebate when you meet the $39.99 spend requirement.",
     "published": "Wed, 19 Aug 2026 21:45:44 +0000"
   },
@@ -294,6 +308,34 @@
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
   },
   {
+    "id": 450,
+    "source": "Doctor of Credit",
+    "title": "[FL, MI, OH & ?? AZ, CA, IN, NJ, NY, WI] Flagstar Bank $400-$500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/az-ca-fl-in-mi-nj-ny-oh-wi-flagstar-bank-250-350-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 15 Sep 2026 22:05:54 +0000"
+  },
+  {
+    "id": 448,
+    "source": "Doctor of Credit",
+    "title": "E*Trade $400 Savings Bonus (Requires $20k Deposit) + 4% Intro Rate",
+    "url": "https://www.doctorofcredit.com/etrade-400-savings-bonus-requires-20k-deposit-4-intro-rate/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus with $20,000 Deposit",
+    "summary": "Bank bonus: $400 with $20,000 deposit",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "The $400 bonus is equivalent to about 2% of the $20,000 deposit requirement, before considering how long the funds must remain deposited.",
+    "published": "Wed, 16 Sep 2026 14:00:39 +0000"
+  },
+  {
     "id": 434,
     "source": "Doctor of Credit",
     "title": "[FL, GA] Addition Financial $400 Checking Bonus",
@@ -303,7 +345,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 15 Sep 2026 03:15:07 +0000"
   },
@@ -894,6 +936,48 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
+  },
+  {
+    "id": 460,
+    "source": "Frequent Miler",
+    "title": "Away Chase Offer: Get $50 back when spending $295+ on luggage, bags, & accessories",
+    "url": "https://frequentmiler.com/away-chase-offer-get-50-back-when-spending-295-on-luggage-bags-accessories/",
+    "offer_type": "promo",
+    "headline": "$50 Value",
+    "summary": "Promo: $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 15 Sep 2026 21:45:42 +0000"
+  },
+  {
+    "id": 455,
+    "source": "Doctor of Credit",
+    "title": "Amazon Prime Members Get $20 Off $30 Grubhub Order (Pickup or Delivery; DEALS20)",
+    "url": "https://www.doctorofcredit.com/amazon-prime-members-get-20-off-30-grubhub-order-pickup-or-delivery-deals20/",
+    "offer_type": "promo",
+    "headline": "$20 Value",
+    "summary": "Promo: $20 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 15 Sep 2026 15:08:25 +0000"
+  },
+  {
+    "id": 452,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers: Get 10% Back at Lowe’s/Lowes.com ($50 Cashback Max)",
+    "url": "https://www.doctorofcredit.com/chase-offers-ihg-only-get-15-back-at-lowes-50-cashback-max/",
+    "offer_type": "promo",
+    "headline": "10% Back, $50 Value",
+    "summary": "Promo: 10% back, $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 15 Sep 2026 18:00:51 +0000"
   },
   {
     "id": 429,

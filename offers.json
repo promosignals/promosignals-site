@@ -1,5 +1,19 @@
 [
   {
+    "id": 448,
+    "source": "Doctor of Credit",
+    "title": "E*Trade $400-$800 Savings Bonus (Requires $20k-$100k Deposit) + 4% Intro Rate",
+    "url": "https://www.doctorofcredit.com/etrade-400-savings-bonus-requires-20k-deposit-4-intro-rate/",
+    "offer_type": "bank",
+    "headline": "$800 Bank Bonus with $100,000 Deposit",
+    "summary": "Bank bonus: $800 with $100,000 deposit",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "IMPROVED",
+    "why_it_matters": "The $800 bonus is equivalent to about 0.8% of the $100,000 deposit requirement, before considering how long the funds must remain deposited.",
+    "published": "Wed, 16 Sep 2026 14:00:39 +0000"
+  },
+  {
     "id": 191,
     "source": "Doctor of Credit",
     "title": "Increased American Express Delta Offers, Up To 200,000 Miles (Personal & Business Gold, Platinum, Reserve)",
@@ -86,16 +100,16 @@
   {
     "id": 401,
     "source": "Frequent Miler",
-    "title": "Chase Business Cards: Improved 100K welcome offers (last chance)",
+    "title": "Chase Business Cards: Improved 100K welcome offers (still live on referrals)",
     "url": "https://frequentmiler.com/chase-business-cards-improved-100k-200k-welcome-offers-now-live/",
     "offer_type": "credit_card",
     "headline": "100,000 Points",
     "summary": "Credit card offer: 100,000 points",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Thu, 10 Sep 2026 16:50:51 +0000"
+    "published": "Thu, 17 Sep 2026 18:45:07 +0000"
   },
   {
     "id": 370,
@@ -289,7 +303,7 @@
     "summary": "Amex Offer: spend $250, get $50 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
     "published": "Wed, 16 Sep 2026 21:45:50 +0000"
   },
@@ -331,7 +345,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 17 Sep 2026 00:15:42 +0000"
   },
@@ -348,20 +362,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 15 Sep 2026 22:05:54 +0000"
-  },
-  {
-    "id": 448,
-    "source": "Doctor of Credit",
-    "title": "E*Trade $400-$800 Savings Bonus (Requires $20k-$100k Deposit) + 4% Intro Rate",
-    "url": "https://www.doctorofcredit.com/etrade-400-savings-bonus-requires-20k-deposit-4-intro-rate/",
-    "offer_type": "bank",
-    "headline": "$400 Bank Bonus with $20,000 Deposit",
-    "summary": "Bank bonus: $400 with $20,000 deposit",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": "The $400 bonus is equivalent to about 2% of the $20,000 deposit requirement, before considering how long the funds must remain deposited.",
-    "published": "Wed, 16 Sep 2026 14:00:39 +0000"
   },
   {
     "id": 434,
@@ -639,7 +639,7 @@
     "summary": "Promo: 5% back, $1,000 value",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 16 Sep 2026 14:46:30 +0000"
   },
@@ -980,20 +980,6 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
-    "id": 151,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Gemini, Purchase $1,000+ In Stocks & Get $75",
-    "url": "https://www.doctorofcredit.com/targeted-gemini-purchase-100-in-stocks-get-10-up-to-200/",
-    "offer_type": "promo",
-    "headline": "$75 Value",
-    "summary": "Promo: $75 value",
-    "score": 5.5,
-    "score_label": "Standard",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Wed, 16 Sep 2026 23:54:58 +0000"
-  },
-  {
     "id": 472,
     "source": "Frequent Miler",
     "title": "VanillaGift, MastercardGiftCard.com, & AmexGiftCard: Get $10 gift cards free or waived purchase fees",
@@ -1003,7 +989,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 16 Sep 2026 23:45:09 +0000"
   },
@@ -1017,7 +1003,7 @@
     "summary": "Promo: $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 16 Sep 2026 21:02:41 +0000"
   },
@@ -1218,6 +1204,20 @@
     "published": "Fri, 04 Sep 2026 23:24:00 +0000"
   },
   {
+    "id": 312,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Gemini: 50% Bonus On Prediction Markets Up To $50",
+    "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
+    "offer_type": "promo",
+    "headline": "50% Back, $50 Value",
+    "summary": "Promo: 50% back, $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Fri, 18 Sep 2026 03:40:10 +0000"
+  },
+  {
     "id": 306,
     "source": "Frequent Miler",
     "title": "American Express Rewards Checking: $300 bonus for new customers",
@@ -1398,6 +1398,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 24 Aug 2026 20:50:58 +0000"
+  },
+  {
+    "id": 151,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Gemini, Purchase $1,000+ In Stocks & Get $75",
+    "url": "https://www.doctorofcredit.com/targeted-gemini-purchase-100-in-stocks-get-10-up-to-200/",
+    "offer_type": "promo",
+    "headline": "$75 Value",
+    "summary": "Promo: $75 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Wed, 16 Sep 2026 23:54:58 +0000"
   },
   {
     "id": 116,

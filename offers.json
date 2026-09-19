@@ -1,19 +1,5 @@
 [
   {
-    "id": 448,
-    "source": "Doctor of Credit",
-    "title": "E*Trade $400-$800 Savings Bonus (Requires $20k-$100k Deposit) + 4% Intro Rate",
-    "url": "https://www.doctorofcredit.com/etrade-400-savings-bonus-requires-20k-deposit-4-intro-rate/",
-    "offer_type": "bank",
-    "headline": "$800 Bank Bonus with $100,000 Deposit",
-    "summary": "Bank bonus: $800 with $100,000 deposit",
-    "score": 9.5,
-    "score_label": "Exceptional",
-    "status": "IMPROVED",
-    "why_it_matters": "The $800 bonus is equivalent to about 0.8% of the $100,000 deposit requirement, before considering how long the funds must remain deposited.",
-    "published": "Wed, 16 Sep 2026 14:00:39 +0000"
-  },
-  {
     "id": 191,
     "source": "Doctor of Credit",
     "title": "Increased American Express Delta Offers, Up To 200,000 Miles (Personal & Business Gold, Platinum, Reserve)",
@@ -54,6 +40,34 @@
     "status": null,
     "why_it_matters": "A 40% bonus means 1,000 transferable points become 1,400 partner points.",
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
+  },
+  {
+    "id": 494,
+    "source": "Doctor of Credit",
+    "title": "[NY, In Branch] Hudson Valley Federal Credit Union $750 – $1,500 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ny-in-branch-hudson-valley-federal-credit-union-750-1500-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$1,500 Bank Bonus",
+    "summary": "Bank bonus: $1,500",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 19 Sep 2026 14:00:06 +0000"
+  },
+  {
+    "id": 448,
+    "source": "Doctor of Credit",
+    "title": "E*Trade $400-$800 Savings Bonus (Requires $20k-$100k Deposit) + 4% Intro Rate",
+    "url": "https://www.doctorofcredit.com/etrade-400-savings-bonus-requires-20k-deposit-4-intro-rate/",
+    "offer_type": "bank",
+    "headline": "$800 Bank Bonus with $100,000 Deposit",
+    "summary": "Bank bonus: $800 with $100,000 deposit",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": null,
+    "why_it_matters": "The $800 bonus is equivalent to about 0.8% of the $100,000 deposit requirement, before considering how long the funds must remain deposited.",
+    "published": "Wed, 16 Sep 2026 14:00:39 +0000"
   },
   {
     "id": 440,
@@ -100,14 +114,14 @@
   {
     "id": 401,
     "source": "Frequent Miler",
-    "title": "Chase Business Cards: Improved 100K welcome offers (still live on referrals)",
+    "title": "Chase Sapphire Reserve for Business®: Improved 200K welcome offer",
     "url": "https://frequentmiler.com/chase-business-cards-improved-100k-200k-welcome-offers-now-live/",
     "offer_type": "credit_card",
     "headline": "100,000 Points",
     "summary": "Credit card offer: 100,000 points",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 17 Sep 2026 18:45:07 +0000"
   },
@@ -334,6 +348,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 495,
+    "source": "Doctor of Credit",
+    "title": "[PA Only] Univest $400 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/pa-only-univest-400-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 19 Sep 2026 13:00:49 +0000"
   },
   {
     "id": 466,
@@ -978,6 +1006,48 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
+  },
+  {
+    "id": 507,
+    "source": "Frequent Miler",
+    "title": "Chase Travel℠ Chase Offer: Spend $600 & get $100 back (targeted)",
+    "url": "https://frequentmiler.com/chase-travel%e2%84%a0-chase-offer-spend-600-get-100-back-targeted/",
+    "offer_type": "promo",
+    "headline": "$100 Value",
+    "summary": "Promo: $100 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 18 Sep 2026 17:45:38 +0000"
+  },
+  {
+    "id": 505,
+    "source": "Frequent Miler",
+    "title": "Chase Offer for Sapphire Reserve Cardholders: Get up to $125 back On $500+ Sixt Car Rental",
+    "url": "https://frequentmiler.com/chase-offer-for-sapphire-reserve-cardholders-get-up-to-125-back-on-500-sixt-car-rental/",
+    "offer_type": "promo",
+    "headline": "$125 Value",
+    "summary": "Promo: $125 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 18 Sep 2026 18:45:06 +0000"
+  },
+  {
+    "id": 496,
+    "source": "Doctor of Credit",
+    "title": "Giftcards.com: No Fees On Virtual Visa Giftcards With Promo Code NOFEES (Limit 3), $10 Bonus Giftcard With $100+ Purchase With Code FESTIVAL",
+    "url": "https://www.doctorofcredit.com/giftcards-com-no-fees-on-virtual-visa-giftcards-with-promo-code-nofees-limit-3-10-bonus-giftcard-with-100-purchase-with-code-festival/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 18 Sep 2026 23:18:45 +0000"
   },
   {
     "id": 472,

@@ -1,5 +1,19 @@
 [
   {
+    "id": 401,
+    "source": "Frequent Miler",
+    "title": "Chase Sapphire Reserve for Business®: Improved 200K welcome offer",
+    "url": "https://frequentmiler.com/chase-business-cards-improved-100k-200k-welcome-offers-now-live/",
+    "offer_type": "credit_card",
+    "headline": "200,000 Points",
+    "summary": "Credit card offer: 200,000 points",
+    "score": 10.0,
+    "score_label": "Exceptional",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Thu, 17 Sep 2026 18:45:07 +0000"
+  },
+  {
     "id": 191,
     "source": "Doctor of Credit",
     "title": "Increased American Express Delta Offers, Up To 200,000 Miles (Personal & Business Gold, Platinum, Reserve)",
@@ -51,7 +65,7 @@
     "summary": "Bank bonus: $1,500",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 19 Sep 2026 14:00:06 +0000"
   },
@@ -110,20 +124,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 12 Sep 2026 14:00:40 +0000"
-  },
-  {
-    "id": 401,
-    "source": "Frequent Miler",
-    "title": "Chase Sapphire Reserve for Business®: Improved 200K welcome offer",
-    "url": "https://frequentmiler.com/chase-business-cards-improved-100k-200k-welcome-offers-now-live/",
-    "offer_type": "credit_card",
-    "headline": "100,000 Points",
-    "summary": "Credit card offer: 100,000 points",
-    "score": 8.5,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 17 Sep 2026 18:45:07 +0000"
   },
   {
     "id": 370,
@@ -222,6 +222,48 @@
     "status": null,
     "why_it_matters": "That's an effective 100% rebate when you meet the $250 spend requirement.",
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
+  },
+  {
+    "id": 516,
+    "source": "Frequent Miler",
+    "title": "Citi adds Japan Airlines as a 1:1 partner, launches 30% transfer bonus",
+    "url": "https://frequentmiler.com/citi-adds-japan-airlines-as-a-11-partner-launches-30-transfer-bonus/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "A 30% bonus means 1,000 transferable points become 1,300 partner points.",
+    "published": "Sun, 20 Sep 2026 12:05:57 +0000"
+  },
+  {
+    "id": 512,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] American Express Delta Offers – Up To 90,000 Miles + $300",
+    "url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
+    "offer_type": "credit_card",
+    "headline": "90,000 Points",
+    "summary": "Credit card offer: 90,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 19 Sep 2026 20:21:09 +0000"
+  },
+  {
+    "id": 510,
+    "source": "Doctor of Credit",
+    "title": "Citi Adds Japan Airlines As 1:1 Transfer Partner (Limited 30% Transfer Bonus)",
+    "url": "https://www.doctorofcredit.com/citi-adds-japan-airlines-as-11-transfer-partner-limited-30-transfer-bonus/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "A 30% bonus means 1,000 transferable points become 1,300 partner points.",
+    "published": "Sun, 20 Sep 2026 12:00:33 +0000"
   },
   {
     "id": 387,
@@ -359,7 +401,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 19 Sep 2026 13:00:49 +0000"
   },
@@ -714,20 +756,6 @@
     "published": "Mon, 14 Sep 2026 22:52:32 +0000"
   },
   {
-    "id": 153,
-    "source": "Frequent Miler",
-    "title": "25% transfer bonus from Citi to Leading Hotels of the World Leaders Club",
-    "url": "https://frequentmiler.com/citi-thankyou-leading-hotels-of-the-world-lhw-25-percent-transfer-bonus/",
-    "offer_type": "transfer",
-    "headline": "25% Transfer Bonus",
-    "summary": "Transfer bonus: 25%",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": "A 25% bonus means 1,000 transferable points become 1,250 partner points.",
-    "published": "Mon, 24 Aug 2026 13:45:52 +0000"
-  },
-  {
     "id": 111,
     "source": "Doctor of Credit",
     "title": "Aven Rewards Checking + Rewards Visa: 5% Back On All Purchases (Up To $25,000 Each Year), Requires $25,000 Balance",
@@ -740,6 +768,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
+  },
+  {
+    "id": 515,
+    "source": "Doctor of Credit",
+    "title": "[IN & MI] Horizon Bank $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/in-in-branch-only-horizon-bank-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 19 Sep 2026 15:00:21 +0000"
+  },
+  {
+    "id": 514,
+    "source": "Doctor of Credit",
+    "title": "[CO] Credit Union of the Rockies $300 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/co-credit-union-of-the-rockies-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 19 Sep 2026 15:00:27 +0000"
   },
   {
     "id": 420,
@@ -1008,6 +1064,34 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 513,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Chase/Wells Fargo Offers: AT&T Wireless, Spend $100 & Get $75 Back",
+    "url": "https://www.doctorofcredit.com/targeted-chase-offers-att-wireless-spend-100-get-75-back/",
+    "offer_type": "promo",
+    "headline": "$75 Value",
+    "summary": "Promo: $75 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 19 Sep 2026 18:00:36 +0000"
+  },
+  {
+    "id": 511,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers/WF/USB: Get Up To 5% Back at Kroger Brands, Harris Teeter ($9 Cashback Max)",
+    "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-at-kroger-up-to-7-cashback/",
+    "offer_type": "promo",
+    "headline": "5% Back, $9 Value",
+    "summary": "Promo: 5% back, $9 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 20 Sep 2026 02:35:57 +0000"
+  },
+  {
     "id": 507,
     "source": "Frequent Miler",
     "title": "Chase Travel℠ Chase Offer: Spend $600 & get $100 back (targeted)",
@@ -1017,21 +1101,21 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 18 Sep 2026 17:45:38 +0000"
   },
   {
     "id": 505,
     "source": "Frequent Miler",
-    "title": "Chase Offer for Sapphire Reserve Cardholders: Get up to $125 back On $500+ Sixt Car Rental",
+    "title": "Chase Offer for Sapphire Reserve® Cardholders: Get up to $125 back On $500+ Sixt Car Rental",
     "url": "https://frequentmiler.com/chase-offer-for-sapphire-reserve-cardholders-get-up-to-125-back-on-500-sixt-car-rental/",
     "offer_type": "promo",
     "headline": "$125 Value",
     "summary": "Promo: $125 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 18 Sep 2026 18:45:06 +0000"
   },
@@ -1045,7 +1129,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 18 Sep 2026 23:18:45 +0000"
   },
@@ -1622,6 +1706,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
+  },
+  {
+    "id": 509,
+    "source": "Doctor of Credit",
+    "title": "[UT, ID, NV, NM, MT, AZ] Mountain America Credit Union $150 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ut-id-nv-nm-mt-az-mountain-america-credit-union-150-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$150 Bank Bonus",
+    "summary": "Bank bonus: $150",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 20 Sep 2026 13:00:29 +0000"
+  },
+  {
+    "id": 508,
+    "source": "Doctor of Credit",
+    "title": "[MO] Sterling Bank $100 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/mo-sterling-bank-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$100 Bank Bonus",
+    "summary": "Bank bonus: $100",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 20 Sep 2026 14:00:10 +0000"
   },
   {
     "id": 428,

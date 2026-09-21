@@ -7,9 +7,9 @@
     "offer_type": "credit_card",
     "headline": "200,000 Points",
     "summary": "Credit card offer: 200,000 points",
-    "score": 10.0,
+    "score": 9.5,
     "score_label": "Exceptional",
-    "status": "IMPROVED",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 17 Sep 2026 18:45:07 +0000"
   },
@@ -224,32 +224,18 @@
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
   },
   {
-    "id": 516,
-    "source": "Frequent Miler",
-    "title": "Citi adds Japan Airlines as a 1:1 partner, launches 30% transfer bonus",
-    "url": "https://frequentmiler.com/citi-adds-japan-airlines-as-a-11-partner-launches-30-transfer-bonus/",
-    "offer_type": "transfer",
-    "headline": "30% Transfer Bonus",
-    "summary": "Transfer bonus: 30%",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": "NEW",
-    "why_it_matters": "A 30% bonus means 1,000 transferable points become 1,300 partner points.",
-    "published": "Sun, 20 Sep 2026 12:05:57 +0000"
-  },
-  {
     "id": 512,
     "source": "Doctor of Credit",
-    "title": "[YMMV] American Express Delta Offers – Up To 90,000 Miles + $300",
+    "title": "[YMMV] American Express Delta Offers – Up To 90,000 Miles + $300 – No Lifetime Language",
     "url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
     "offer_type": "credit_card",
     "headline": "90,000 Points",
     "summary": "Credit card offer: 90,000 points",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
-    "published": "Sat, 19 Sep 2026 20:21:09 +0000"
+    "published": "Mon, 21 Sep 2026 12:00:09 +0000"
   },
   {
     "id": 510,
@@ -261,7 +247,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "A 30% bonus means 1,000 transferable points become 1,300 partner points.",
     "published": "Sun, 20 Sep 2026 12:00:33 +0000"
   },
@@ -390,6 +376,34 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 524,
+    "source": "Doctor of Credit",
+    "title": "[FL Only] Connect Credit Union $400 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/fl-only-connect-credit-union-400-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 20 Sep 2026 19:00:13 +0000"
+  },
+  {
+    "id": 523,
+    "source": "Doctor of Credit",
+    "title": "[IA & SD, In Branch Only] Security National Bank $500 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ia-sd-in-branch-only-security-national-bank-500-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 20 Sep 2026 20:00:14 +0000"
   },
   {
     "id": 495,
@@ -700,6 +714,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 522,
+    "source": "Doctor of Credit",
+    "title": "Citi ThankYou Points 25% Transfer Bonus To Avianca LifeMiles (1:1.25)",
+    "url": "https://www.doctorofcredit.com/citi-thankyou-points-25-transfer-bonus-to-avianca-lifemiles-11-25-12/",
+    "offer_type": "transfer",
+    "headline": "25% Transfer Bonus",
+    "summary": "Transfer bonus: 25%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "A 25% bonus means 1,000 transferable points become 1,250 partner points.",
+    "published": "Sun, 20 Sep 2026 20:26:33 +0000"
+  },
+  {
     "id": 478,
     "source": "Frequent Miler",
     "title": "Giftcards.com Chase Offer: Get 5% back on up to $1,000 spend",
@@ -770,6 +798,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 525,
+    "source": "Doctor of Credit",
+    "title": "[UT Only] Chartway Federal Credit Union $250 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/ut-only-chartway-federal-credit-union-250-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 20 Sep 2026 18:00:12 +0000"
+  },
+  {
     "id": 515,
     "source": "Doctor of Credit",
     "title": "[IN & MI] Horizon Bank $250 Checking Bonus",
@@ -779,7 +821,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 19 Sep 2026 15:00:21 +0000"
   },
@@ -793,7 +835,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 19 Sep 2026 15:00:27 +0000"
   },
@@ -1064,6 +1106,20 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 517,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Chase Offers: $50 Back New T-Mobile Customers [BofA, Regions, Suntrust & More]",
+    "url": "https://www.doctorofcredit.com/targeted-chase-offers-100-back-new-t-mobile-customers-bofa-regions-suntrust-more/",
+    "offer_type": "promo",
+    "headline": "$50 Value",
+    "summary": "Promo: $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 21 Sep 2026 14:00:54 +0000"
+  },
+  {
     "id": 513,
     "source": "Doctor of Credit",
     "title": "[Targeted] Chase/Wells Fargo Offers: AT&T Wireless, Spend $100 & Get $75 Back",
@@ -1073,21 +1129,21 @@
     "summary": "Promo: $75 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 19 Sep 2026 18:00:36 +0000"
   },
   {
     "id": 511,
     "source": "Doctor of Credit",
-    "title": "Chase Offers/WF/USB: Get Up To 5% Back at Kroger Brands, Harris Teeter ($9 Cashback Max)",
+    "title": "Chase Offers/WF/USB: Get Up To 10% Back at Kroger Brands, Harris Teeter ($9 Cashback Max)",
     "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-at-kroger-up-to-7-cashback/",
     "offer_type": "promo",
-    "headline": "5% Back, $9 Value",
-    "summary": "Promo: 5% back, $9 value",
+    "headline": "10% Back, $9 Value",
+    "summary": "Promo: 10% back, $9 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 20 Sep 2026 02:35:57 +0000"
   },
@@ -1202,20 +1258,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 15 Sep 2026 18:00:51 +0000"
-  },
-  {
-    "id": 429,
-    "source": "Doctor of Credit",
-    "title": "Target: $10 Bonus Target Giftcard When You Buy Select $100 One4All Giftcards [9/13-9/19]",
-    "url": "https://www.doctorofcredit.com/target-10-bonus-target-giftcard-when-you-buy-select-100-one4all-giftcards/",
-    "offer_type": "promo",
-    "headline": "$10 Value",
-    "summary": "Promo: $10 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 13 Sep 2026 16:30:43 +0000"
   },
   {
     "id": 425,
@@ -1717,7 +1759,7 @@
     "summary": "Bank bonus: $150",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 20 Sep 2026 13:00:29 +0000"
   },
@@ -1731,7 +1773,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 20 Sep 2026 14:00:10 +0000"
   },
@@ -1780,7 +1822,7 @@
   {
     "id": 58,
     "source": "Doctor of Credit",
-    "title": "[FL, In Branch Only] First Federal Bank $200 Checking Bonus",
+    "title": "[FL] First Federal Bank $200 Checking Bonus",
     "url": "https://www.doctorofcredit.com/fl-in-branch-only-first-federal-bank-200-checking-bonus/",
     "offer_type": "bank",
     "headline": "$200 Bank Bonus",

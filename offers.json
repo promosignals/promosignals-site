@@ -1,5 +1,19 @@
 [
   {
+    "id": 534,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] Chase Increased Sign Up Bonuses (175k Chase Sapphire Reserve, 125k Chase Sapphire Preferred & More)",
+    "url": "https://www.doctorofcredit.com/ymmv-chase-increased-sign-up-bonuses-175k-chase-sapphire-reserve-125k-chase-sapphire-preferred-more/",
+    "offer_type": "credit_card",
+    "headline": "175,000 Points",
+    "summary": "Credit card offer: 175,000 points",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": "This 175,000-point offer is 115,000 points above the card's 60,000-point baseline, a 191.7% increase.",
+    "published": "Mon, 21 Sep 2026 21:05:15 +0000"
+  },
+  {
     "id": 401,
     "source": "Frequent Miler",
     "title": "Chase Sapphire Reserve for Business®: Improved 200K welcome offer",
@@ -224,20 +238,6 @@
     "published": "Tue, 11 Aug 2026 21:27:54 +0000"
   },
   {
-    "id": 512,
-    "source": "Doctor of Credit",
-    "title": "[YMMV] American Express Delta Offers – Up To 90,000 Miles + $300 – No Lifetime Language",
-    "url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
-    "offer_type": "credit_card",
-    "headline": "90,000 Points",
-    "summary": "Credit card offer: 90,000 points",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 21 Sep 2026 12:00:09 +0000"
-  },
-  {
     "id": 510,
     "source": "Doctor of Credit",
     "title": "Citi Adds Japan Airlines As 1:1 Transfer Partner (Limited 30% Transfer Bonus)",
@@ -387,7 +387,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 20 Sep 2026 19:00:13 +0000"
   },
@@ -401,7 +401,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 20 Sep 2026 20:00:14 +0000"
   },
@@ -590,7 +590,7 @@
   {
     "id": 258,
     "source": "Doctor of Credit",
-    "title": "X Money Review – 6% APY/$300 Bonus & 3% Back On Debit Card Purchases",
+    "title": "X Money Review – 6% APY/$300 Bonus & 3% Back On Debit Card Purchases [3% Exclusion List Expanded]",
     "url": "https://www.doctorofcredit.com/x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases/",
     "offer_type": "bank",
     "headline": "6% APY",
@@ -599,7 +599,7 @@
     "score_label": "Very Good",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 02 Sep 2026 14:00:52 +0000"
+    "published": "Tue, 22 Sep 2026 06:15:52 +0000"
   },
   {
     "id": 246,
@@ -714,6 +714,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 540,
+    "source": "Frequent Miler",
+    "title": "25% transfer bonus to Avianca Lifemiles from Citi ThankYou Rewards",
+    "url": "https://frequentmiler.com/25-transfer-bonus-to-avianca-lifemiles-from-citi-thankyou-rewards-2/",
+    "offer_type": "transfer",
+    "headline": "25% Transfer Bonus",
+    "summary": "Transfer bonus: 25%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "A 25% bonus means 1,000 transferable points become 1,250 partner points.",
+    "published": "Mon, 21 Sep 2026 17:45:55 +0000"
+  },
+  {
     "id": 522,
     "source": "Doctor of Credit",
     "title": "Citi ThankYou Points 25% Transfer Bonus To Avianca LifeMiles (1:1.25)",
@@ -723,7 +737,7 @@
     "summary": "Transfer bonus: 25%",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "A 25% bonus means 1,000 transferable points become 1,250 partner points.",
     "published": "Sun, 20 Sep 2026 20:26:33 +0000"
   },
@@ -807,7 +821,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 20 Sep 2026 18:00:12 +0000"
   },
@@ -1115,7 +1129,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 21 Sep 2026 14:00:54 +0000"
   },
@@ -1566,20 +1580,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 26 Aug 2026 15:00:33 +0000"
-  },
-  {
-    "id": 173,
-    "source": "Doctor of Credit",
-    "title": "American Express Marriott Bonvoy Brilliant Card: 150,000 Point Bonus + $250 Credit (NLL)",
-    "url": "https://www.doctorofcredit.com/american-express-marriott-bonvoy-brilliant-card-150000-point-bonus-250-credit-nll/",
-    "offer_type": "promo",
-    "headline": "$250 Value",
-    "summary": "Promo: $250 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 26 Aug 2026 15:05:12 +0000"
   },
   {
     "id": 162,

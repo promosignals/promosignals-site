@@ -9,7 +9,7 @@
     "summary": "Credit card offer: 175,000 points",
     "score": 9.5,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": "ABOVE NORMAL",
     "why_it_matters": "This 175,000-point offer is 115,000 points above the card's 60,000-point baseline, a 191.7% increase.",
     "published": "Mon, 21 Sep 2026 21:05:15 +0000"
   },
@@ -68,6 +68,34 @@
     "status": null,
     "why_it_matters": "A 40% bonus means 1,000 transferable points become 1,400 partner points.",
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
+  },
+  {
+    "id": 558,
+    "source": "Frequent Miler",
+    "title": "Get $40 back when spending $80 on Airbnb Experiences & Services (but not stays) with Amex Offer",
+    "url": "https://frequentmiler.com/airbnb-experiences-services-amex-offer-80-40/",
+    "offer_type": "amex_offer",
+    "headline": "$40 Back on $80 Spend",
+    "summary": "Amex Offer: spend $80, get $40 back",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 50% rebate when you meet the $80 spend requirement.",
+    "published": "Tue, 22 Sep 2026 15:46:32 +0000"
+  },
+  {
+    "id": 542,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offers: Airbnb Experiences/Services, Spend $80+ & Receive $40 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offers-airbnb-experiences-services-spend-80-receive-40-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$40 Back on $80 Spend",
+    "summary": "Amex Offer: spend $80, get $40 back",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 50% rebate when you meet the $80 spend requirement.",
+    "published": "Wed, 23 Sep 2026 14:00:04 +0000"
   },
   {
     "id": 494,
@@ -723,7 +751,7 @@
     "summary": "Transfer bonus: 25%",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "A 25% bonus means 1,000 transferable points become 1,250 partner points.",
     "published": "Mon, 21 Sep 2026 17:45:55 +0000"
   },
@@ -1078,6 +1106,20 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
+    "id": 555,
+    "source": "Frequent Miler",
+    "title": "(Amazon too) Capital One Offers: Get $10 / 1,000 miles on $20 with eBay, Sam’s Club, Home Depot & more",
+    "url": "https://frequentmiler.com/capital-one-offers-get-10-1000-miles-on-20/",
+    "offer_type": "promo",
+    "headline": "Earn 1,000 Points with $20 Spend",
+    "summary": "Promo: earn 1,000 points with $20 spend",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 22 Sep 2026 19:45:53 +0000"
+  },
+  {
     "id": 394,
     "source": "Doctor of Credit",
     "title": "[Targeted] AA SimplyMiles: Spend $65 On AT&T Wireless & Earn 2,325 Miles",
@@ -1314,20 +1356,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 11 Sep 2026 02:29:24 +0000"
-  },
-  {
-    "id": 390,
-    "source": "Doctor of Credit",
-    "title": "Varo Money $300 Bonus Via Finder",
-    "url": "https://www.doctorofcredit.com/varo-money-300-bonus-via-finder/",
-    "offer_type": "promo",
-    "headline": "$300 Value",
-    "summary": "Promo: $300 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 11 Sep 2026 14:00:33 +0000"
   },
   {
     "id": 388,

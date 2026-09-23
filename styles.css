@@ -59,7 +59,7 @@ h2 { margin-top: 34px; font-size: 1.55rem; }
 .top-signal-card h3 { margin: 0; color: var(--muted); font-size: .92rem; line-height: 1.35; }
 .top-signal-value { margin: 4px 0 0; color: var(--ink); font-size: 1.38rem; font-weight: 700; line-height: 1.24; }
 .featured-score { display: flex; align-items: baseline; gap: 7px; margin-top: auto; padding-top: 11px; border-top: 1px solid var(--border); font-variant-numeric: tabular-nums; }
-.featured-score-number { color: var(--brand-blue); font-size: 1.2rem; font-weight: 800; }
+.featured-score-number { color: var(--brand-blue); font-size: 1.3rem; font-weight: 800; }
 .featured-score-label { color: var(--faint); font-size: .78rem; font-weight: 700; }
 .home-content { margin-top: 16px; }
 .badges { display: flex; flex-wrap: wrap; gap: 7px; }
@@ -147,5 +147,5 @@ footer { padding: 26px 0; color: var(--muted); background: #e9edf5; font-size: .
 @media (max-width: 760px) { .signal-row { grid-template-columns: 72px minmax(0, 1fr) 28px; gap: 14px; } .signal-row-source { grid-column: 2; text-align: left; } .signal-row-source > span { display: inline; margin-right: 5px; } .signal-row-chevron { grid-column: 3; grid-row: 1 / span 2; } }
 @media (max-width: 640px) { .container, .detail-main.container { width: min(var(--wrap-width), calc(100% - 32px)); } .topbar-updated { display: none; } .topbar-cta { margin-left: auto; } .intro { padding-block: 28px 6px; } .top-signals-grid { grid-template-columns: 1fr; } .top-signal-card { padding: 19px; } .category-section { padding-top: 25px; } }
 @media (max-width: 380px) { .topbar-inner { gap: 10px; } .site-brand { gap: 8px; font-size: 1rem; } .topbar-cta { padding-inline: 12px; font-size: .82rem; } }
-@media (max-width: 520px) { .signup, .detail-report { padding: 17px; } .report-facts { grid-template-columns: 1fr; } .report-why { padding: 17px; } .signal-row { grid-template-columns: 68px minmax(0, 1fr) 24px; gap: 12px; padding-inline: 2px; } .signal-row-score strong { font-size: 1.08rem; } .signal-row-score span { font-size: .68rem; } .signal-row h3 { font-size: 1rem; } .signal-row-chevron { width: 24px; } }
+@media (max-width: 520px) { .signup, .detail-report { padding: 17px; } .report-facts { grid-template-columns: 1fr; } .report-why { padding: 17px; } .signal-row { grid-template-columns: 68px minmax(0, 1fr) 24px; gap: 12px; padding-inline: 2px; } .signal-row-score { padding-left: 8px; } .signal-row-score strong { font-size: 1.08rem; } .signal-row-score span { font-size: .68rem; } .signal-row h3 { font-size: 1rem; } .signal-row-chevron { width: 24px; } }
 @media (prefers-reduced-motion: reduce) { .top-signal-card, .signal-row { transition: none; } .top-signal-card:hover { transform: none; } }

@@ -79,7 +79,7 @@
     "summary": "Amex Offer: spend $80, get $40 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 50% rebate when you meet the $80 spend requirement.",
     "published": "Wed, 23 Sep 2026 14:00:04 +0000"
   },
@@ -100,7 +100,7 @@
   {
     "id": 448,
     "source": "Doctor of Credit",
-    "title": "E*Trade $400-$800 Savings Bonus (Requires $20k-$100k Deposit) + 4% Intro Rate",
+    "title": "E*Trade $400-$800 Savings Bonus (Requires $20k-$100k Deposit) + 4.25% Intro Rate",
     "url": "https://www.doctorofcredit.com/etrade-400-savings-bonus-requires-20k-deposit-4-intro-rate/",
     "offer_type": "bank",
     "headline": "$800 Bank Bonus with $100,000 Deposit",
@@ -348,6 +348,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
+  },
+  {
+    "id": 570,
+    "source": "Frequent Miler",
+    "title": "(Extended) Holland America Line Amex Offer: Spend $750 & get $200 back or spend $1,000 & get $250 back",
+    "url": "https://frequentmiler.com/holland-america-line-amex-offer-spend-750-get-200-back/",
+    "offer_type": "amex_offer",
+    "headline": "$200 Back on $750 Spend",
+    "summary": "Amex Offer: spend $750, get $200 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 26.7% rebate when you meet the $750 spend requirement.",
+    "published": "Thu, 24 Sep 2026 17:45:09 +0000"
   },
   {
     "id": 474,
@@ -604,7 +618,7 @@
   {
     "id": 258,
     "source": "Doctor of Credit",
-    "title": "X Money Review – 6% APY/$300 Bonus & 3% Back On Debit Card Purchases [3% Exclusion List Expanded]",
+    "title": "[X Premium No Longer Required] X Money Review – 6% APY/$300 Bonus & 3% Back On Debit Card Purchases [3% Exclusion List Expanded]",
     "url": "https://www.doctorofcredit.com/x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases/",
     "offer_type": "bank",
     "headline": "6% APY",
@@ -613,7 +627,7 @@
     "score_label": "Very Good",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 22 Sep 2026 06:15:52 +0000"
+    "published": "Thu, 24 Sep 2026 03:15:52 +0000"
   },
   {
     "id": 246,
@@ -824,6 +838,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
+  },
+  {
+    "id": 563,
+    "source": "Doctor of Credit",
+    "title": "Farmers Insurance Federal Credit Union (FIGFCU) $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/farmers-insurance-federal-credit-union-figfcu-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 24 Sep 2026 17:00:00 +0000"
   },
   {
     "id": 525,
@@ -1101,7 +1129,7 @@
     "summary": "Promo: earn 1,000 points with $20 spend",
     "score": 5.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 22 Sep 2026 19:45:53 +0000"
   },
@@ -1146,6 +1174,90 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
+  },
+  {
+    "id": 573,
+    "source": "Frequent Miler",
+    "title": "Get $10 Starbucks gift cards free for every $150 Delta gift cards you buy",
+    "url": "https://frequentmiler.com/get-10-starbucks-gift-cards-free-for-every-150-delta-gift-cards-you-buy/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 24 Sep 2026 13:45:42 +0000"
+  },
+  {
+    "id": 572,
+    "source": "Frequent Miler",
+    "title": "Uber Eats Citi Offer: Get $10 back when spending $30+ (can use twice)",
+    "url": "https://frequentmiler.com/uber-eats-citi-offer-get-10-back-when-spending-30-can-use-twice/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 24 Sep 2026 15:45:38 +0000"
+  },
+  {
+    "id": 565,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] Rakuten: Make 5 $15+ Purchases, Get $15 Bonus",
+    "url": "https://www.doctorofcredit.com/ymmv-rakuten-make-5-15-purchases-get-15-bonus/",
+    "offer_type": "promo",
+    "headline": "$15 Value",
+    "summary": "Promo: $15 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 24 Sep 2026 15:00:09 +0000"
+  },
+  {
+    "id": 564,
+    "source": "Doctor of Credit",
+    "title": "Betterment: $100 Bonus For Depositing $2,500 (One Week Hold Period)",
+    "url": "https://www.doctorofcredit.com/betterment-100-bonus-for-depositing-2500-one-week-hold-period/",
+    "offer_type": "promo",
+    "headline": "$100 Value",
+    "summary": "Promo: $100 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 24 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "id": 561,
+    "source": "Doctor of Credit",
+    "title": "Binance: Earn $25-$200 In SOL For Depositing $250-$2,000",
+    "url": "https://www.doctorofcredit.com/binance-earn-25-200-in-sol-for-depositing-250-2000/",
+    "offer_type": "promo",
+    "headline": "$25 Value",
+    "summary": "Promo: $25 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 24 Sep 2026 18:00:40 +0000"
+  },
+  {
+    "id": 559,
+    "source": "Doctor of Credit",
+    "title": "U.S. Bank Offers: 15% Back at Optimum ($27 Max Cashback)",
+    "url": "https://www.doctorofcredit.com/chase-offers-15-off-optimum-subscription-for-new-customers/",
+    "offer_type": "promo",
+    "headline": "15% Back, $27 Value",
+    "summary": "Promo: 15% back, $27 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 24 Sep 2026 19:30:37 +0000"
   },
   {
     "id": 517,
@@ -1580,20 +1692,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 27 Aug 2026 21:27:52 +0000"
-  },
-  {
-    "id": 174,
-    "source": "Doctor of Credit",
-    "title": "American Express Marriott Bonvoy Bevy Card: 125,000 Point Bonus + $150 Credit (NLL)",
-    "url": "https://www.doctorofcredit.com/american-express-marriott-bonvoy-bevy-card-125000-point-bonus-150-credit-nll/",
-    "offer_type": "promo",
-    "headline": "$150 Value",
-    "summary": "Promo: $150 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 26 Aug 2026 15:00:33 +0000"
   },
   {
     "id": 162,

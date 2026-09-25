@@ -240,7 +240,7 @@
   {
     "id": 3,
     "source": "Doctor of Credit",
-    "title": "[Targeted] AmEx Offers: ADT, Spend $250+ & Receive $250 Statement Credit",
+    "title": "(Update)[Targeted] AmEx Offers: ADT, Spend $250+ & Receive $250 Statement Credit",
     "url": "https://www.doctorofcredit.com/targeted-amex-offers-adt-spend-250-receive-250-statement-credit/",
     "offer_type": "amex_offer",
     "headline": "$250 Back on $250 Spend",
@@ -249,7 +249,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": "That's an effective 100% rebate when you meet the $250 spend requirement.",
-    "published": "Tue, 11 Aug 2026 21:27:54 +0000"
+    "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
     "id": 510,
@@ -350,6 +350,20 @@
     "published": "Tue, 11 Aug 2026 20:53:11 +0000"
   },
   {
+    "id": 584,
+    "source": "Frequent Miler",
+    "title": "Get $50 back at Radisson hotels in Europe & Africa when spending $250 with Amex Offer",
+    "url": "https://frequentmiler.com/250-50-radisson-amex-offer-europe-africa/",
+    "offer_type": "amex_offer",
+    "headline": "$50 Back on $250 Spend",
+    "summary": "Amex Offer: spend $250, get $50 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
+    "published": "Thu, 24 Sep 2026 21:45:08 +0000"
+  },
+  {
     "id": 570,
     "source": "Frequent Miler",
     "title": "(Extended) Holland America Line Amex Offer: Spend $750 & get $200 back or spend $1,000 & get $250 back",
@@ -359,7 +373,7 @@
     "summary": "Amex Offer: spend $750, get $200 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 26.7% rebate when you meet the $750 spend requirement.",
     "published": "Thu, 24 Sep 2026 17:45:09 +0000"
   },
@@ -404,6 +418,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 580,
+    "source": "Doctor of Credit",
+    "title": "Best High Yield Savings Accounts  – up to 5.00% APY",
+    "url": "https://www.doctorofcredit.com/high-interest-savings-to-get/",
+    "offer_type": "bank",
+    "headline": "5% APY",
+    "summary": "Bank APY: 5% APY",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 24 Sep 2026 18:30:33 +0000"
   },
   {
     "id": 524,
@@ -849,7 +877,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 17:00:00 +0000"
   },
@@ -1185,7 +1213,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 13:45:42 +0000"
   },
@@ -1199,7 +1227,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 15:45:38 +0000"
   },
@@ -1213,7 +1241,7 @@
     "summary": "Promo: $15 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 15:00:09 +0000"
   },
@@ -1227,7 +1255,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 16:00:00 +0000"
   },
@@ -1241,7 +1269,7 @@
     "summary": "Promo: $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 18:00:40 +0000"
   },
@@ -1255,7 +1283,7 @@
     "summary": "Promo: 15% back, $27 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 19:30:37 +0000"
   },
@@ -1654,7 +1682,7 @@
   {
     "id": 236,
     "source": "Doctor of Credit",
-    "title": "(Update) Maximizing The Lululemon $300 Credit On American Express Platinum Card",
+    "title": "(Repost/Reminder) Maximizing The Lululemon $300 Credit On American Express Platinum Card",
     "url": "https://www.doctorofcredit.com/maximizing-the-lululmen-300-credit-on-american-express-platinum/",
     "offer_type": "promo",
     "headline": "$300 Value",
@@ -1663,7 +1691,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Sun, 30 Aug 2026 17:00:02 +0000"
+    "published": "Fri, 25 Sep 2026 13:53:02 +0000"
   },
   {
     "id": 235,

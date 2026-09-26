@@ -252,6 +252,20 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 589,
+    "source": "Doctor of Credit",
+    "title": "Chase Southwest Business Card 80,000 Points Signup Bonus",
+    "url": "https://www.doctorofcredit.com/chase-southwest-business-card-80000-points-signup-bonus/",
+    "offer_type": "credit_card",
+    "headline": "80,000 Points",
+    "summary": "Credit card offer: 80,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 25 Sep 2026 19:28:21 +0000"
+  },
+  {
     "id": 510,
     "source": "Doctor of Credit",
     "title": "Citi Adds Japan Airlines As 1:1 Transfer Partner (Limited 30% Transfer Bonus)",
@@ -359,7 +373,7 @@
     "summary": "Amex Offer: spend $250, get $50 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
     "published": "Thu, 24 Sep 2026 21:45:08 +0000"
   },
@@ -429,7 +443,7 @@
     "summary": "Bank APY: 5% APY",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 18:30:33 +0000"
   },
@@ -868,6 +882,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 585,
+    "source": "Doctor of Credit",
+    "title": "[MA & CT only] PeoplesBank (Bankatpeoples) $350 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ma-ct-only-peoplesbank-bankatpeoples-250-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$350 Bank Bonus",
+    "summary": "Bank bonus: $350",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 26 Sep 2026 15:00:09 +0000"
+  },
+  {
     "id": 563,
     "source": "Doctor of Credit",
     "title": "Farmers Insurance Federal Credit Union (FIGFCU) $250 Checking Bonus",
@@ -1204,6 +1232,48 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 590,
+    "source": "Doctor of Credit",
+    "title": "Amazon: $20 Credit When You Spend On $75+ On Select Pet Products",
+    "url": "https://www.doctorofcredit.com/amazon-save-30-on-100-on-select-pet-products/",
+    "offer_type": "promo",
+    "headline": "$20 Value",
+    "summary": "Promo: $20 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 25 Sep 2026 19:27:56 +0000"
+  },
+  {
+    "id": 588,
+    "source": "Doctor of Credit",
+    "title": "Purchase Heineken & $175 In Groceries & Get $50 Back [AK, AZ, CO, CT, DC, DE, FL, GA, IA, ID, IL, KS, KY, MA, MD, MS, MT, ND, NE, NH, NM, NV, NY, OH, OK, OR, RI, SC, TN, VA, VT, WA, WI & WY]",
+    "url": "https://www.doctorofcredit.com/purchase-heineken-175-in-groceries-get-45-back-ak-az-ca-co-ct-dc-de-fl-ga-ia-id-ks-ma-mi-mt-nd-ne-nv-ny-oh-ok-ri-sc-tn-va-wa-wi-wy/",
+    "offer_type": "promo",
+    "headline": "$50 Value",
+    "summary": "Promo: $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 26 Sep 2026 00:25:38 +0000"
+  },
+  {
+    "id": 586,
+    "source": "Doctor of Credit",
+    "title": "Wells Fargo Deals: Get 20% Cashback On Dining (Max $10 Cashback); Expires 9/24/26",
+    "url": "https://www.doctorofcredit.com/wells-fargo-deals-get-20-cashback-on-dining-max-10-cashback/",
+    "offer_type": "promo",
+    "headline": "20% Back, $10 Value",
+    "summary": "Promo: 20% back, $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 26 Sep 2026 01:55:03 +0000"
+  },
+  {
     "id": 573,
     "source": "Frequent Miler",
     "title": "Get $10 Starbucks gift cards free for every $150 Delta gift cards you buy",
@@ -1248,7 +1318,7 @@
   {
     "id": 564,
     "source": "Doctor of Credit",
-    "title": "Betterment: $100 Bonus For Depositing $2,500 (One Week Hold Period)",
+    "title": "Betterment: $100 Bonus For Depositing $2,500",
     "url": "https://www.doctorofcredit.com/betterment-100-bonus-for-depositing-2500-one-week-hold-period/",
     "offer_type": "promo",
     "headline": "$100 Value",
@@ -1370,20 +1440,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 18 Sep 2026 23:18:45 +0000"
-  },
-  {
-    "id": 472,
-    "source": "Frequent Miler",
-    "title": "VanillaGift, MastercardGiftCard.com, & AmexGiftCard: Get $10 gift cards free or waived purchase fees",
-    "url": "https://frequentmiler.com/vanillagift-mastercardgiftcard-com-amexgiftcard-get-10-gift-cards-free-or-waived-purchase-fees/",
-    "offer_type": "promo",
-    "headline": "$10 Value",
-    "summary": "Promo: $10 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 16 Sep 2026 23:45:09 +0000"
   },
   {
     "id": 469,

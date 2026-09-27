@@ -70,6 +70,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 602,
+    "source": "Doctor of Credit",
+    "title": "[WI only, In Branch] WaterStone Bank $300-$1,000 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wi-only-waterstone-bank-250-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$1,000 Bank Bonus",
+    "summary": "Bank bonus: $1,000",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 26 Sep 2026 16:30:04 +0000"
+  },
+  {
     "id": 542,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Airbnb Experiences/Services, Spend $80+ & Receive $40 Statement Credit",
@@ -432,6 +446,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 600,
+    "source": "Doctor of Credit",
+    "title": "[PA & MD only] ACNB $200-$600 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/pa-md-only-acnb-400-checking-bonus-direct-deposit-optional/",
+    "offer_type": "bank",
+    "headline": "$600 Bank Bonus",
+    "summary": "Bank bonus: $600",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 27 Sep 2026 15:00:10 +0000"
   },
   {
     "id": 580,
@@ -1262,7 +1290,7 @@
   {
     "id": 586,
     "source": "Doctor of Credit",
-    "title": "Wells Fargo Deals: Get 20% Cashback On Dining (Max $10 Cashback); Expires 9/24/26",
+    "title": "Wells Fargo Deals: Get 20% Cashback On Dining (Max $10 Cashback); Expires 9/30/26",
     "url": "https://www.doctorofcredit.com/wells-fargo-deals-get-20-cashback-on-dining-max-10-cashback/",
     "offer_type": "promo",
     "headline": "20% Back, $10 Value",

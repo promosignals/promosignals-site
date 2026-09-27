@@ -261,7 +261,7 @@
     "summary": "Credit card offer: 80,000 points",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 25 Sep 2026 19:28:21 +0000"
   },
@@ -891,7 +891,7 @@
     "summary": "Bank bonus: $350",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 26 Sep 2026 15:00:09 +0000"
   },
@@ -1241,7 +1241,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 25 Sep 2026 19:27:56 +0000"
   },
@@ -1255,7 +1255,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 26 Sep 2026 00:25:38 +0000"
   },
@@ -1269,7 +1269,7 @@
     "summary": "Promo: 20% back, $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 26 Sep 2026 01:55:03 +0000"
   },

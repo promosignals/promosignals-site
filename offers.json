@@ -70,6 +70,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 615,
+    "source": "Doctor of Credit",
+    "title": "U.S. Bank $400-$1,500 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/u-s-bank-400-900-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$1,500 Bank Bonus",
+    "summary": "Bank bonus: $1,500",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 29 Sep 2026 14:00:56 +0000"
+  },
+  {
     "id": 602,
     "source": "Doctor of Credit",
     "title": "[WI only, In Branch] WaterStone Bank $300-$1,000 Business Checking Bonus",
@@ -79,7 +93,7 @@
     "summary": "Bank bonus: $1,000",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 26 Sep 2026 16:30:04 +0000"
   },
@@ -249,7 +263,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": null,
-    "published": "Sun, 16 Aug 2026 20:41:12 +0000"
+    "published": "Tue, 29 Sep 2026 00:20:12 +0000"
   },
   {
     "id": 3,
@@ -457,7 +471,7 @@
     "summary": "Bank bonus: $600",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 27 Sep 2026 15:00:10 +0000"
   },
@@ -810,6 +824,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
+  },
+  {
+    "id": 616,
+    "source": "Doctor of Credit",
+    "title": "U.S. Bank Launches Two New Business Cards (U.S. Bank Business Essentials & U.S. Bank Business Essentials Plus), $1,000 Bonus & Up To 3.5% On All Purchases",
+    "url": "https://www.doctorofcredit.com/u-s-bank-launches-two-new-business-cards-u-s-bank-business-essentials-u-s-bank-business-essentials-plus-1000-bonus-up-to-3-5-on-all-purchases/",
+    "offer_type": "promo",
+    "headline": "3.5% Back, $1,000 Value",
+    "summary": "Promo: 3.5% back, $1,000 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 29 Sep 2026 12:00:37 +0000"
   },
   {
     "id": 540,
@@ -1260,6 +1288,48 @@
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
   },
   {
+    "id": 621,
+    "source": "Doctor of Credit",
+    "title": "Amazon Prime: Link Earnify Account & Get $0.20 Off Per Gallon On Fridays (BP, Amoco or AMPM)",
+    "url": "https://www.doctorofcredit.com/amazon-prime-link-earnify-account-get-0-20-off-per-gallon-on-fridays-bp-amoco-or-ampm/",
+    "offer_type": "promo",
+    "headline": "$0.20 Value",
+    "summary": "Promo: $0.20 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 28 Sep 2026 20:30:17 +0000"
+  },
+  {
+    "id": 620,
+    "source": "Doctor of Credit",
+    "title": "Rakuten American Express Card With Extra Earnings On Rakuten Shopping & Dining + $200 Bonus",
+    "url": "https://www.doctorofcredit.com/new-card-review-rakuten-american-express-card-with-extra-earnings-on-rakuten-shopping-dining/",
+    "offer_type": "promo",
+    "headline": "$200 Value",
+    "summary": "Promo: $200 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 28 Sep 2026 20:30:51 +0000"
+  },
+  {
+    "id": 609,
+    "source": "Doctor of Credit",
+    "title": "Rakuten: $150 Bonus For Citi Strata Premier Signup",
+    "url": "https://www.doctorofcredit.com/rakuten-100-bonus-for-citi-strata-premier-signup/",
+    "offer_type": "promo",
+    "headline": "$150 Value",
+    "summary": "Promo: $150 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 28 Sep 2026 11:00:30 +0000"
+  },
+  {
     "id": 590,
     "source": "Doctor of Credit",
     "title": "Amazon: $20 Credit When You Spend On $75+ On Select Pet Products",
@@ -1663,7 +1733,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Fri, 18 Sep 2026 03:40:10 +0000"
+    "published": "Mon, 28 Sep 2026 20:45:10 +0000"
   },
   {
     "id": 306,
@@ -1748,6 +1818,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 01 Sep 2026 15:00:27 +0000"
+  },
+  {
+    "id": 238,
+    "source": "Doctor of Credit",
+    "title": "Office Depot/Max Stores: Buy $300 In Mastercard Giftcards & Get $15 Instant Discount (9/27-10/3)",
+    "url": "https://www.doctorofcredit.com/office-depot-max-stores-buy-300-in-mastercard-giftcards-get-15-instant-discount-2-13-2-19/",
+    "offer_type": "promo",
+    "headline": "$15 Value",
+    "summary": "Promo: $15 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 28 Sep 2026 01:00:43 +0000"
   },
   {
     "id": 237,
@@ -1972,6 +2056,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
+  },
+  {
+    "id": 610,
+    "source": "Doctor of Credit",
+    "title": "[Northern KY] University of Kentucky Federal Credit Union $200 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ky-university-of-kentucky-federal-credit-union-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 28 Sep 2026 00:51:48 +0000"
   },
   {
     "id": 509,

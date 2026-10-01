@@ -1,19 +1,5 @@
 [
   {
-    "id": 534,
-    "source": "Doctor of Credit",
-    "title": "[YMMV] Chase Increased Sign Up Bonuses (175k Chase Sapphire Reserve, 125k Chase Sapphire Preferred & More)",
-    "url": "https://www.doctorofcredit.com/ymmv-chase-increased-sign-up-bonuses-175k-chase-sapphire-reserve-125k-chase-sapphire-preferred-more/",
-    "offer_type": "credit_card",
-    "headline": "175,000 Points",
-    "summary": "Credit card offer: 175,000 points",
-    "score": 9.5,
-    "score_label": "Exceptional",
-    "status": "ABOVE NORMAL",
-    "why_it_matters": "This 175,000-point offer is 115,000 points above the card's 60,000-point baseline, a 191.7% increase.",
-    "published": "Mon, 21 Sep 2026 21:05:15 +0000"
-  },
-  {
     "id": 401,
     "source": "Frequent Miler",
     "title": "Chase Sapphire Reserve for Business®: Improved 200K welcome offer",
@@ -70,6 +56,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 207,
+    "source": "Doctor of Credit",
+    "title": "Bilt Rent Day (September 2026): Up To 100% Bonus To Virgin Atlantic",
+    "url": "https://www.doctorofcredit.com/bilt-rent-day-september-2026-up-to-100-bonus-to-virgin-atlantic/",
+    "offer_type": "transfer",
+    "headline": "100% Transfer Bonus",
+    "summary": "Transfer bonus: 100%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 01 Sep 2026 12:00:05 +0000"
+  },
+  {
     "id": 615,
     "source": "Doctor of Credit",
     "title": "U.S. Bank $400-$1,500 Business Checking Bonus",
@@ -79,7 +79,7 @@
     "summary": "Bank bonus: $1,500",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 29 Sep 2026 14:00:56 +0000"
   },
@@ -180,6 +180,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 12 Sep 2026 14:00:40 +0000"
+  },
+  {
+    "id": 402,
+    "source": "Frequent Miler",
+    "title": "Amex Marriott Bonvoy Business card: Earn 100K points + 50K free night certificate with new offer",
+    "url": "https://frequentmiler.com/amex-marriott-bonvoy-business-card-earn-150k-points-50k-free-night-certificate-with-new-offer/",
+    "offer_type": "credit_card",
+    "headline": "100,000 Points",
+    "summary": "Credit card offer: 100,000 points",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Thu, 10 Sep 2026 15:45:39 +0000"
   },
   {
     "id": 370,
@@ -378,18 +392,32 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
-    "id": 7,
-    "source": "Doctor of Credit",
-    "title": "Synchrony Virgin Red: 80,000 Points Sign Up Bonus",
-    "url": "https://www.doctorofcredit.com/synchrony-virgin-red-80000-points-sign-up-bonus/",
-    "offer_type": "credit_card",
-    "headline": "80,000 Points",
-    "summary": "Credit card offer: 80,000 points",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 11 Aug 2026 20:53:11 +0000"
+    "id": 641,
+    "source": "Frequent Miler",
+    "title": "Frontier Airlines Amex Offer: Spend $200 & get $50 back",
+    "url": "https://frequentmiler.com/frontier-airlines-amex-offer-spend-200-get-50-back/",
+    "offer_type": "amex_offer",
+    "headline": "$50 Back on $200 Spend",
+    "summary": "Amex Offer: spend $200, get $50 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 25% rebate when you meet the $200 spend requirement.",
+    "published": "Tue, 29 Sep 2026 19:45:03 +0000"
+  },
+  {
+    "id": 640,
+    "source": "Frequent Miler",
+    "title": "JetBlue Amex Offer: Get $40 back when spending $200+",
+    "url": "https://frequentmiler.com/jetblue-amex-offer-get-40-back-when-spending-200/",
+    "offer_type": "amex_offer",
+    "headline": "$40 Back on $200 Spend",
+    "summary": "Amex Offer: spend $200, get $40 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $200 spend requirement.",
+    "published": "Tue, 29 Sep 2026 21:45:48 +0000"
   },
   {
     "id": 584,
@@ -474,20 +502,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 27 Sep 2026 15:00:10 +0000"
-  },
-  {
-    "id": 580,
-    "source": "Doctor of Credit",
-    "title": "Best High Yield Savings Accounts  – up to 5.00% APY",
-    "url": "https://www.doctorofcredit.com/high-interest-savings-to-get/",
-    "offer_type": "bank",
-    "headline": "5% APY",
-    "summary": "Bank APY: 5% APY",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 24 Sep 2026 18:30:33 +0000"
   },
   {
     "id": 524,
@@ -826,20 +840,6 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
-    "id": 616,
-    "source": "Doctor of Credit",
-    "title": "U.S. Bank Launches Two New Business Cards (U.S. Bank Business Essentials & U.S. Bank Business Essentials Plus), $1,000 Bonus & Up To 3.5% On All Purchases",
-    "url": "https://www.doctorofcredit.com/u-s-bank-launches-two-new-business-cards-u-s-bank-business-essentials-u-s-bank-business-essentials-plus-1000-bonus-up-to-3-5-on-all-purchases/",
-    "offer_type": "promo",
-    "headline": "3.5% Back, $1,000 Value",
-    "summary": "Promo: 3.5% back, $1,000 value",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": "NEW",
-    "why_it_matters": null,
-    "published": "Tue, 29 Sep 2026 12:00:37 +0000"
-  },
-  {
     "id": 540,
     "source": "Frequent Miler",
     "title": "25% transfer bonus to Avianca Lifemiles from Citi ThankYou Rewards",
@@ -868,18 +868,32 @@
     "published": "Sun, 20 Sep 2026 20:26:33 +0000"
   },
   {
-    "id": 478,
-    "source": "Frequent Miler",
-    "title": "Giftcards.com Chase Offer: Get 5% back on up to $1,000 spend",
-    "url": "https://frequentmiler.com/giftcards-com-chase-offer-get-5-back-on-up-to-1000-spend/",
-    "offer_type": "promo",
-    "headline": "5% Back, $1,000 Value",
-    "summary": "Promo: 5% back, $1,000 value",
+    "id": 498,
+    "source": "Doctor of Credit",
+    "title": "Brex Business Card $1,000 Signup Bonus After $4,000 Spend",
+    "url": "https://www.doctorofcredit.com/brex-business-card-1000-signup-bonus-after-4000-spend/",
+    "offer_type": "credit_card",
+    "headline": "$1,000 Bonus",
+    "summary": "Credit card offer: $1,000 bonus",
     "score": 6.5,
     "score_label": "Good",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 16 Sep 2026 14:46:30 +0000"
+    "published": "Fri, 18 Sep 2026 19:12:20 +0000"
+  },
+  {
+    "id": 480,
+    "source": "Doctor of Credit",
+    "title": "Merrill Edge Brokerage: Up To $1,000 Signup Bonus When Transferring Investments",
+    "url": "https://www.doctorofcredit.com/merrill-edge-brokerage-up-to-1000-cash-bonus-for-moving-over-your-investments/",
+    "offer_type": "promo",
+    "headline": "$1,000 Value",
+    "summary": "Promo: $1,000 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Thu, 17 Sep 2026 19:15:22 +0000"
   },
   {
     "id": 349,
@@ -896,18 +910,32 @@
     "published": "Fri, 11 Sep 2026 02:00:14 +0000"
   },
   {
-    "id": 290,
-    "source": "Frequent Miler",
-    "title": "Caesars Chase Offer: 10% back on up to $500 spend",
-    "url": "https://frequentmiler.com/caesars-chase-offer-10-back-up-to-50-stack-with-amex-offer/",
-    "offer_type": "promo",
-    "headline": "10% Back, $500 Value",
-    "summary": "Promo: 10% back, $500 value",
+    "id": 281,
+    "source": "Doctor of Credit",
+    "title": "USAA Eagle Navigator Card – 50,000 Point Sign Up Bonus",
+    "url": "https://www.doctorofcredit.com/usaa-eagle-navigator-card-50000-point-sign-up-bonus/",
+    "offer_type": "credit_card",
+    "headline": "50,000 Points",
+    "summary": "Credit card offer: 50,000 points",
     "score": 6.5,
     "score_label": "Good",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 02 Sep 2026 21:45:23 +0000"
+    "published": "Wed, 02 Sep 2026 21:19:16 +0000"
+  },
+  {
+    "id": 257,
+    "source": "Frequent Miler",
+    "title": "Now 50K points with new Carnival Rewards Mastercard",
+    "url": "https://frequentmiler.com/now-50k-points-with-new-carnival-rewards-mastercard/",
+    "offer_type": "credit_card",
+    "headline": "50,000 Points",
+    "summary": "Credit card offer: 50,000 points",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 31 Aug 2026 15:45:43 +0000"
   },
   {
     "id": 226,
@@ -922,6 +950,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 14 Sep 2026 22:52:32 +0000"
+  },
+  {
+    "id": 180,
+    "source": "Frequent Miler",
+    "title": "(Last chance) Capital One Spark Cash welcome offer: $1,000 cash back + $250 travel credit",
+    "url": "https://frequentmiler.com/capital-one-spark-cash-welcome-offer-1000-cash-back-250-travel-credit/",
+    "offer_type": "credit_card",
+    "headline": "$1,000 Bonus",
+    "summary": "Credit card offer: $1,000 bonus",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Wed, 26 Aug 2026 15:45:47 +0000"
   },
   {
     "id": 111,
@@ -1148,6 +1190,20 @@
     "published": "Fri, 04 Sep 2026 15:45:33 +0000"
   },
   {
+    "id": 306,
+    "source": "Frequent Miler",
+    "title": "American Express Rewards Checking: $300 bonus for new customers",
+    "url": "https://frequentmiler.com/ameircan-express-rewards-checking-bonus-for-new-customers/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Thu, 03 Sep 2026 21:45:23 +0000"
+  },
+  {
     "id": 263,
     "source": "Doctor of Credit",
     "title": "Amex Offers: Chevron, Texaco, Spend $30 & Get $5, Must Use App Or Pay At Pump",
@@ -1174,6 +1230,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 31 Aug 2026 01:20:45 +0000"
+  },
+  {
+    "id": 194,
+    "source": "Doctor of Credit",
+    "title": "SoFi Checking & Savings $400 + $335 Signup Bonus (Nationwide; Requires $5,000 Direct Deposit)",
+    "url": "https://www.doctorofcredit.com/sofi-checking-5000-direct-deposit-required/",
+    "offer_type": "bank",
+    "headline": "$335 Bank Bonus",
+    "summary": "Bank bonus: $335",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Thu, 27 Aug 2026 17:00:42 +0000"
   },
   {
     "id": 150,
@@ -1204,6 +1274,20 @@
     "published": "Sun, 23 Aug 2026 22:30:11 +0000"
   },
   {
+    "id": 146,
+    "source": "Doctor of Credit",
+    "title": "[MI] Forest Area Federal Credit Union $300 Checking Referral Bonus",
+    "url": "https://www.doctorofcredit.com/mi-forest-area-federal-credit-union-300-checking-referral-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 01 Sep 2026 14:00:06 +0000"
+  },
+  {
     "id": 126,
     "source": "Doctor of Credit",
     "title": "[AL, CO, FL, GA, NC, SC, TX, VA] South State Bank $300 Checking Bonus – Direct Deposit Not Required",
@@ -1232,18 +1316,18 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
-    "id": 555,
+    "id": 627,
     "source": "Frequent Miler",
-    "title": "(Amazon too) Capital One Offers: Get $10 / 1,000 miles on $20 with eBay, Sam’s Club, Home Depot & more",
-    "url": "https://frequentmiler.com/capital-one-offers-get-10-1000-miles-on-20/",
+    "title": "United shopping portal promo: Spend $150 & get 500 bonus miles",
+    "url": "https://frequentmiler.com/united-shopping-portal-promo-spend-150-get-500-bonus-miles/",
     "offer_type": "promo",
-    "headline": "Earn 1,000 Points with $20 Spend",
-    "summary": "Promo: earn 1,000 points with $20 spend",
+    "headline": "Earn 500 Points with $150 Spend",
+    "summary": "Promo: earn 500 points with $150 spend",
     "score": 5.5,
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 22 Sep 2026 19:45:53 +0000"
+    "published": "Mon, 28 Sep 2026 19:45:48 +0000"
   },
   {
     "id": 394,
@@ -1297,7 +1381,7 @@
     "summary": "Promo: $0.20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 28 Sep 2026 20:30:17 +0000"
   },
@@ -1306,14 +1390,28 @@
     "source": "Doctor of Credit",
     "title": "Rakuten American Express Card With Extra Earnings On Rakuten Shopping & Dining + $200 Bonus",
     "url": "https://www.doctorofcredit.com/new-card-review-rakuten-american-express-card-with-extra-earnings-on-rakuten-shopping-dining/",
-    "offer_type": "promo",
-    "headline": "$200 Value",
-    "summary": "Promo: $200 value",
+    "offer_type": "credit_card",
+    "headline": "$200 Bonus",
+    "summary": "Credit card offer: $200 bonus",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 28 Sep 2026 20:30:51 +0000"
+  },
+  {
+    "id": 619,
+    "source": "Doctor of Credit",
+    "title": "Whole Foods: $10 Off $50 For New App Users",
+    "url": "https://www.doctorofcredit.com/whole-foods-10-off-50-for-new-app-users/",
+    "offer_type": "promo",
+    "headline": "$10 Off $50 Spend",
+    "summary": "Promo: $10 off $50 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 29 Sep 2026 00:16:07 +0000"
   },
   {
     "id": 609,
@@ -1540,6 +1638,20 @@
     "published": "Fri, 18 Sep 2026 23:18:45 +0000"
   },
   {
+    "id": 478,
+    "source": "Frequent Miler",
+    "title": "Giftcards.com Chase Offer: Get 5% back on up to $1,000 spend",
+    "url": "https://frequentmiler.com/giftcards-com-chase-offer-get-5-back-on-up-to-1000-spend/",
+    "offer_type": "promo",
+    "headline": "5% Back, Up to $50 Value on $1,000 Spend",
+    "summary": "Promo: 5% back, up to $50 value on $1,000 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Wed, 16 Sep 2026 14:46:30 +0000"
+  },
+  {
     "id": 469,
     "source": "Doctor of Credit",
     "title": "[Targeted] Percapita (Fintech): Earn $25-$50 Per Month When You Spend $300-$600",
@@ -1573,8 +1685,8 @@
     "title": "Amazon Prime Members Get $20 Off $30 Grubhub Order (Pickup or Delivery; DEALS20)",
     "url": "https://www.doctorofcredit.com/amazon-prime-members-get-20-off-30-grubhub-order-pickup-or-delivery-deals20/",
     "offer_type": "promo",
-    "headline": "$20 Value",
-    "summary": "Promo: $20 value",
+    "headline": "$20 Off $30 Spend",
+    "summary": "Promo: $20 off $30 spend",
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
@@ -1643,8 +1755,8 @@
     "title": "Best Western Chase Offer: Get 10% back on $100-$320 spend",
     "url": "https://frequentmiler.com/best-western-chase-offer-get-10-back-on-100-320-spend/",
     "offer_type": "promo",
-    "headline": "10% Back, $320 Value",
-    "summary": "Promo: 10% back, $320 value",
+    "headline": "10% Back, Up to $32 Value on $320 Spend",
+    "summary": "Promo: 10% back, up to $32 value on $320 spend",
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
@@ -1664,6 +1776,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 08 Sep 2026 23:45:31 +0000"
+  },
+  {
+    "id": 350,
+    "source": "Doctor of Credit",
+    "title": "(In-Branch) Regions Business Enhanced Visa Card $300 Signup Bonus + 0% APR",
+    "url": "https://www.doctorofcredit.com/in-branch-regions-business-enhanced-visa-card-300-signup-bonus-0-apr/",
+    "offer_type": "credit_card",
+    "headline": "$300 Bonus",
+    "summary": "Credit card offer: $300 bonus",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 07 Sep 2026 17:00:13 +0000"
+  },
+  {
+    "id": 348,
+    "source": "Doctor of Credit",
+    "title": "Postmates: $15 Off $35 With Promo Code SHARETHELOVE (New York, Los Angeles & Las Vegas)",
+    "url": "https://www.doctorofcredit.com/postmates-15-off-45-with-promo-code-dodgers/",
+    "offer_type": "promo",
+    "headline": "$15 Off $35 Spend",
+    "summary": "Promo: $15 off $35 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 28 Sep 2026 00:55:13 +0000"
   },
   {
     "id": 336,
@@ -1733,21 +1873,21 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Mon, 28 Sep 2026 20:45:10 +0000"
+    "published": "Tue, 29 Sep 2026 23:43:10 +0000"
   },
   {
-    "id": 306,
-    "source": "Frequent Miler",
-    "title": "American Express Rewards Checking: $300 bonus for new customers",
-    "url": "https://frequentmiler.com/ameircan-express-rewards-checking-bonus-for-new-customers/",
+    "id": 311,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] inKind: $5 Off $10",
+    "url": "https://www.doctorofcredit.com/ymmv-inkind-5-off-10/",
     "offer_type": "promo",
-    "headline": "$300 Value",
-    "summary": "Promo: $300 value",
+    "headline": "$5 Off $10 Spend",
+    "summary": "Promo: $5 off $10 spend",
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 03 Sep 2026 21:45:23 +0000"
+    "published": "Sat, 05 Sep 2026 12:00:10 +0000"
   },
   {
     "id": 299,
@@ -1762,6 +1902,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 19:10:12 +0000"
+  },
+  {
+    "id": 290,
+    "source": "Frequent Miler",
+    "title": "Caesars Chase Offer: 10% back on up to $500 spend",
+    "url": "https://frequentmiler.com/caesars-chase-offer-10-back-up-to-50-stack-with-amex-offer/",
+    "offer_type": "promo",
+    "headline": "10% Back, Up to $50 Value on $500 Spend",
+    "summary": "Promo: 10% back, up to $50 value on $500 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Wed, 02 Sep 2026 21:45:23 +0000"
   },
   {
     "id": 283,
@@ -1797,8 +1951,8 @@
     "title": "Citi Travel promo: Get $75 off $400+ hotel stay, stack with other hotel credits",
     "url": "https://frequentmiler.com/citi-travel-promo-get-75-off-400-hotel-stay-stack-with-other-hotel-credits/",
     "offer_type": "promo",
-    "headline": "$75 Value",
-    "summary": "Promo: $75 value",
+    "headline": "$75 Off $400 Spend",
+    "summary": "Promo: $75 off $400 spend",
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
@@ -1890,6 +2044,20 @@
     "published": "Thu, 27 Aug 2026 21:27:52 +0000"
   },
   {
+    "id": 171,
+    "source": "Frequent Miler",
+    "title": "(9/28 only) Rakuten American Express card welcome offer increased to $200",
+    "url": "https://frequentmiler.com/rakuten-american-express-card-welcome-offer-increased-to-200-20k-points/",
+    "offer_type": "credit_card",
+    "headline": "$200 Bonus",
+    "summary": "Credit card offer: $200 bonus",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 28 Sep 2026 13:45:16 +0000"
+  },
+  {
     "id": 162,
     "source": "Doctor of Credit",
     "title": "Chewy.com: Earn $30 Giftcard When You Spend $100",
@@ -1916,6 +2084,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 16 Sep 2026 23:54:58 +0000"
+  },
+  {
+    "id": 145,
+    "source": "Doctor of Credit",
+    "title": "American Express Announces U.S. Open Benefits 2026 (Two Lounges & $10 Off $100+)",
+    "url": "https://www.doctorofcredit.com/american-express-announces-u-s-open-benefits-2026-two-lounges-10-off-100/",
+    "offer_type": "promo",
+    "headline": "$10 Off $100 Spend",
+    "summary": "Promo: $10 off $100 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Sun, 23 Aug 2026 23:43:14 +0000"
   },
   {
     "id": 116,
@@ -2002,18 +2184,18 @@
     "published": "Sat, 29 Aug 2026 11:30:44 +0000"
   },
   {
-    "id": 40,
-    "source": "Frequent Miler",
-    "title": "Marriott Bonvoy Citi Offer: Get 10% back on $300",
-    "url": "https://frequentmiler.com/marriott-bonvoy-citi-offer-get-10-back-on-300/",
+    "id": 50,
+    "source": "Doctor of Credit",
+    "title": "7-Eleven 7NOW App Promo Codes: $10 off $15+, No Code",
+    "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
     "offer_type": "promo",
-    "headline": "10% Back, $300 Value",
-    "summary": "Promo: 10% back, $300 value",
+    "headline": "$10 Off $15 Spend",
+    "summary": "Promo: $10 off $15 spend",
     "score": 4.5,
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 13 Aug 2026 22:45:38 +0000"
+    "published": "Tue, 15 Sep 2026 21:00:41 +0000"
   },
   {
     "id": 29,
@@ -2044,6 +2226,20 @@
     "published": "Fri, 14 Aug 2026 19:09:59 +0000"
   },
   {
+    "id": 25,
+    "source": "Doctor of Credit",
+    "title": "Walmart: $10 Off $35+ With Promo Code SAVE3X/FAST30/DOUBLE10/TRIPLE10 (Next 3 Delivery/Pickup Orders)",
+    "url": "https://www.doctorofcredit.com/walmart-10-off-35-with-promo-code-fast30-next-3-delivery-pickup-orders/",
+    "offer_type": "promo",
+    "headline": "$10 Off $35 Spend",
+    "summary": "Promo: $10 off $35 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 29 Sep 2026 01:25:45 +0000"
+  },
+  {
     "id": 24,
     "source": "Doctor of Credit",
     "title": "Rakuten: Get $100 For Chase INK Cash/Unlimited or $25 For Freedom Unlimited.",
@@ -2056,6 +2252,48 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
+  },
+  {
+    "id": 9,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers (CSR): Trust & Will $199 Off $199",
+    "url": "https://www.doctorofcredit.com/chase-offers-csr-trust-will-199-off-199/",
+    "offer_type": "promo",
+    "headline": "$199 Off $199 Spend",
+    "summary": "Promo: $199 off $199 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 11 Aug 2026 20:45:02 +0000"
+  },
+  {
+    "id": 2,
+    "source": "Doctor of Credit",
+    "title": "Varo Money (Online Bank Account) – $200 Sign Up Bonus (iOS & Android)",
+    "url": "https://www.doctorofcredit.com/varo-money-online-bank-account-75-sign-up-bonus-ios-android-sharing-referrals-still-a-nono/",
+    "offer_type": "promo",
+    "headline": "$200 Value",
+    "summary": "Promo: $200 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 629,
+    "source": "Doctor of Credit",
+    "title": "Hyatt Q4 2026 Promotion: Earn 3,000 Bonus Points On Stays 3+ Nights",
+    "url": "https://www.doctorofcredit.com/hyatt-q4-2026-promotion-earn-3000-bonus-points-on-stays-3-nights/",
+    "offer_type": "promo",
+    "headline": "3,000 Bonus Points",
+    "summary": "Promo: 3,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 30 Sep 2026 14:00:51 +0000"
   },
   {
     "id": 610,
@@ -2114,6 +2352,34 @@
     "published": "Sun, 13 Sep 2026 18:00:46 +0000"
   },
   {
+    "id": 397,
+    "source": "Frequent Miler",
+    "title": "IHG promo: Earn 20,000 bonus points after two stays",
+    "url": "https://frequentmiler.com/ihg-promo-earn-20000-bonus-points-after-two-stays/",
+    "offer_type": "promo",
+    "headline": "20,000 Bonus Points",
+    "summary": "Promo: 20,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Thu, 10 Sep 2026 23:45:19 +0000"
+  },
+  {
+    "id": 375,
+    "source": "Doctor of Credit",
+    "title": "Marriott Global Promotion: Earn 1,500 Bonus Points On Stays Of Two Nights Or More",
+    "url": "https://www.doctorofcredit.com/marriott-global-promotion-earn-1500-bonus-points-on-stays-of-two-nights-or-more/",
+    "offer_type": "promo",
+    "headline": "1,500 Bonus Points",
+    "summary": "Promo: 1,500 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Thu, 10 Sep 2026 13:00:07 +0000"
+  },
+  {
     "id": 340,
     "source": "Doctor of Credit",
     "title": "[MS] Members Exchange Federal Credit Union $200 Checking Bonus",
@@ -2128,6 +2394,62 @@
     "published": "Sun, 06 Sep 2026 20:00:14 +0000"
   },
   {
+    "id": 307,
+    "source": "Frequent Miler",
+    "title": "Air France/KLM Amex Offer: Spend $1,000 & get 20,000 Membership Rewards",
+    "url": "https://frequentmiler.com/air-france-klm-amex-offer-spend-1000-get-20000-membership-rewards-3/",
+    "offer_type": "amex_offer",
+    "headline": "Spend $1,000, get 20,000 points",
+    "summary": "Amex Offer: spend $1,000, get 20,000 points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Thu, 03 Sep 2026 20:45:59 +0000"
+  },
+  {
+    "id": 268,
+    "source": "Frequent Miler",
+    "title": "Targeted Marriott promo: Earn up to 9,000 bonus points",
+    "url": "https://frequentmiler.com/targeted-marriott-promo-earn-up-to-9000-bonus-points/",
+    "offer_type": "promo",
+    "headline": "9,000 Bonus Points",
+    "summary": "Promo: 9,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Wed, 02 Sep 2026 12:45:55 +0000"
+  },
+  {
+    "id": 198,
+    "source": "Frequent Miler",
+    "title": "Hilton Amex Offer: Spend $1,000 on your card, get 5,000 bonus points (targeted)",
+    "url": "https://frequentmiler.com/hilton-amex-spending-offer-spend-1000-get-5000-bonus-points-targeted/",
+    "offer_type": "amex_offer",
+    "headline": "Spend $1,000, get 5,000 points",
+    "summary": "Amex Offer: spend $1,000, get 5,000 points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Thu, 27 Aug 2026 20:45:54 +0000"
+  },
+  {
+    "id": 164,
+    "source": "Frequent Miler",
+    "title": "New Delta SkyMiles members can earn up to 5,000 bonus miles when joining",
+    "url": "https://frequentmiler.com/new-delta-skymiles-members-can-earn-up-to-5000-bonus-miles-when-joining/",
+    "offer_type": "promo",
+    "headline": "5,000 Bonus Points",
+    "summary": "Promo: 5,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 25 Aug 2026 13:45:57 +0000"
+  },
+  {
     "id": 147,
     "source": "Doctor of Credit",
     "title": "[AL, FL] Alabama Credit Union $100 Checking Bonus",
@@ -2140,6 +2462,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 23 Aug 2026 23:03:08 +0000"
+  },
+  {
+    "id": 138,
+    "source": "Frequent Miler",
+    "title": "Homes & Villas by Marriott promo: Earn 2K bonus points per night",
+    "url": "https://frequentmiler.com/homes-villas-by-marriott-promo-earn-2k-bonus-points-per-night-minimum-2k-spend-10k-max-bonus-points/",
+    "offer_type": "promo",
+    "headline": "2,000 Bonus Points",
+    "summary": "Promo: 2,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Fri, 21 Aug 2026 17:45:50 +0000"
+  },
+  {
+    "id": 92,
+    "source": "Frequent Miler",
+    "title": "Wyndham Business promo: Earn 15K bonus points when joining program & staying at least 1 night",
+    "url": "https://frequentmiler.com/wyndham-business-promo-earn-15k-bonus-points-when-joining-program-staying-at-least-1-night/",
+    "offer_type": "promo",
+    "headline": "15,000 Bonus Points",
+    "summary": "Promo: 15,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 18 Aug 2026 17:45:35 +0000"
   },
   {
     "id": 58,
@@ -2196,5 +2546,19 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 14:00:47 +0000"
+  },
+  {
+    "id": 18,
+    "source": "Frequent Miler",
+    "title": "(Extended) Earn up to 30k bonus points on stays at Hyatt Place & Hyatt Select",
+    "url": "https://frequentmiler.com/earn-up-to-30k-bonus-points-on-stays-at-hyatt-place-hyatt-select/",
+    "offer_type": "promo",
+    "headline": "30,000 Bonus Points",
+    "summary": "Promo: 30,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 10 Aug 2026 22:45:53 +0000"
   }
 ]

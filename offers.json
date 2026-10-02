@@ -37,7 +37,7 @@
     "summary": "Transfer bonus: 50%",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 01 Oct 2026 12:45:27 +0000"
   },
@@ -51,7 +51,7 @@
     "summary": "Transfer bonus: 50%",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 01 Oct 2026 10:00:47 +0000"
   },
@@ -65,7 +65,7 @@
     "summary": "Transfer bonus: 200%",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 01 Oct 2026 12:00:22 +0000"
   },
@@ -322,6 +322,20 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 656,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Get 10-45% Back On UPS Shipping Online (Up To $500 Cashback)",
+    "url": "https://www.doctorofcredit.com/amex-offers-business-get-60-back-on-ups-shipping-online/",
+    "offer_type": "amex_offer",
+    "headline": "$500 value",
+    "summary": "Amex Offer: $500 value",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 14:00:23 +0000"
+  },
+  {
     "id": 589,
     "source": "Doctor of Credit",
     "title": "Chase Southwest Business Card 80,000 Points Signup Bonus",
@@ -376,20 +390,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 03 Sep 2026 17:46:31 +0000"
-  },
-  {
-    "id": 265,
-    "source": "Doctor of Credit",
-    "title": "Capital One Transfer Bonus: 30% Japan Airlines (1,000:975)",
-    "url": "https://www.doctorofcredit.com/capital-one-transfer-bonus-30-japan-airlines-1000975/",
-    "offer_type": "transfer",
-    "headline": "30% Transfer Bonus",
-    "summary": "Transfer bonus: 30%",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 01 Sep 2026 20:37:11 +0000"
   },
   {
     "id": 264,
@@ -516,6 +516,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 659,
+    "source": "Doctor of Credit",
+    "title": "CIT Bank .5% APY Boost For 6 Months – New & Existing Customers (Code BOOST50)",
+    "url": "https://www.doctorofcredit.com/cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost/",
+    "offer_type": "bank",
+    "headline": "5% APY for 6 months",
+    "summary": "Bank APY: 5% APY for 6 months",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 10:00:03 +0000"
   },
   {
     "id": 600,
@@ -868,6 +882,34 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 658,
+    "source": "Doctor of Credit",
+    "title": "American Express Transfer Bonus: 20% To AeroMexico",
+    "url": "https://www.doctorofcredit.com/american-express-transfer-bonus-20-to-aeromexico-3/",
+    "offer_type": "transfer",
+    "headline": "20% Transfer Bonus",
+    "summary": "Transfer bonus: 20%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 11:00:51 +0000"
+  },
+  {
+    "id": 657,
+    "source": "Doctor of Credit",
+    "title": "American Express Transfer Bonus: 25% To AirFrance/KLM FlyingBlue (1:1.25)",
+    "url": "https://www.doctorofcredit.com/american-express-transfer-bonus-25-to-airfrance-klm-flyingblue-11-25-4/",
+    "offer_type": "transfer",
+    "headline": "25% Transfer Bonus",
+    "summary": "Transfer bonus: 25%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 12:00:00 +0000"
+  },
+  {
     "id": 540,
     "source": "Frequent Miler",
     "title": "25% transfer bonus to Avianca Lifemiles from Citi ThankYou Rewards",
@@ -1064,20 +1106,6 @@
     "published": "Sat, 19 Sep 2026 15:00:27 +0000"
   },
   {
-    "id": 420,
-    "source": "Doctor of Credit",
-    "title": "[CA, Select Counties] Valley Strong Credit Union $250 Checking Bonus, Direct Deposit Not Required",
-    "url": "https://www.doctorofcredit.com/ca-select-counties-valley-strong-credit-union-250-checking-bonus-direct-deposit-not-required/",
-    "offer_type": "bank",
-    "headline": "$250 Bank Bonus",
-    "summary": "Bank bonus: $250",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 12 Sep 2026 15:00:54 +0000"
-  },
-  {
     "id": 419,
     "source": "Doctor of Credit",
     "title": "[DC, DE, PA, VA, WV, MD] SECU $350 Checking Bonus",
@@ -1118,20 +1146,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 12 Sep 2026 19:30:23 +0000"
-  },
-  {
-    "id": 416,
-    "source": "Doctor of Credit",
-    "title": "[CT only] Mutual Security Credit Union $250 Business Checking Bonus",
-    "url": "https://www.doctorofcredit.com/ct-only-mutual-security-credit-union-250-business-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$250 Bank Bonus",
-    "summary": "Bank bonus: $250",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 13 Sep 2026 13:00:47 +0000"
   },
   {
     "id": 361,
@@ -1372,18 +1386,18 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
-    "id": 210,
+    "id": 660,
     "source": "Doctor of Credit",
-    "title": "AmEx Offers: Allegiant Air, Spend $200/$250 & Get $50 Back",
-    "url": "https://www.doctorofcredit.com/amex-offers-allegiant-air-spend-200-250-get-50-back/",
-    "offer_type": "amex_offer",
-    "headline": "Tiered/multiple dollar offer",
-    "summary": "Amex Offer: tiered/multiple dollar offer",
-    "score": 5.5,
+    "title": "SoFi Crypto: Transfer $1,000+ In Eligible Crypto Assets & Earn $300 In SOFID (One Year Hold)",
+    "url": "https://www.doctorofcredit.com/sofi-crypto-transfer-1000-in-eligible-crypto-assets-earn-300-in-sofid-one-year-hold/",
+    "offer_type": "promo",
+    "headline": "$300 Value",
+    "summary": "Promo: $300 value",
+    "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Fri, 28 Aug 2026 18:27:41 +0000"
+    "published": "Thu, 01 Oct 2026 22:18:43 +0000"
   },
   {
     "id": 654,
@@ -1395,7 +1409,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 30 Sep 2026 15:45:18 +0000"
   },
@@ -1409,7 +1423,7 @@
     "summary": "Promo: $297 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 30 Sep 2026 23:51:10 +0000"
   },
@@ -1596,34 +1610,6 @@
     "published": "Thu, 24 Sep 2026 19:30:37 +0000"
   },
   {
-    "id": 517,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Chase Offers: $50 Back New T-Mobile Customers [BofA, Regions, Suntrust & More]",
-    "url": "https://www.doctorofcredit.com/targeted-chase-offers-100-back-new-t-mobile-customers-bofa-regions-suntrust-more/",
-    "offer_type": "promo",
-    "headline": "$50 Value",
-    "summary": "Promo: $50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 21 Sep 2026 14:00:54 +0000"
-  },
-  {
-    "id": 513,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Chase/Wells Fargo Offers: AT&T Wireless, Spend $100 & Get $75 Back",
-    "url": "https://www.doctorofcredit.com/targeted-chase-offers-att-wireless-spend-100-get-75-back/",
-    "offer_type": "promo",
-    "headline": "$75 Value",
-    "summary": "Promo: $75 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 19 Sep 2026 18:00:36 +0000"
-  },
-  {
     "id": 511,
     "source": "Doctor of Credit",
     "title": "Chase Offers/WF/USB: Get Up To 10% Back at Kroger Brands, Harris Teeter ($9 Cashback Max)",
@@ -1736,20 +1722,6 @@
     "published": "Tue, 15 Sep 2026 15:08:25 +0000"
   },
   {
-    "id": 452,
-    "source": "Doctor of Credit",
-    "title": "Chase Offers: Get 10% Back at Lowe’s/Lowes.com ($50 Cashback Max)",
-    "url": "https://www.doctorofcredit.com/chase-offers-ihg-only-get-15-back-at-lowes-50-cashback-max/",
-    "offer_type": "promo",
-    "headline": "10% Back, $50 Value",
-    "summary": "Promo: 10% back, $50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 15 Sep 2026 18:00:51 +0000"
-  },
-  {
     "id": 425,
     "source": "Doctor of Credit",
     "title": "Albert (Fintech): Get $200 In Stock For Free",
@@ -1762,20 +1734,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 13 Sep 2026 22:20:36 +0000"
-  },
-  {
-    "id": 422,
-    "source": "Doctor of Credit",
-    "title": "AmEx, Wells, USB Offers: Get 10% Off CVS (Max $5 Back)",
-    "url": "https://www.doctorofcredit.com/amex-offers-get-10-off-cvs-max-10-back/",
-    "offer_type": "promo",
-    "headline": "10% Back, $5 Value",
-    "summary": "Promo: 10% back, $5 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 14 Sep 2026 14:42:55 +0000"
   },
   {
     "id": 393,
@@ -1832,20 +1790,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 07 Sep 2026 17:00:13 +0000"
-  },
-  {
-    "id": 336,
-    "source": "Doctor of Credit",
-    "title": "Spruce Money (Fintech) $100 Bonus",
-    "url": "https://www.doctorofcredit.com/spruce-money-fintech-100-bonus/",
-    "offer_type": "promo",
-    "headline": "$100 Value",
-    "summary": "Promo: $100 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 07 Sep 2026 14:00:04 +0000"
   },
   {
     "id": 318,
@@ -1958,20 +1902,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
-  },
-  {
-    "id": 277,
-    "source": "Doctor of Credit",
-    "title": "Citi/Chase Offers: Get Up To 15% Back At Stop & Shop, Giant (2x; $10 Max Cashback)",
-    "url": "https://www.doctorofcredit.com/citi-offers-get-4-back-at-giant-stop-30-max-cashback/",
-    "offer_type": "promo",
-    "headline": "15% Back, $10 Value",
-    "summary": "Promo: 15% back, $10 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 03 Sep 2026 12:00:48 +0000"
   },
   {
     "id": 266,
@@ -2156,10 +2086,10 @@
     "published": "Fri, 21 Aug 2026 15:00:00 +0000"
   },
   {
-    "id": 95,
-    "source": "Doctor of Credit",
-    "title": "Citi Offers: Caesars Rewards, Spend $250+ & Get $25 Back",
-    "url": "https://www.doctorofcredit.com/citi-offers-30-off-150-at-caesars-rewards/",
+    "id": 106,
+    "source": "Frequent Miler",
+    "title": "Caesars Rewards Citi Offer: Get $25 back when spending $250+",
+    "url": "https://frequentmiler.com/caesars-rewards-citi-offer-get-25-back-when-spending-250/",
     "offer_type": "promo",
     "headline": "$25 Value",
     "summary": "Promo: $25 value",
@@ -2167,7 +2097,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 20 Aug 2026 15:30:55 +0000"
+    "published": "Wed, 19 Aug 2026 21:45:10 +0000"
   },
   {
     "id": 83,
@@ -2364,34 +2294,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 13 Sep 2026 18:00:46 +0000"
-  },
-  {
-    "id": 340,
-    "source": "Doctor of Credit",
-    "title": "[MS] Members Exchange Federal Credit Union $200 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/ms-members-exchange-federal-credit-union-200-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$200 Bank Bonus",
-    "summary": "Bank bonus: $200",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 06 Sep 2026 20:00:14 +0000"
-  },
-  {
-    "id": 307,
-    "source": "Frequent Miler",
-    "title": "Air France/KLM Amex Offer: Spend $1,000 & get 20,000 Membership Rewards",
-    "url": "https://frequentmiler.com/air-france-klm-amex-offer-spend-1000-get-20000-membership-rewards-3/",
-    "offer_type": "amex_offer",
-    "headline": "Spend $1,000, get 20,000 points",
-    "summary": "Amex Offer: spend $1,000, get 20,000 points",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 03 Sep 2026 20:45:59 +0000"
   },
   {
     "id": 268,

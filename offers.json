@@ -28,6 +28,48 @@
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
   },
   {
+    "id": 651,
+    "source": "Frequent Miler",
+    "title": "Rove transfer bonus bonanza: 50% to Japan Airlines, 40% to Flying Blue, & up to 35% to Qatar Airways",
+    "url": "https://frequentmiler.com/rove-transfer-bonus-bonanza-50-to-japan-airlines-40-to-flying-blue-up-to-35-to-qatar-airways/",
+    "offer_type": "transfer",
+    "headline": "50% Transfer Bonus",
+    "summary": "Transfer bonus: 50%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 01 Oct 2026 12:45:27 +0000"
+  },
+  {
+    "id": 644,
+    "source": "Doctor of Credit",
+    "title": "Rove Transfer Bonuses: 50% To JAL, 40% To Flying Blue & 35% To Qatar",
+    "url": "https://www.doctorofcredit.com/rove-transfer-bonuses-50-to-jal-40-to-flying-blue-35-to-qatar/",
+    "offer_type": "transfer",
+    "headline": "50% Transfer Bonus",
+    "summary": "Transfer bonus: 50%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 01 Oct 2026 10:00:47 +0000"
+  },
+  {
+    "id": 643,
+    "source": "Doctor of Credit",
+    "title": "Bilt Rent Day (October 2026): Up To 125% Bonus To Amtrak & Up To 200% Bonus To Hilton",
+    "url": "https://www.doctorofcredit.com/bilt-rent-day-october-2026-up-to-125-bonus-to-amtrak-up-to-200-bonus-to-hilton/",
+    "offer_type": "transfer",
+    "headline": "200% Transfer Bonus",
+    "summary": "Transfer bonus: 200%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 01 Oct 2026 12:00:22 +0000"
+  },
+  {
     "id": 462,
     "source": "Frequent Miler",
     "title": "Get a 70% transfer bonus from Chase Ultimate Rewards to Marriott Bonvoy",
@@ -54,20 +96,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
-  },
-  {
-    "id": 207,
-    "source": "Doctor of Credit",
-    "title": "Bilt Rent Day (September 2026): Up To 100% Bonus To Virgin Atlantic",
-    "url": "https://www.doctorofcredit.com/bilt-rent-day-september-2026-up-to-100-bonus-to-virgin-atlantic/",
-    "offer_type": "transfer",
-    "headline": "100% Transfer Bonus",
-    "summary": "Transfer bonus: 100%",
-    "score": 9.0,
-    "score_label": "Exceptional",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 01 Sep 2026 12:00:05 +0000"
   },
   {
     "id": 615,
@@ -401,7 +429,7 @@
     "summary": "Amex Offer: spend $200, get $50 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 25% rebate when you meet the $200 spend requirement.",
     "published": "Tue, 29 Sep 2026 19:45:03 +0000"
   },
@@ -415,7 +443,7 @@
     "summary": "Amex Offer: spend $200, get $40 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $200 spend requirement.",
     "published": "Tue, 29 Sep 2026 21:45:48 +0000"
   },
@@ -952,20 +980,6 @@
     "published": "Mon, 14 Sep 2026 22:52:32 +0000"
   },
   {
-    "id": 180,
-    "source": "Frequent Miler",
-    "title": "(Last chance) Capital One Spark Cash welcome offer: $1,000 cash back + $250 travel credit",
-    "url": "https://frequentmiler.com/capital-one-spark-cash-welcome-offer-1000-cash-back-250-travel-credit/",
-    "offer_type": "credit_card",
-    "headline": "$1,000 Bonus",
-    "summary": "Credit card offer: $1,000 bonus",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 26 Aug 2026 15:45:47 +0000"
-  },
-  {
     "id": 111,
     "source": "Doctor of Credit",
     "title": "Aven Rewards Checking + Rewards Visa: 5% Back On All Purchases (Up To $25,000 Each Year), Requires $25,000 Balance",
@@ -1370,6 +1384,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 28 Aug 2026 18:27:41 +0000"
+  },
+  {
+    "id": 654,
+    "source": "Frequent Miler",
+    "title": "Targeted Delta promo: Earn $100 eCredit on your next international flight in Delta Main",
+    "url": "https://frequentmiler.com/targeted-delta-promo-earn-100-ecredit-on-your-next-international-flight-in-delta-main/",
+    "offer_type": "promo",
+    "headline": "$100 Value",
+    "summary": "Promo: $100 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 30 Sep 2026 15:45:18 +0000"
+  },
+  {
+    "id": 645,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] Capital One Shopping: $297 Back On Bookmap Global Plus Monthly ($99)",
+    "url": "https://www.doctorofcredit.com/ymmv-capital-one-shopping-297-back-on-bookmap-global-plus-monthly-99/",
+    "offer_type": "promo",
+    "headline": "$297 Value",
+    "summary": "Promo: $297 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 30 Sep 2026 23:51:10 +0000"
   },
   {
     "id": 621,
@@ -1790,20 +1832,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 07 Sep 2026 17:00:13 +0000"
-  },
-  {
-    "id": 348,
-    "source": "Doctor of Credit",
-    "title": "Postmates: $15 Off $35 With Promo Code SHARETHELOVE (New York, Los Angeles & Las Vegas)",
-    "url": "https://www.doctorofcredit.com/postmates-15-off-45-with-promo-code-dodgers/",
-    "offer_type": "promo",
-    "headline": "$15 Off $35 Spend",
-    "summary": "Promo: $15 off $35 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 28 Sep 2026 00:55:13 +0000"
   },
   {
     "id": 336,
@@ -2256,7 +2284,7 @@
   {
     "id": 9,
     "source": "Doctor of Credit",
-    "title": "Chase Offers (CSR): Trust & Will $199 Off $199",
+    "title": "Chase Offers (CSR, CSP): Trust & Will $199 Off $199",
     "url": "https://www.doctorofcredit.com/chase-offers-csr-trust-will-199-off-199/",
     "offer_type": "promo",
     "headline": "$199 Off $199 Spend",
@@ -2280,20 +2308,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
-  },
-  {
-    "id": 629,
-    "source": "Doctor of Credit",
-    "title": "Hyatt Q4 2026 Promotion: Earn 3,000 Bonus Points On Stays 3+ Nights",
-    "url": "https://www.doctorofcredit.com/hyatt-q4-2026-promotion-earn-3000-bonus-points-on-stays-3-nights/",
-    "offer_type": "promo",
-    "headline": "3,000 Bonus Points",
-    "summary": "Promo: 3,000 bonus points",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": "NEW",
-    "why_it_matters": null,
-    "published": "Wed, 30 Sep 2026 14:00:51 +0000"
   },
   {
     "id": 610,
@@ -2350,34 +2364,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 13 Sep 2026 18:00:46 +0000"
-  },
-  {
-    "id": 397,
-    "source": "Frequent Miler",
-    "title": "IHG promo: Earn 20,000 bonus points after two stays",
-    "url": "https://frequentmiler.com/ihg-promo-earn-20000-bonus-points-after-two-stays/",
-    "offer_type": "promo",
-    "headline": "20,000 Bonus Points",
-    "summary": "Promo: 20,000 bonus points",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 10 Sep 2026 23:45:19 +0000"
-  },
-  {
-    "id": 375,
-    "source": "Doctor of Credit",
-    "title": "Marriott Global Promotion: Earn 1,500 Bonus Points On Stays Of Two Nights Or More",
-    "url": "https://www.doctorofcredit.com/marriott-global-promotion-earn-1500-bonus-points-on-stays-of-two-nights-or-more/",
-    "offer_type": "promo",
-    "headline": "1,500 Bonus Points",
-    "summary": "Promo: 1,500 bonus points",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 10 Sep 2026 13:00:07 +0000"
   },
   {
     "id": 340,
@@ -2462,34 +2448,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 23 Aug 2026 23:03:08 +0000"
-  },
-  {
-    "id": 138,
-    "source": "Frequent Miler",
-    "title": "Homes & Villas by Marriott promo: Earn 2K bonus points per night",
-    "url": "https://frequentmiler.com/homes-villas-by-marriott-promo-earn-2k-bonus-points-per-night-minimum-2k-spend-10k-max-bonus-points/",
-    "offer_type": "promo",
-    "headline": "2,000 Bonus Points",
-    "summary": "Promo: 2,000 bonus points",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 21 Aug 2026 17:45:50 +0000"
-  },
-  {
-    "id": 92,
-    "source": "Frequent Miler",
-    "title": "Wyndham Business promo: Earn 15K bonus points when joining program & staying at least 1 night",
-    "url": "https://frequentmiler.com/wyndham-business-promo-earn-15k-bonus-points-when-joining-program-staying-at-least-1-night/",
-    "offer_type": "promo",
-    "headline": "15,000 Bonus Points",
-    "summary": "Promo: 15,000 bonus points",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 18 Aug 2026 17:45:35 +0000"
   },
   {
     "id": 58,

@@ -84,6 +84,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 679,
+    "source": "Doctor of Credit",
+    "title": "Chase $900 Checking + Savings Bonus",
+    "url": "https://www.doctorofcredit.com/targeted-chase-900-checking-savings-bonus/",
+    "offer_type": "bank",
+    "headline": "$900 Bank Bonus",
+    "summary": "Bank bonus: $900",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 19:00:55 +0000"
+  },
+  {
     "id": 615,
     "source": "Doctor of Credit",
     "title": "U.S. Bank $400-$1,500 Business Checking Bonus",
@@ -308,6 +322,20 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 682,
+    "source": "Frequent Miler",
+    "title": "Up to 35% transfer bonus to Qatar Avios from Citi ThankYou Rewards",
+    "url": "https://frequentmiler.com/30-transfer-bonus-to-qatar-avios-from-citi-thankyou/",
+    "offer_type": "transfer",
+    "headline": "35% Transfer Bonus",
+    "summary": "Transfer bonus: 35%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 03 Oct 2026 13:45:31 +0000"
+  },
+  {
     "id": 656,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Get 10-45% Back On UPS Shipping Online (Up To $500 Cashback)",
@@ -317,7 +345,7 @@
     "summary": "Amex Offer: $500 value",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 02 Oct 2026 14:00:23 +0000"
   },
@@ -513,7 +541,7 @@
     "summary": "Bank APY: 5% APY for 6 months",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 02 Oct 2026 10:00:03 +0000"
   },
@@ -868,6 +896,34 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 687,
+    "source": "Frequent Miler",
+    "title": "American Express Membership Rewards offering 20% transfer bonus to AeroMexico",
+    "url": "https://frequentmiler.com/american-express-membership-rewards-offering-20-transfer-bonus-to-aeromexico/",
+    "offer_type": "transfer",
+    "headline": "20% Transfer Bonus",
+    "summary": "Transfer bonus: 20%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 17:45:00 +0000"
+  },
+  {
+    "id": 685,
+    "source": "Frequent Miler",
+    "title": "20% transfer bonus from Capital One miles to British Airways Avios",
+    "url": "https://frequentmiler.com/20-transfer-bonus-from-capital-one-miles-to-british-airways-avios/",
+    "offer_type": "transfer",
+    "headline": "20% Transfer Bonus",
+    "summary": "Transfer bonus: 20%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 21:46:04 +0000"
+  },
+  {
     "id": 658,
     "source": "Doctor of Credit",
     "title": "American Express Transfer Bonus: 20% To AeroMexico",
@@ -877,7 +933,7 @@
     "summary": "Transfer bonus: 20%",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 02 Oct 2026 11:00:51 +0000"
   },
@@ -891,7 +947,7 @@
     "summary": "Transfer bonus: 25%",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 02 Oct 2026 12:00:00 +0000"
   },
@@ -1372,6 +1428,34 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 680,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] Samsung Wallet: Get Up To $300 Back When You Use Installment Payments",
+    "url": "https://www.doctorofcredit.com/ymmv-samsung-wallet-get-up-to-300-back-when-you-use-installment-payments/",
+    "offer_type": "promo",
+    "headline": "$300 Value",
+    "summary": "Promo: $300 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 17:00:29 +0000"
+  },
+  {
+    "id": 678,
+    "source": "Doctor of Credit",
+    "title": "Citi Offers: $10 Off $200 At Best Buy (Limit 2)",
+    "url": "https://www.doctorofcredit.com/citi-offers-15-off-150-at-best-buy-limit-2/",
+    "offer_type": "promo",
+    "headline": "$10 Off $200 Spend",
+    "summary": "Promo: $10 off $200 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 20:45:16 +0000"
+  },
+  {
     "id": 660,
     "source": "Doctor of Credit",
     "title": "SoFi Crypto: Transfer $1,000+ In Eligible Crypto Assets & Earn $300 In SOFID (One Year Hold)",
@@ -1381,7 +1465,7 @@
     "summary": "Promo: $300 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 01 Oct 2026 22:18:43 +0000"
   },
@@ -1610,20 +1694,6 @@
     "published": "Sun, 20 Sep 2026 02:35:57 +0000"
   },
   {
-    "id": 507,
-    "source": "Frequent Miler",
-    "title": "Chase Travel℠ Chase Offer: Spend $600 & get $100 back (targeted)",
-    "url": "https://frequentmiler.com/chase-travel%e2%84%a0-chase-offer-spend-600-get-100-back-targeted/",
-    "offer_type": "promo",
-    "headline": "$100 Value",
-    "summary": "Promo: $100 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 18 Sep 2026 17:45:38 +0000"
-  },
-  {
     "id": 505,
     "source": "Frequent Miler",
     "title": "Chase Offer for Sapphire Reserve® Cardholders: Get up to $125 back On $500+ Sixt Car Rental",
@@ -1652,18 +1722,18 @@
     "published": "Fri, 18 Sep 2026 23:18:45 +0000"
   },
   {
-    "id": 478,
-    "source": "Frequent Miler",
-    "title": "Giftcards.com Chase Offer: Get 5% back on up to $1,000 spend",
-    "url": "https://frequentmiler.com/giftcards-com-chase-offer-get-5-back-on-up-to-1000-spend/",
+    "id": 481,
+    "source": "Doctor of Credit",
+    "title": "UberEats: Promo Codes, Discounts & Other Savings: $10 Off $20+ With Code RIOT102",
+    "url": "https://www.doctorofcredit.com/ubereats-promo-codes-discounts-other-savings/",
     "offer_type": "promo",
-    "headline": "5% Back, Up to $50 Value on $1,000 Spend",
-    "summary": "Promo: 5% back, up to $50 value on $1,000 spend",
+    "headline": "$10 Off $20 Spend",
+    "summary": "Promo: $10 off $20 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Wed, 16 Sep 2026 14:46:30 +0000"
+    "published": "Sat, 03 Oct 2026 00:50:06 +0000"
   },
   {
     "id": 469,
@@ -1862,20 +1932,6 @@
     "published": "Thu, 03 Sep 2026 19:10:12 +0000"
   },
   {
-    "id": 290,
-    "source": "Frequent Miler",
-    "title": "Caesars Chase Offer: 10% back on up to $500 spend",
-    "url": "https://frequentmiler.com/caesars-chase-offer-10-back-up-to-50-stack-with-amex-offer/",
-    "offer_type": "promo",
-    "headline": "10% Back, Up to $50 Value on $500 Spend",
-    "summary": "Promo: 10% back, up to $50 value on $500 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 02 Sep 2026 21:45:23 +0000"
-  },
-  {
     "id": 283,
     "source": "Doctor of Credit",
     "title": "U.S. Bank Smartly Card: Get $10 + $5 Off Uber Rides (9/13-12/31)",
@@ -1888,20 +1944,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
-  },
-  {
-    "id": 266,
-    "source": "Frequent Miler",
-    "title": "Citi Travel promo: Get $75 off $400+ hotel stay, stack with other hotel credits",
-    "url": "https://frequentmiler.com/citi-travel-promo-get-75-off-400-hotel-stay-stack-with-other-hotel-credits/",
-    "offer_type": "promo",
-    "headline": "$75 Off $400 Spend",
-    "summary": "Promo: $75 off $400 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 02 Sep 2026 14:45:03 +0000"
   },
   {
     "id": 242,
@@ -2072,20 +2114,6 @@
     "published": "Fri, 21 Aug 2026 15:00:00 +0000"
   },
   {
-    "id": 106,
-    "source": "Frequent Miler",
-    "title": "Caesars Rewards Citi Offer: Get $25 back when spending $250+",
-    "url": "https://frequentmiler.com/caesars-rewards-citi-offer-get-25-back-when-spending-250/",
-    "offer_type": "promo",
-    "headline": "$25 Value",
-    "summary": "Promo: $25 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 19 Aug 2026 21:45:10 +0000"
-  },
-  {
     "id": 83,
     "source": "Doctor of Credit",
     "title": "Citi Offers: JetBlue, Spend $400+ & Get $50 Back",
@@ -2224,6 +2252,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 668,
+    "source": "Doctor of Credit",
+    "title": "[OH, KY, IN] CinFed Credit Union $200 Referral Checking Bonus",
+    "url": "https://www.doctorofcredit.com/oh-ky-cinfed-credit-union-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 03 Oct 2026 15:00:06 +0000"
   },
   {
     "id": 610,
@@ -2392,19 +2434,5 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 14:00:47 +0000"
-  },
-  {
-    "id": 18,
-    "source": "Frequent Miler",
-    "title": "(Extended) Earn up to 30k bonus points on stays at Hyatt Place & Hyatt Select",
-    "url": "https://frequentmiler.com/earn-up-to-30k-bonus-points-on-stays-at-hyatt-place-hyatt-select/",
-    "offer_type": "promo",
-    "headline": "30,000 Bonus Points",
-    "summary": "Promo: 30,000 bonus points",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 10 Aug 2026 22:45:53 +0000"
   }
 ]

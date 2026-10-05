@@ -70,6 +70,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 722,
+    "source": "Frequent Miler",
+    "title": "$900 bonus with a new Chase checking and savings account",
+    "url": "https://frequentmiler.com/900-bonus-with-a-new-chase-checking-and-savings-account-september-25/",
+    "offer_type": "bank",
+    "headline": "$900 Bank Bonus",
+    "summary": "Bank bonus: $900",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 04 Oct 2026 19:45:33 +0000"
+  },
+  {
     "id": 704,
     "source": "Frequent Miler",
     "title": "Marriott Homes & Villas Amex Offer: Spend $1K and get $350 back",
@@ -79,7 +93,7 @@
     "summary": "Amex Offer: spend $1,000, get $350 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 35% rebate when you meet the $1,000 spend requirement.",
     "published": "Sun, 04 Oct 2026 13:45:00 +0000"
   },
@@ -322,6 +336,20 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 711,
+    "source": "Doctor of Credit",
+    "title": "Staples: 100% Back In Points On Command Purchases Up To $40",
+    "url": "https://www.doctorofcredit.com/staples-100-back-in-points-on-expo-command-purchases-up-to-40/",
+    "offer_type": "promo",
+    "headline": "100% Back, $40 Value",
+    "summary": "Promo: 100% back, $40 value",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 04 Oct 2026 23:53:24 +0000"
+  },
+  {
     "id": 682,
     "source": "Frequent Miler",
     "title": "Up to 35% transfer bonus to Qatar Avios from Citi ThankYou Rewards",
@@ -434,6 +462,20 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 725,
+    "source": "Frequent Miler",
+    "title": "Wyndham Amex Offer: Spend $100 & get $20 back (enrollment required)",
+    "url": "https://frequentmiler.com/wyndham-amex-offer-spend-100-get-20-back-enrollment-required/",
+    "offer_type": "amex_offer",
+    "headline": "$20 Back on $100 Spend",
+    "summary": "Amex Offer: spend $100, get $20 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $100 spend requirement.",
+    "published": "Sun, 04 Oct 2026 17:45:32 +0000"
+  },
+  {
     "id": 706,
     "source": "Frequent Miler",
     "title": "Hertz Amex Offer: Get $75 back when spending $350+",
@@ -443,7 +485,7 @@
     "summary": "Amex Offer: spend $350, get $75 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 21.4% rebate when you meet the $350 spend requirement.",
     "published": "Sat, 03 Oct 2026 19:45:00 +0000"
   },
@@ -555,7 +597,7 @@
     "summary": "Bank bonus: $600",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 16:00:09 +0000"
   },
@@ -569,7 +611,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 17:15:44 +0000"
   },
@@ -583,7 +625,7 @@
     "summary": "Bank bonus: $411",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 19:00:04 +0000"
   },
@@ -597,7 +639,7 @@
     "summary": "Bank bonus: $600",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 15:00:43 +0000"
   },
@@ -823,7 +865,7 @@
     "score_label": "Very Good",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 02 Sep 2026 21:10:47 +0000"
+    "published": "Mon, 05 Oct 2026 15:00:47 +0000"
   },
   {
     "id": 260,
@@ -1148,6 +1190,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 713,
+    "source": "Doctor of Credit",
+    "title": "[GA only] Delta Community Credit Union $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ga-only-delta-community-credit-union-200-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 04 Oct 2026 23:00:17 +0000"
+  },
+  {
     "id": 698,
     "source": "Doctor of Credit",
     "title": "[TX Only] Energy Capital Credit Union $300 Checking Bonus",
@@ -1157,7 +1213,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 20:00:13 +0000"
   },
@@ -1171,7 +1227,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 21:52:09 +0000"
   },
@@ -1526,6 +1582,20 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 715,
+    "source": "Doctor of Credit",
+    "title": "Office Depot/Max Stores: Buy $300 In Visa Giftcards & Get $15 Instant Discount (10/4 – 10/10)",
+    "url": "https://www.doctorofcredit.com/office-depot-max-stores-buy-300-in-visa-giftcards-get-15-instant-discount-12-19-12-25/",
+    "offer_type": "promo",
+    "headline": "$15 Value",
+    "summary": "Promo: $15 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 04 Oct 2026 22:30:14 +0000"
+  },
+  {
     "id": 696,
     "source": "Doctor of Credit",
     "title": "[Targeted] PayPal Credit Card: Spend $2,500, Earn $125 Bonus",
@@ -1535,7 +1605,7 @@
     "summary": "Credit card offer: $125 bonus",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 20:12:44 +0000"
   },
@@ -1549,7 +1619,7 @@
     "summary": "Promo: $15 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 21:26:55 +0000"
   },
@@ -1892,7 +1962,7 @@
   {
     "id": 455,
     "source": "Doctor of Credit",
-    "title": "Amazon Prime Members Get $20 Off $30 Grubhub Order (Pickup or Delivery; DEALS20)",
+    "title": "(Ends 10/5) Amazon Prime Members Get $20 Off $30 Grubhub Order (Pickup or Delivery; DEALS20)",
     "url": "https://www.doctorofcredit.com/amazon-prime-members-get-20-off-30-grubhub-order-pickup-or-delivery-deals20/",
     "offer_type": "promo",
     "headline": "$20 Off $30 Spend",
@@ -1901,7 +1971,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 15 Sep 2026 15:08:25 +0000"
+    "published": "Mon, 05 Oct 2026 03:00:25 +0000"
   },
   {
     "id": 425,
@@ -2338,6 +2408,34 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 717,
+    "source": "Doctor of Credit",
+    "title": "[AZ] VantageWest Credit Union $200 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/az-only-vantagewest-credit-union-300-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 04 Oct 2026 21:00:47 +0000"
+  },
+  {
+    "id": 710,
+    "source": "Doctor of Credit",
+    "title": "[FL, GA only] VyStar Credit Union $175 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/fl-only-vystar-credit-union-175-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$175 Bank Bonus",
+    "summary": "Bank bonus: $175",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 05 Oct 2026 00:15:45 +0000"
+  },
+  {
     "id": 700,
     "source": "Doctor of Credit",
     "title": "[AZ] Landings Credit Union $200 Checking Bonus",
@@ -2347,7 +2445,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 18:00:38 +0000"
   },
@@ -2361,7 +2459,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 21:50:03 +0000"
   },
@@ -2375,7 +2473,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 13:00:28 +0000"
   },

@@ -79,7 +79,7 @@
     "summary": "Bank bonus: $900",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 19:45:33 +0000"
   },
@@ -345,7 +345,7 @@
     "summary": "Promo: 100% back, $40 value",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 23:53:24 +0000"
   },
@@ -462,6 +462,20 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 740,
+    "source": "Frequent Miler",
+    "title": "Best Western & SureStay Amex Offer: Spend $250 & get $50 back",
+    "url": "https://frequentmiler.com/best-western-amex-offer-spend-250-get-50-back/",
+    "offer_type": "amex_offer",
+    "headline": "$50 Back on $250 Spend",
+    "summary": "Amex Offer: spend $250, get $50 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
+    "published": "Tue, 06 Oct 2026 13:46:10 +0000"
+  },
+  {
     "id": 725,
     "source": "Frequent Miler",
     "title": "Wyndham Amex Offer: Spend $100 & get $20 back (enrollment required)",
@@ -471,7 +485,7 @@
     "summary": "Amex Offer: spend $100, get $20 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $100 spend requirement.",
     "published": "Sun, 04 Oct 2026 17:45:32 +0000"
   },
@@ -1190,6 +1204,34 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 746,
+    "source": "Frequent Miler",
+    "title": "Amazon Amex Offers: Spend $40, earn 1,000 points or $5 back (targeted, enrollment required)",
+    "url": "https://frequentmiler.com/amazon-amex-offers-spend-40-earn-1000-points-or-5-back-targeted-enrollment-required/",
+    "offer_type": "amex_offer",
+    "headline": "$5 Back on $40 Spend",
+    "summary": "Amex Offer: spend $40, get $5 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 12.5% rebate when you meet the $40 spend requirement.",
+    "published": "Mon, 05 Oct 2026 21:45:16 +0000"
+  },
+  {
+    "id": 727,
+    "source": "Doctor of Credit",
+    "title": "Bask Bank $300 Checking/Savings Bonus",
+    "url": "https://www.doctorofcredit.com/bask-bank-300-checking-savings-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 06 Oct 2026 15:00:51 +0000"
+  },
+  {
     "id": 713,
     "source": "Doctor of Credit",
     "title": "[GA only] Delta Community Credit Union $250 Checking Bonus",
@@ -1199,7 +1241,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 23:00:17 +0000"
   },
@@ -1540,6 +1582,20 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
+    "id": 743,
+    "source": "Frequent Miler",
+    "title": "Southwest shopping portal promo: Earn 2K bonus points when spending $200",
+    "url": "https://frequentmiler.com/southwest-shopping-portal-promo-earn-2k-bonus-points-when-spending-200/",
+    "offer_type": "promo",
+    "headline": "Earn 2,000 Points with $200 Spend",
+    "summary": "Promo: earn 2,000 points with $200 spend",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 06 Oct 2026 00:45:47 +0000"
+  },
+  {
     "id": 627,
     "source": "Frequent Miler",
     "title": "United shopping portal promo: Spend $150 & get 500 bonus miles",
@@ -1582,6 +1638,20 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 732,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] Costco.com: $50 Off $500+",
+    "url": "https://www.doctorofcredit.com/ymmv-costco-com-50-off-500/",
+    "offer_type": "promo",
+    "headline": "$50 Off $500 Spend",
+    "summary": "Promo: $50 off $500 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 06 Oct 2026 04:01:22 +0000"
+  },
+  {
     "id": 715,
     "source": "Doctor of Credit",
     "title": "Office Depot/Max Stores: Buy $300 In Visa Giftcards & Get $15 Instant Discount (10/4 – 10/10)",
@@ -1591,7 +1661,7 @@
     "summary": "Promo: $15 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 22:30:14 +0000"
   },
@@ -1747,21 +1817,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Mon, 28 Sep 2026 11:00:30 +0000"
-  },
-  {
-    "id": 590,
-    "source": "Doctor of Credit",
-    "title": "Amazon: $20 Credit When You Spend On $75+ On Select Pet Products",
-    "url": "https://www.doctorofcredit.com/amazon-save-30-on-100-on-select-pet-products/",
-    "offer_type": "promo",
-    "headline": "$20 Value",
-    "summary": "Promo: $20 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 25 Sep 2026 19:27:56 +0000"
+    "published": "Tue, 06 Oct 2026 14:35:30 +0000"
   },
   {
     "id": 588,
@@ -2417,7 +2473,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 21:00:47 +0000"
   },
@@ -2431,7 +2487,7 @@
     "summary": "Bank bonus: $175",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 05 Oct 2026 00:15:45 +0000"
   },

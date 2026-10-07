@@ -471,7 +471,7 @@
     "summary": "Amex Offer: spend $250, get $50 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
     "published": "Tue, 06 Oct 2026 13:46:10 +0000"
   },
@@ -1213,7 +1213,7 @@
     "summary": "Amex Offer: spend $40, get $5 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 12.5% rebate when you meet the $40 spend requirement.",
     "published": "Mon, 05 Oct 2026 21:45:16 +0000"
   },
@@ -1227,7 +1227,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 06 Oct 2026 15:00:51 +0000"
   },
@@ -1591,7 +1591,7 @@
     "summary": "Promo: earn 2,000 points with $200 spend",
     "score": 5.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 06 Oct 2026 00:45:47 +0000"
   },
@@ -1638,6 +1638,34 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 755,
+    "source": "Doctor of Credit",
+    "title": "Amazon Prime: Spend $100 on select Baby Products, Get $30 Amazon Credit (Pampers, Huggies, Etc; BABYDEALDAYS)",
+    "url": "https://www.doctorofcredit.com/amazon-prime-spend-100-on-select-baby-products-get-30-amazon-credit-pampers-huggies-etc-babydealdays/",
+    "offer_type": "promo",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 07 Oct 2026 01:25:17 +0000"
+  },
+  {
+    "id": 750,
+    "source": "Doctor of Credit",
+    "title": "Apple Card $100 Signup Bonus",
+    "url": "https://www.doctorofcredit.com/apple-card-100-signup-bonus/",
+    "offer_type": "credit_card",
+    "headline": "$100 Bonus",
+    "summary": "Credit card offer: $100 bonus",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 07 Oct 2026 14:00:14 +0000"
+  },
+  {
     "id": 732,
     "source": "Doctor of Credit",
     "title": "[YMMV] Costco.com: $50 Off $500+",
@@ -1647,7 +1675,7 @@
     "summary": "Promo: $50 off $500 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 06 Oct 2026 04:01:22 +0000"
   },
@@ -1946,6 +1974,20 @@
     "published": "Sun, 20 Sep 2026 02:35:57 +0000"
   },
   {
+    "id": 507,
+    "source": "Frequent Miler",
+    "title": "Chase Travel℠ Chase Offer: Spend $600 & get $100 back (targeted)",
+    "url": "https://frequentmiler.com/chase-travel%e2%84%a0-chase-offer-spend-600-get-100-back-targeted/",
+    "offer_type": "promo",
+    "headline": "$100 Value",
+    "summary": "Promo: $100 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 06 Oct 2026 15:46:02 +0000"
+  },
+  {
     "id": 505,
     "source": "Frequent Miler",
     "title": "Chase Offer for Sapphire Reserve® Cardholders: Get up to $125 back On $500+ Sixt Car Rental",
@@ -2014,20 +2056,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 15 Sep 2026 21:45:42 +0000"
-  },
-  {
-    "id": 455,
-    "source": "Doctor of Credit",
-    "title": "(Ends 10/5) Amazon Prime Members Get $20 Off $30 Grubhub Order (Pickup or Delivery; DEALS20)",
-    "url": "https://www.doctorofcredit.com/amazon-prime-members-get-20-off-30-grubhub-order-pickup-or-delivery-deals20/",
-    "offer_type": "promo",
-    "headline": "$20 Off $30 Spend",
-    "summary": "Promo: $20 off $30 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 05 Oct 2026 03:00:25 +0000"
   },
   {
     "id": 425,
@@ -2112,20 +2140,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 04 Sep 2026 20:48:22 +0000"
-  },
-  {
-    "id": 316,
-    "source": "Doctor of Credit",
-    "title": "Amazon: $45 Credit When You Purchase $100 of Baby Care Items (Diapers, Wipes, Sunscreen, Desitin, etc)",
-    "url": "https://www.doctorofcredit.com/amazon-25-credit-when-you-purchase-100-of-baby-care-items-diapers-wipes-sunscreen-desitin-etc/",
-    "offer_type": "promo",
-    "headline": "$45 Value",
-    "summary": "Promo: $45 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 07 Sep 2026 19:05:50 +0000"
   },
   {
     "id": 312,
@@ -2436,20 +2450,6 @@
     "published": "Thu, 20 Aug 2026 18:45:01 +0000"
   },
   {
-    "id": 9,
-    "source": "Doctor of Credit",
-    "title": "Chase Offers (CSR, CSP): Trust & Will $199 Off $199",
-    "url": "https://www.doctorofcredit.com/chase-offers-csr-trust-will-199-off-199/",
-    "offer_type": "promo",
-    "headline": "$199 Off $199 Spend",
-    "summary": "Promo: $199 off $199 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 11 Aug 2026 20:45:02 +0000"
-  },
-  {
     "id": 2,
     "source": "Doctor of Credit",
     "title": "Varo Money (Online Bank Account) – $200 Sign Up Bonus (iOS & Android)",
@@ -2462,6 +2462,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 773,
+    "source": "Frequent Miler",
+    "title": "Marriott Business card Amex Offer: Spend $3K & earn 5K bonus points",
+    "url": "https://frequentmiler.com/marriott-business-card-amex-offer-spend-3k-earn-5k-bonus-points/",
+    "offer_type": "amex_offer",
+    "headline": "Spend $3,000, get 5,000 points",
+    "summary": "Amex Offer: spend $3,000, get 5,000 points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 06 Oct 2026 16:45:53 +0000"
   },
   {
     "id": 717,

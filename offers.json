@@ -70,6 +70,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 778,
+    "source": "Doctor of Credit",
+    "title": "Citibank Business Up To $2,000 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ymmv-in-branch-citibank-business-up-to-2000-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$2,000 Bank Bonus",
+    "summary": "Bank bonus: $2,000",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 07 Oct 2026 19:37:21 +0000"
+  },
+  {
     "id": 722,
     "source": "Frequent Miler",
     "title": "$900 bonus with a new Chase checking and savings account",
@@ -462,6 +476,20 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 775,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Select Best Western Hotels, Spend $250 & Get $50 Back",
+    "url": "https://www.doctorofcredit.com/amex-offers-best-western-spend-500-get-100-back/",
+    "offer_type": "amex_offer",
+    "headline": "$50 Back on $250 Spend",
+    "summary": "Amex Offer: spend $250, get $50 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
+    "published": "Wed, 07 Oct 2026 22:00:56 +0000"
+  },
+  {
     "id": 740,
     "source": "Frequent Miler",
     "title": "Best Western & SureStay Amex Offer: Spend $250 & get $50 back",
@@ -714,6 +742,20 @@
     "published": "Sun, 20 Sep 2026 20:00:14 +0000"
   },
   {
+    "id": 508,
+    "source": "Doctor of Credit",
+    "title": "[MO] Sterling Bank $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/mo-sterling-bank-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Sun, 20 Sep 2026 14:00:10 +0000"
+  },
+  {
     "id": 495,
     "source": "Doctor of Credit",
     "title": "[PA Only] Univest $400 Checking Bonus",
@@ -952,6 +994,20 @@
     "published": "Sat, 29 Aug 2026 13:00:05 +0000"
   },
   {
+    "id": 201,
+    "source": "Frequent Miler",
+    "title": "Earn a $500 bonus with a new Wells Fargo checking account",
+    "url": "https://frequentmiler.com/earn-a-500-bonus-with-a-new-wells-fargo-checking-account/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Thu, 27 Aug 2026 13:45:09 +0000"
+  },
+  {
     "id": 152,
     "source": "Doctor of Credit",
     "title": "[OK, IL KS & MO,In Branch only] Central Bank $500 Business Checking Bonus",
@@ -964,20 +1020,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 23 Aug 2026 22:00:59 +0000"
-  },
-  {
-    "id": 129,
-    "source": "Doctor of Credit",
-    "title": "Wells Fargo $500 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/wells-fargo-500-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$500 Bank Bonus",
-    "summary": "Bank bonus: $500",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 21 Aug 2026 21:01:09 +0000"
   },
   {
     "id": 117,
@@ -1202,6 +1244,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
+  },
+  {
+    "id": 793,
+    "source": "Frequent Miler",
+    "title": "ANA Amex Offer: Spend $2,500+ & get 30K Membership Rewards or $300 back",
+    "url": "https://frequentmiler.com/ana-amex-offer-spend-2500-get-30k-membership-rewards-or-300-back/",
+    "offer_type": "amex_offer",
+    "headline": "$300 Back on $2,500 Spend",
+    "summary": "Amex Offer: spend $2,500, get $300 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 12% rebate when you meet the $2,500 spend requirement.",
+    "published": "Wed, 07 Oct 2026 19:45:23 +0000"
   },
   {
     "id": 746,
@@ -1647,7 +1703,7 @@
     "summary": "Promo: $30 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 07 Oct 2026 01:25:17 +0000"
   },
@@ -1661,7 +1717,7 @@
     "summary": "Credit card offer: $100 bonus",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 07 Oct 2026 14:00:14 +0000"
   },
@@ -2153,7 +2209,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 29 Sep 2026 23:43:10 +0000"
+    "published": "Thu, 08 Oct 2026 03:03:10 +0000"
   },
   {
     "id": 311,
@@ -2473,7 +2529,7 @@
     "summary": "Amex Offer: spend $3,000, get 5,000 points",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 06 Oct 2026 16:45:53 +0000"
   },
@@ -2588,20 +2644,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 20 Sep 2026 13:00:29 +0000"
-  },
-  {
-    "id": 508,
-    "source": "Doctor of Credit",
-    "title": "[MO] Sterling Bank $100 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/mo-sterling-bank-100-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$100 Bank Bonus",
-    "summary": "Bank bonus: $100",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 20 Sep 2026 14:00:10 +0000"
   },
   {
     "id": 428,

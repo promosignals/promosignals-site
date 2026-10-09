@@ -1,5 +1,19 @@
 [
   {
+    "id": 809,
+    "source": "Frequent Miler",
+    "title": "100% transfer bonus from Wyndham Rewards to United MileagePlus",
+    "url": "https://frequentmiler.com/100-transfer-bonus-from-wyndham-rewards-to-united-mileageplus/",
+    "offer_type": "transfer",
+    "headline": "100% Transfer Bonus",
+    "summary": "Transfer bonus: 100%",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 08 Oct 2026 23:45:27 +0000"
+  },
+  {
     "id": 401,
     "source": "Frequent Miler",
     "title": "Chase Sapphire Reserve for Business®: Improved 200K welcome offer",
@@ -79,7 +93,7 @@
     "summary": "Bank bonus: $2,000",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 07 Oct 2026 19:37:21 +0000"
   },
@@ -485,7 +499,7 @@
     "summary": "Amex Offer: spend $250, get $50 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
     "published": "Wed, 07 Oct 2026 22:00:56 +0000"
   },
@@ -740,20 +754,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 20 Sep 2026 20:00:14 +0000"
-  },
-  {
-    "id": 508,
-    "source": "Doctor of Credit",
-    "title": "[MO] Sterling Bank $250 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/mo-sterling-bank-100-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$250 Bank Bonus",
-    "summary": "Bank bonus: $250",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Sun, 20 Sep 2026 14:00:10 +0000"
   },
   {
     "id": 495,
@@ -1255,7 +1255,7 @@
     "summary": "Amex Offer: spend $2,500, get $300 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 12% rebate when you meet the $2,500 spend requirement.",
     "published": "Wed, 07 Oct 2026 19:45:23 +0000"
   },
@@ -1398,6 +1398,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 19 Sep 2026 15:00:27 +0000"
+  },
+  {
+    "id": 508,
+    "source": "Doctor of Credit",
+    "title": "[MO] Sterling Bank $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/mo-sterling-bank-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Sun, 20 Sep 2026 14:00:10 +0000"
   },
   {
     "id": 419,
@@ -1692,6 +1706,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
+  },
+  {
+    "id": 812,
+    "source": "Frequent Miler",
+    "title": "Viator/TripAdvisor Experiences Chase Offer: Get 8% back on up to $125 spend",
+    "url": "https://frequentmiler.com/viator-tripadvisor-experiences-chase-offer-get-8-back-on-up-to-125-spend/",
+    "offer_type": "promo",
+    "headline": "8% Back, Up to $10 Value on $125 Spend",
+    "summary": "Promo: 8% back, up to $10 value on $125 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 08 Oct 2026 20:45:01 +0000"
+  },
+  {
+    "id": 805,
+    "source": "Doctor of Credit",
+    "title": "Amazon, Target: Save $10 off $40 Toys",
+    "url": "https://www.doctorofcredit.com/amazon-target-save-10-off-40-toys/",
+    "offer_type": "promo",
+    "headline": "$10 Off $40 Spend",
+    "summary": "Promo: $10 off $40 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 08 Oct 2026 17:32:44 +0000"
   },
   {
     "id": 755,
@@ -2518,6 +2560,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 811,
+    "source": "Frequent Miler",
+    "title": "Earn 15K bonus miles when joining AAdvantage Business with promo code GET15K",
+    "url": "https://frequentmiler.com/earn-10k-bonus-miles-when-joining-aadvantage-business-with-promo-code-bns10k/",
+    "offer_type": "promo",
+    "headline": "15,000 Bonus Points",
+    "summary": "Promo: 15,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 08 Oct 2026 21:45:11 +0000"
   },
   {
     "id": 773,

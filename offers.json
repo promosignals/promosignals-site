@@ -9,7 +9,7 @@
     "summary": "Transfer bonus: 100%",
     "score": 9.5,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 08 Oct 2026 23:45:27 +0000"
   },
@@ -40,6 +40,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
+  },
+  {
+    "id": 656,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Get 10-60% Back On UPS Shipping Online (Up To $500 Cashback)",
+    "url": "https://www.doctorofcredit.com/amex-offers-business-get-60-back-on-ups-shipping-online/",
+    "offer_type": "amex_offer",
+    "headline": "$500 value",
+    "summary": "Amex Offer: $500 value",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Fri, 02 Oct 2026 14:00:23 +0000"
   },
   {
     "id": 644,
@@ -392,20 +406,6 @@
     "published": "Sat, 03 Oct 2026 13:45:31 +0000"
   },
   {
-    "id": 656,
-    "source": "Doctor of Credit",
-    "title": "AmEx Offers: Get 10-45% Back On UPS Shipping Online (Up To $500 Cashback)",
-    "url": "https://www.doctorofcredit.com/amex-offers-business-get-60-back-on-ups-shipping-online/",
-    "offer_type": "amex_offer",
-    "headline": "$500 value",
-    "summary": "Amex Offer: $500 value",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 02 Oct 2026 14:00:23 +0000"
-  },
-  {
     "id": 589,
     "source": "Doctor of Credit",
     "title": "Chase Southwest Business Card 80,000 Points Signup Bonus",
@@ -642,6 +642,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 713,
+    "source": "Doctor of Credit",
+    "title": "[GA only] Delta Community Credit Union $350 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ga-only-delta-community-credit-union-200-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$350 Bank Bonus",
+    "summary": "Bank bonus: $350",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Sun, 04 Oct 2026 23:00:17 +0000"
   },
   {
     "id": 703,
@@ -1288,20 +1302,6 @@
     "published": "Tue, 06 Oct 2026 15:00:51 +0000"
   },
   {
-    "id": 713,
-    "source": "Doctor of Credit",
-    "title": "[GA only] Delta Community Credit Union $250 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/ga-only-delta-community-credit-union-200-checking-bonus-direct-deposit-not-required/",
-    "offer_type": "bank",
-    "headline": "$250 Bank Bonus",
-    "summary": "Bank bonus: $250",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 04 Oct 2026 23:00:17 +0000"
-  },
-  {
     "id": 698,
     "source": "Doctor of Credit",
     "title": "[TX Only] Energy Capital Credit Union $300 Checking Bonus",
@@ -1708,6 +1708,20 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 819,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] Citi Travel: IHG, Spend $300 & Get $50 Off",
+    "url": "https://www.doctorofcredit.com/ymmv-citi-travel-ihg-spend-300-get-50-off/",
+    "offer_type": "promo",
+    "headline": "$50 Value",
+    "summary": "Promo: $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 09 Oct 2026 19:36:15 +0000"
+  },
+  {
     "id": 812,
     "source": "Frequent Miler",
     "title": "Viator/TripAdvisor Experiences Chase Offer: Get 8% back on up to $125 spend",
@@ -1717,7 +1731,7 @@
     "summary": "Promo: 8% back, up to $10 value on $125 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 08 Oct 2026 20:45:01 +0000"
   },
@@ -1731,7 +1745,7 @@
     "summary": "Promo: $10 off $40 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 08 Oct 2026 17:32:44 +0000"
   },
@@ -2562,6 +2576,34 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 820,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Happen Bank (Formerly LendingClub) Level Up $200 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/targeted-lendingclub-level-up-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 09 Oct 2026 18:00:32 +0000"
+  },
+  {
+    "id": 815,
+    "source": "Doctor of Credit",
+    "title": "[SC, NC, GA, TN, VA] Sharonview Federal Credit $100 Referral Checking Bonus",
+    "url": "https://www.doctorofcredit.com/sc-nc-ga-tn-va-sharonview-federal-credit-100-referral-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$100 Bank Bonus",
+    "summary": "Bank bonus: $100",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 10 Oct 2026 14:45:12 +0000"
+  },
+  {
     "id": 811,
     "source": "Frequent Miler",
     "title": "Earn 15K bonus miles when joining AAdvantage Business with promo code GET15K",
@@ -2571,7 +2613,7 @@
     "summary": "Promo: 15,000 bonus points",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 08 Oct 2026 21:45:11 +0000"
   },

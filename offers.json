@@ -84,6 +84,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 856,
+    "source": "Doctor of Credit",
+    "title": "Chase $900 Checking Bonus ($10,000 Direct Deposit Required)",
+    "url": "https://www.doctorofcredit.com/chase-900-checking-bonus-10000-direct-deposit-required/",
+    "offer_type": "bank",
+    "headline": "$900 Bank Bonus",
+    "summary": "Bank bonus: $900",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 11 Oct 2026 22:04:05 +0000"
+  },
+  {
     "id": 778,
     "source": "Doctor of Credit",
     "title": "Citibank Business Up To $2,000 Checking Bonus",
@@ -362,6 +376,20 @@
     "status": null,
     "why_it_matters": "That's an effective 100% rebate when you meet the $250 spend requirement.",
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
+  },
+  {
+    "id": 862,
+    "source": "Doctor of Credit",
+    "title": "Staples: 100% Back In Points On Crayola Purchases, Up To $50",
+    "url": "https://www.doctorofcredit.com/staples-100-back-in-points-on-crayola-purchases-up-to-50-2/",
+    "offer_type": "promo",
+    "headline": "100% Back, $50 Value",
+    "summary": "Promo: 100% back, $50 value",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 11 Oct 2026 19:45:17 +0000"
   },
   {
     "id": 711,
@@ -644,6 +672,62 @@
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
   },
   {
+    "id": 860,
+    "source": "Doctor of Credit",
+    "title": "[IA, NE] Cobalt Credit Union $400 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ia-ne-cobalt-credit-union-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 11 Oct 2026 19:50:35 +0000"
+  },
+  {
+    "id": 858,
+    "source": "Doctor of Credit",
+    "title": "[OH, Select Counties only] Stark Federal Credit Union $400 Checking Bonus, Direct Deposit Optional + $100 Savings",
+    "url": "https://www.doctorofcredit.com/oh-stark-or-carroll-only-stark-federal-credit-union-400-checking-bonus-direct-deposit-optional/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 11 Oct 2026 19:55:19 +0000"
+  },
+  {
+    "id": 857,
+    "source": "Doctor of Credit",
+    "title": "[IA] Community State Bank $400 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ia-community-state-bank-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 11 Oct 2026 20:00:29 +0000"
+  },
+  {
+    "id": 853,
+    "source": "Doctor of Credit",
+    "title": "[AZ, CO, FL, IL, IN, KS, MO, OK, TX] Busey Bank $200-$500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/fl-il-in-mo-busey-bank-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 11 Oct 2026 23:30:35 +0000"
+  },
+  {
     "id": 842,
     "source": "Doctor of Credit",
     "title": "[WI + IL Only] North Shore Bank $400 Checking Bonus – Direct Deposit Optional",
@@ -653,7 +737,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 20:40:29 +0000"
   },
@@ -667,7 +751,7 @@
     "summary": "Bank bonus: $600",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 20:55:59 +0000"
   },
@@ -1260,6 +1344,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 861,
+    "source": "Doctor of Credit",
+    "title": "[HI] First Hawaiian Bank $350 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/hi-first-hawaiian-bank-350-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$350 Bank Bonus",
+    "summary": "Bank bonus: $350",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 11 Oct 2026 19:45:49 +0000"
+  },
+  {
     "id": 844,
     "source": "Doctor of Credit",
     "title": "[TX Only] Texas Trust Credit Union $350 Checking Bonus",
@@ -1269,7 +1367,7 @@
     "summary": "Bank bonus: $350",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 20:24:32 +0000"
   },
@@ -1283,7 +1381,7 @@
     "summary": "Bank bonus: $275",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 20:30:31 +0000"
   },
@@ -1297,7 +1395,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 20:41:19 +0000"
   },
@@ -1311,7 +1409,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 20:45:32 +0000"
   },
@@ -1773,7 +1871,7 @@
     "summary": "Promo: $200 off $500 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 15:45:10 +0000"
   },
@@ -1787,7 +1885,7 @@
     "summary": "Credit card offer: $150 bonus",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 21:08:46 +0000"
   },
@@ -1801,7 +1899,7 @@
     "summary": "Promo: $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 21:30:03 +0000"
   },
@@ -1832,20 +1930,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 08 Oct 2026 20:45:01 +0000"
-  },
-  {
-    "id": 805,
-    "source": "Doctor of Credit",
-    "title": "Amazon, Target: Save $10 off $40 Toys",
-    "url": "https://www.doctorofcredit.com/amazon-target-save-10-off-40-toys/",
-    "offer_type": "promo",
-    "headline": "$10 Off $40 Spend",
-    "summary": "Promo: $10 off $40 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 08 Oct 2026 17:32:44 +0000"
   },
   {
     "id": 755,
@@ -2660,6 +2744,34 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 855,
+    "source": "Doctor of Credit",
+    "title": "[TX] Wellby Financial $100 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/tx-wellby-financial-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$100 Bank Bonus",
+    "summary": "Bank bonus: $100",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 11 Oct 2026 23:05:52 +0000"
+  },
+  {
+    "id": 854,
+    "source": "Doctor of Credit",
+    "title": "[CO only] Westerra Credit Union $100 Checking Bonus – Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/co-westerra-credit-union-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$100 Bank Bonus",
+    "summary": "Bank bonus: $100",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 11 Oct 2026 23:15:12 +0000"
+  },
+  {
     "id": 839,
     "source": "Doctor of Credit",
     "title": "[CA Only] Foothill Credit Union $200 Checking Bonus",
@@ -2669,7 +2781,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 20:50:52 +0000"
   },
@@ -2683,7 +2795,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 14:00:13 +0000"
   },

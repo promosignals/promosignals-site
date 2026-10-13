@@ -93,7 +93,7 @@
     "summary": "Bank bonus: $900",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 22:04:05 +0000"
   },
@@ -387,7 +387,7 @@
     "summary": "Promo: 100% back, $50 value",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 19:45:17 +0000"
   },
@@ -681,7 +681,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 19:50:35 +0000"
   },
@@ -695,7 +695,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 19:55:19 +0000"
   },
@@ -709,7 +709,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 20:00:29 +0000"
   },
@@ -723,7 +723,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 23:30:35 +0000"
   },
@@ -1353,7 +1353,7 @@
     "summary": "Bank bonus: $350",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 19:45:49 +0000"
   },
@@ -1862,6 +1862,34 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 875,
+    "source": "Frequent Miler",
+    "title": "$50 off $300 IHG Booking via Citi Travel (Targeted)",
+    "url": "https://frequentmiler.com/50-off-300-ihg-booking-via-citi-travel-targeted/",
+    "offer_type": "promo",
+    "headline": "$50 Off $300 Spend",
+    "summary": "Promo: $50 off $300 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 12 Oct 2026 19:45:04 +0000"
+  },
+  {
+    "id": 867,
+    "source": "Doctor of Credit",
+    "title": "Join Topcashback & Get A $40 Sign Up Bonus",
+    "url": "https://www.doctorofcredit.com/join-topcashback-get-a-40-sign-up-bonus-highest-ever-2/",
+    "offer_type": "promo",
+    "headline": "$40 Value",
+    "summary": "Promo: $40 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 13 Oct 2026 13:00:51 +0000"
+  },
+  {
     "id": 848,
     "source": "Frequent Miler",
     "title": "$200 off $500 at Capital One Business Travel for some cardholders",
@@ -2240,20 +2268,6 @@
     "published": "Thu, 24 Sep 2026 19:30:37 +0000"
   },
   {
-    "id": 511,
-    "source": "Doctor of Credit",
-    "title": "Chase Offers/WF/USB: Get Up To 10% Back at Kroger Brands, Harris Teeter ($9 Cashback Max)",
-    "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-at-kroger-up-to-7-cashback/",
-    "offer_type": "promo",
-    "headline": "10% Back, $9 Value",
-    "summary": "Promo: 10% back, $9 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 20 Sep 2026 02:35:57 +0000"
-  },
-  {
     "id": 507,
     "source": "Frequent Miler",
     "title": "Chase Travel℠ Chase Offer: Spend $600 & get $100 back (targeted)",
@@ -2336,6 +2350,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 15 Sep 2026 21:45:42 +0000"
+  },
+  {
+    "id": 452,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers: Get 10% Back at Lowe’s/Lowes.com ($50 Cashback Max)",
+    "url": "https://www.doctorofcredit.com/chase-offers-ihg-only-get-15-back-at-lowes-50-cashback-max/",
+    "offer_type": "promo",
+    "headline": "10% Back, $50 Value",
+    "summary": "Promo: 10% back, $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 12 Oct 2026 18:37:51 +0000"
   },
   {
     "id": 425,
@@ -2744,6 +2772,20 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 868,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offers: Hilton, Spend $200+ & Earn 20,000 Hilton Points",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offers-hilton-spend-200-earn-20000-hilton-points/",
+    "offer_type": "amex_offer",
+    "headline": "Spend $200, get 20,000 points",
+    "summary": "Amex Offer: spend $200, get 20,000 points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 12 Oct 2026 19:48:10 +0000"
+  },
+  {
     "id": 855,
     "source": "Doctor of Credit",
     "title": "[TX] Wellby Financial $100 Checking Bonus",
@@ -2753,7 +2795,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 23:05:52 +0000"
   },
@@ -2767,7 +2809,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 23:15:12 +0000"
   },

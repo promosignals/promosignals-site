@@ -518,6 +518,20 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 892,
+    "source": "Frequent Miler",
+    "title": "Norwegian Cruise Line Amex Offer: Spend $750 & get $150 back",
+    "url": "https://frequentmiler.com/norwegian-cruise-line-amex-offer-spend-750-get-150-back/",
+    "offer_type": "amex_offer",
+    "headline": "$150 Back on $750 Spend",
+    "summary": "Amex Offer: spend $750, get $150 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $750 spend requirement.",
+    "published": "Tue, 13 Oct 2026 19:45:28 +0000"
+  },
+  {
     "id": 775,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Select Best Western Hotels, Spend $250 & Get $50 Back",
@@ -1344,6 +1358,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 884,
+    "source": "Doctor of Credit",
+    "title": "[CA, UT In Branch] Columbia Bank $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ca-in-branch-columbia-bank-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 13 Oct 2026 20:44:08 +0000"
+  },
+  {
     "id": 861,
     "source": "Doctor of Credit",
     "title": "[HI] First Hawaiian Bank $350 Checking Bonus",
@@ -1862,6 +1890,34 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 888,
+    "source": "Frequent Miler",
+    "title": "Lyft Citi Offer: Get 10% back on up to $100 spend",
+    "url": "https://frequentmiler.com/lyft-citi-offer-get-10-back-on-up-to-100-spend/",
+    "offer_type": "promo",
+    "headline": "10% Back, Up to $10 Value on $100 Spend",
+    "summary": "Promo: 10% back, up to $10 value on $100 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 14 Oct 2026 13:45:50 +0000"
+  },
+  {
+    "id": 887,
+    "source": "Doctor of Credit",
+    "title": "Chase/U.S. Bank Offers: Get 10% Back On Amazon Business ($20 Cashback Limit)",
+    "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-on-amazon-business-20-cashback-limit/",
+    "offer_type": "promo",
+    "headline": "10% Back, $20 Value",
+    "summary": "Promo: 10% back, $20 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 13 Oct 2026 19:27:50 +0000"
+  },
+  {
     "id": 875,
     "source": "Frequent Miler",
     "title": "$50 off $300 IHG Booking via Citi Travel (Targeted)",
@@ -1871,7 +1927,7 @@
     "summary": "Promo: $50 off $300 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 12 Oct 2026 19:45:04 +0000"
   },
@@ -1885,7 +1941,7 @@
     "summary": "Promo: $40 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 13 Oct 2026 13:00:51 +0000"
   },
@@ -2060,7 +2116,7 @@
   {
     "id": 660,
     "source": "Doctor of Credit",
-    "title": "SoFi Crypto: Transfer $1,000+ In Eligible Crypto Assets & Earn $300 In SOFID (One Year Hold)",
+    "title": "[Last Day] SoFi Crypto: Transfer $1,000+ In Eligible Crypto Assets & Earn $300 In SOFID (One Year Hold)",
     "url": "https://www.doctorofcredit.com/sofi-crypto-transfer-1000-in-eligible-crypto-assets-earn-300-in-sofid-one-year-hold/",
     "offer_type": "promo",
     "headline": "$300 Value",
@@ -2069,7 +2125,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 01 Oct 2026 22:18:43 +0000"
+    "published": "Tue, 13 Oct 2026 21:31:43 +0000"
   },
   {
     "id": 654,
@@ -2461,7 +2517,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 08 Oct 2026 03:03:10 +0000"
+    "published": "Tue, 13 Oct 2026 22:51:10 +0000"
   },
   {
     "id": 311,
@@ -2702,6 +2758,20 @@
     "published": "Tue, 15 Sep 2026 21:00:41 +0000"
   },
   {
+    "id": 40,
+    "source": "Frequent Miler",
+    "title": "Marriott Bonvoy Citi Offer: Get $30 back on $300",
+    "url": "https://frequentmiler.com/marriott-bonvoy-citi-offer-get-10-back-on-300/",
+    "offer_type": "promo",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "REDUCED",
+    "why_it_matters": null,
+    "published": "Tue, 13 Oct 2026 21:45:48 +0000"
+  },
+  {
     "id": 29,
     "source": "Doctor of Credit",
     "title": "Citi Offers: bp and/or Amoco Fuel, Spend $40+ & Get $5 Back",
@@ -2772,6 +2842,20 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 894,
+    "source": "Frequent Miler",
+    "title": "Hilton cardholder Amex Offer: Spend $200+ on Hilton stays & earn 20K bonus points",
+    "url": "https://frequentmiler.com/hilton-cardholder-amex-offer-spend-200-on-hilton-stays-earn-20k-bonus-points/",
+    "offer_type": "amex_offer",
+    "headline": "Spend $200, get 20,000 points",
+    "summary": "Amex Offer: spend $200, get 20,000 points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 13 Oct 2026 15:45:23 +0000"
+  },
+  {
     "id": 868,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Hilton, Spend $200+ & Earn 20,000 Hilton Points",
@@ -2781,7 +2865,7 @@
     "summary": "Amex Offer: spend $200, get 20,000 points",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 12 Oct 2026 19:48:10 +0000"
   },

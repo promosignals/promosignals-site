@@ -527,7 +527,7 @@
     "summary": "Amex Offer: spend $750, get $150 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $750 spend requirement.",
     "published": "Tue, 13 Oct 2026 19:45:28 +0000"
   },
@@ -1094,14 +1094,14 @@
   {
     "id": 232,
     "source": "Doctor of Credit",
-    "title": "[NY, OH, IN, PA] Northwest Bank $400/$600 Checking Bonus",
+    "title": "[NY, OH, IN, PA] Northwest Bank $400 Checking Bonus",
     "url": "https://www.doctorofcredit.com/pa-northwest-bank-160-checking-bonus/",
     "offer_type": "bank",
-    "headline": "$600 Bank Bonus",
-    "summary": "Bank bonus: $600",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
     "published": "Mon, 31 Aug 2026 04:50:03 +0000"
   },
@@ -1367,7 +1367,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 13 Oct 2026 20:44:08 +0000"
   },
@@ -1890,6 +1890,20 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 898,
+    "source": "Doctor of Credit",
+    "title": "Chase DoorDash Benefit: Non Restaurant $10 Credit Now Monthly (Was Quarterly)",
+    "url": "https://www.doctorofcredit.com/chase-doordash-benefit-non-restaurant-10-credit-now-monthly-was-quarterly/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 14 Oct 2026 20:19:09 +0000"
+  },
+  {
     "id": 888,
     "source": "Frequent Miler",
     "title": "Lyft Citi Offer: Get 10% back on up to $100 spend",
@@ -1899,7 +1913,7 @@
     "summary": "Promo: 10% back, up to $10 value on $100 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 14 Oct 2026 13:45:50 +0000"
   },
@@ -1913,7 +1927,7 @@
     "summary": "Promo: 10% back, $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 13 Oct 2026 19:27:50 +0000"
   },
@@ -2307,7 +2321,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 24 Sep 2026 18:00:40 +0000"
+    "published": "Thu, 15 Oct 2026 15:00:40 +0000"
   },
   {
     "id": 559,
@@ -2702,6 +2716,20 @@
     "published": "Thu, 20 Aug 2026 21:04:56 +0000"
   },
   {
+    "id": 95,
+    "source": "Doctor of Credit",
+    "title": "Citi Offers: Caesars Rewards, Spend $250+ & Get $25 Back",
+    "url": "https://www.doctorofcredit.com/citi-offers-30-off-150-at-caesars-rewards/",
+    "offer_type": "promo",
+    "headline": "$25 Value",
+    "summary": "Promo: $25 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Wed, 14 Oct 2026 20:31:55 +0000"
+  },
+  {
     "id": 83,
     "source": "Doctor of Credit",
     "title": "Citi Offers: JetBlue, Spend $400+ & Get $50 Back",
@@ -2713,7 +2741,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 18 Aug 2026 20:45:54 +0000"
+    "published": "Wed, 14 Oct 2026 19:30:54 +0000"
   },
   {
     "id": 82,
@@ -2767,7 +2795,7 @@
     "summary": "Promo: $30 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 13 Oct 2026 21:45:48 +0000"
   },
@@ -2851,7 +2879,7 @@
     "summary": "Amex Offer: spend $200, get 20,000 points",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 13 Oct 2026 15:45:23 +0000"
   },

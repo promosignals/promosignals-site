@@ -84,6 +84,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 920,
+    "source": "Frequent Miler",
+    "title": "Bank of America Business Checking: Up to a $2500 bonus (no direct deposit required)",
+    "url": "https://frequentmiler.com/bank-of-america-business-checking-up-to-a-2500-bonus-no-direct-deposit-required/",
+    "offer_type": "bank",
+    "headline": "$2,500 Bank Bonus",
+    "summary": "Bank bonus: $2,500",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 16 Oct 2026 14:45:41 +0000"
+  },
+  {
     "id": 856,
     "source": "Doctor of Credit",
     "title": "Chase $900 Checking Bonus ($10,000 Direct Deposit Required)",
@@ -490,20 +504,6 @@
     "published": "Thu, 03 Sep 2026 17:46:31 +0000"
   },
   {
-    "id": 264,
-    "source": "Doctor of Credit",
-    "title": "American Express Transfer Bonus: 30% To Hilton Honors (1:2.6)",
-    "url": "https://www.doctorofcredit.com/american-express-transfer-bonus-30-to-hilton-honors-12-6-6/",
-    "offer_type": "transfer",
-    "headline": "30% Transfer Bonus",
-    "summary": "Transfer bonus: 30%",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 01 Sep 2026 20:46:38 +0000"
-  },
-  {
     "id": 148,
     "source": "Doctor of Credit",
     "title": "[New 10% APY Account, Up To $1,000][Expired] [NM, CA, AZ, TX, CO] Sunward $225 Checking Bonus",
@@ -516,6 +516,20 @@
     "status": null,
     "why_it_matters": "The 10% APY applies to up to $1,000, so the balance cap limits how much earns the promotional rate.",
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
+  },
+  {
+    "id": 915,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Walmart.com, Spend $50 & Get $10 Statement Credit (Expires 11/15/26)",
+    "url": "https://www.doctorofcredit.com/amex-offers-walmart-com-spend-50-get-10-statement-credit-expires-11-15-26/",
+    "offer_type": "amex_offer",
+    "headline": "$10 Back on $50 Spend",
+    "summary": "Amex Offer: spend $50, get $10 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $50 spend requirement.",
+    "published": "Thu, 15 Oct 2026 18:41:48 +0000"
   },
   {
     "id": 892,
@@ -572,20 +586,6 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $100 spend requirement.",
     "published": "Sun, 04 Oct 2026 17:45:32 +0000"
-  },
-  {
-    "id": 706,
-    "source": "Frequent Miler",
-    "title": "Hertz Amex Offer: Get $75 back when spending $350+",
-    "url": "https://frequentmiler.com/hertz-amex-offer-get-75-back-when-spending-350/",
-    "offer_type": "amex_offer",
-    "headline": "$75 Back on $350 Spend",
-    "summary": "Amex Offer: spend $350, get $75 back",
-    "score": 7.5,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": "That's an effective 21.4% rebate when you meet the $350 spend requirement.",
-    "published": "Sat, 03 Oct 2026 19:45:00 +0000"
   },
   {
     "id": 641,
@@ -684,6 +684,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 911,
+    "source": "Doctor of Credit",
+    "title": "[MN, WI, MI, WI, FL, GA] Wings Credit Union $500 Checking Bonus + $50 Referral",
+    "url": "https://www.doctorofcredit.com/mn-wi-mi-fl-ga-wings-credit-union-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 16 Oct 2026 15:00:50 +0000"
   },
   {
     "id": 860,
@@ -1101,7 +1115,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 31 Aug 2026 04:50:03 +0000"
   },
@@ -1244,20 +1258,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 21 Sep 2026 17:45:55 +0000"
-  },
-  {
-    "id": 522,
-    "source": "Doctor of Credit",
-    "title": "Citi ThankYou Points 25% Transfer Bonus To Avianca LifeMiles (1:1.25)",
-    "url": "https://www.doctorofcredit.com/citi-thankyou-points-25-transfer-bonus-to-avianca-lifemiles-11-25-12/",
-    "offer_type": "transfer",
-    "headline": "25% Transfer Bonus",
-    "summary": "Transfer bonus: 25%",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 20 Sep 2026 20:26:33 +0000"
   },
   {
     "id": 498,
@@ -1848,18 +1848,32 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
-    "id": 743,
+    "id": 923,
     "source": "Frequent Miler",
-    "title": "Southwest shopping portal promo: Earn 2K bonus points when spending $200",
-    "url": "https://frequentmiler.com/southwest-shopping-portal-promo-earn-2k-bonus-points-when-spending-200/",
-    "offer_type": "promo",
-    "headline": "Earn 2,000 Points with $200 Spend",
-    "summary": "Promo: earn 2,000 points with $200 spend",
+    "title": "Get up to 10% back at Hotels.com with new Amex Offer",
+    "url": "https://frequentmiler.com/get-up-to-10-back-at-hotels-com-with-new-amex-offer/",
+    "offer_type": "amex_offer",
+    "headline": "10% discount",
+    "summary": "Amex Offer: 10% discount",
     "score": 5.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Tue, 06 Oct 2026 00:45:47 +0000"
+    "published": "Thu, 15 Oct 2026 23:45:43 +0000"
+  },
+  {
+    "id": 914,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: 10% Back at Hotels.com (Up To $125 Back)",
+    "url": "https://www.doctorofcredit.com/amex-offers-10-back-at-hotels-com-up-to-100-back/",
+    "offer_type": "amex_offer",
+    "headline": "$125 value",
+    "summary": "Amex Offer: $125 value",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 15 Oct 2026 19:27:58 +0000"
   },
   {
     "id": 394,
@@ -1890,6 +1904,34 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 925,
+    "source": "Frequent Miler",
+    "title": "TopCashback: Earn $40 Bonus When Joining & Earning $10 Cashback",
+    "url": "https://frequentmiler.com/topcashback-earn-40-bonus-when-joining-earning-10-cashback/",
+    "offer_type": "promo",
+    "headline": "$40 Value",
+    "summary": "Promo: $40 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 15 Oct 2026 19:46:14 +0000"
+  },
+  {
+    "id": 918,
+    "source": "Doctor of Credit",
+    "title": "U.S. Bank Offers: Get 10% Back On Dining Purchase (Limit $4 Cashback)",
+    "url": "https://www.doctorofcredit.com/u-s-bank-offers-get-10-back-on-dining-purchase-limit-4-cashback/",
+    "offer_type": "promo",
+    "headline": "10% Back, $4 Value",
+    "summary": "Promo: 10% back, $4 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 15 Oct 2026 17:23:00 +0000"
+  },
+  {
     "id": 898,
     "source": "Doctor of Credit",
     "title": "Chase DoorDash Benefit: Non Restaurant $10 Credit Now Monthly (Was Quarterly)",
@@ -1899,7 +1941,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 14 Oct 2026 20:19:09 +0000"
   },
@@ -2128,20 +2170,6 @@
     "published": "Fri, 02 Oct 2026 20:45:16 +0000"
   },
   {
-    "id": 660,
-    "source": "Doctor of Credit",
-    "title": "[Last Day] SoFi Crypto: Transfer $1,000+ In Eligible Crypto Assets & Earn $300 In SOFID (One Year Hold)",
-    "url": "https://www.doctorofcredit.com/sofi-crypto-transfer-1000-in-eligible-crypto-assets-earn-300-in-sofid-one-year-hold/",
-    "offer_type": "promo",
-    "headline": "$300 Value",
-    "summary": "Promo: $300 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 13 Oct 2026 21:31:43 +0000"
-  },
-  {
     "id": 654,
     "source": "Frequent Miler",
     "title": "Targeted Delta promo: Earn $100 eCredit on your next international flight in Delta Main",
@@ -2252,20 +2280,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 26 Sep 2026 01:55:03 +0000"
-  },
-  {
-    "id": 573,
-    "source": "Frequent Miler",
-    "title": "Get $10 Starbucks gift cards free for every $150 Delta gift cards you buy",
-    "url": "https://frequentmiler.com/get-10-starbucks-gift-cards-free-for-every-150-delta-gift-cards-you-buy/",
-    "offer_type": "promo",
-    "headline": "$10 Value",
-    "summary": "Promo: $10 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 24 Sep 2026 13:45:42 +0000"
   },
   {
     "id": 572,

@@ -84,6 +84,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 941,
+    "source": "Frequent Miler",
+    "title": "Walmart.com Amex Offer: Save $10 on $50 in purchases",
+    "url": "https://frequentmiler.com/walmart-com-amex-offer-save-10-on-50-in-purchases/",
+    "offer_type": "amex_offer",
+    "headline": "$10 value",
+    "summary": "Amex Offer: $10 value",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 16 Oct 2026 16:45:04 +0000"
+  },
+  {
     "id": 920,
     "source": "Frequent Miler",
     "title": "Bank of America Business Checking: Up to a $2500 bonus (no direct deposit required)",
@@ -93,7 +107,7 @@
     "summary": "Bank bonus: $2,500",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 16 Oct 2026 14:45:41 +0000"
   },
@@ -527,7 +541,7 @@
     "summary": "Amex Offer: spend $50, get $10 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $50 spend requirement.",
     "published": "Thu, 15 Oct 2026 18:41:48 +0000"
   },
@@ -695,7 +709,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 16 Oct 2026 15:00:50 +0000"
   },
@@ -1857,7 +1871,7 @@
     "summary": "Amex Offer: 10% discount",
     "score": 5.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 15 Oct 2026 23:45:43 +0000"
   },
@@ -1871,7 +1885,7 @@
     "summary": "Amex Offer: $125 value",
     "score": 5.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 15 Oct 2026 19:27:58 +0000"
   },
@@ -1904,6 +1918,48 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 937,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Wells Fargo: Tap To Pay 5 Times & Earn $10 (Limit $50)",
+    "url": "https://www.doctorofcredit.com/targeted-wells-fargo-tap-to-pay-5-times-earn-10-limit-50/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 16 Oct 2026 16:00:21 +0000"
+  },
+  {
+    "id": 936,
+    "source": "Doctor of Credit",
+    "title": "(Update) FNBO ‘Complete Rewards® Visa Signature® Card’ – $150 Bonus & 5x On Travel With No Annual Fee",
+    "url": "https://www.doctorofcredit.com/fnbo-launches-complete-rewards-visa-signature-card-150-bonus-5x-on-travel-with-no-annual-fee/",
+    "offer_type": "promo",
+    "headline": "$150 Value",
+    "summary": "Promo: $150 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 16 Oct 2026 16:40:43 +0000"
+  },
+  {
+    "id": 935,
+    "source": "Doctor of Credit",
+    "title": "Verizon Credit Card $150 Signup Bonus (No Minimum Spend Requirement)",
+    "url": "https://www.doctorofcredit.com/verizon-credit-card-150-signup-bonus-no-minimum-spend-requirement/",
+    "offer_type": "credit_card",
+    "headline": "$150 Bonus",
+    "summary": "Credit card offer: $150 bonus",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 16 Oct 2026 17:20:10 +0000"
+  },
+  {
     "id": 925,
     "source": "Frequent Miler",
     "title": "TopCashback: Earn $40 Bonus When Joining & Earning $10 Cashback",
@@ -1913,7 +1969,7 @@
     "summary": "Promo: $40 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 15 Oct 2026 19:46:14 +0000"
   },
@@ -1927,7 +1983,7 @@
     "summary": "Promo: 10% back, $4 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 15 Oct 2026 17:23:00 +0000"
   },
@@ -2602,20 +2658,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 01 Sep 2026 15:00:27 +0000"
-  },
-  {
-    "id": 237,
-    "source": "Doctor of Credit",
-    "title": "Chase Offers: DISH Network, Spend $85 & Get $85 Back (Limit 1)",
-    "url": "https://www.doctorofcredit.com/chase-offers-dish-network-spend-85-get-85-back-limit-1/",
-    "offer_type": "promo",
-    "headline": "$85 Value",
-    "summary": "Promo: $85 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 30 Aug 2026 16:00:51 +0000"
   },
   {
     "id": 236,

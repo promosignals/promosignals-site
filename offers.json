@@ -504,6 +504,20 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 974,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Enterprise Car Rental, Spend $300 & Get $60 Statement Credit",
+    "url": "https://www.doctorofcredit.com/amex-offers-enterprise-car-rental-spend-300-get-60-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$60 Back on $300 Spend",
+    "summary": "Amex Offer: spend $300, get $60 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $300 spend requirement.",
+    "published": "Mon, 19 Oct 2026 16:44:51 +0000"
+  },
+  {
     "id": 915,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Walmart.com, Spend $50 & Get $10 Statement Credit (Expires 11/15/26)",
@@ -672,6 +686,20 @@
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
   },
   {
+    "id": 981,
+    "source": "Frequent Miler",
+    "title": "Save up to 20% on a car rental with new Enterprise Amex Offer",
+    "url": "https://frequentmiler.com/save-up-to-20-on-a-car-rental-with-new-enterprise-amex-offer/",
+    "offer_type": "amex_offer",
+    "headline": "20% discount",
+    "summary": "Amex Offer: 20% discount",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 19 Oct 2026 20:45:14 +0000"
+  },
+  {
     "id": 957,
     "source": "Doctor of Credit",
     "title": "[CT only] Union Savings Bank $400 Checking + Savings Bonus",
@@ -681,7 +709,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 18 Oct 2026 19:00:01 +0000"
   },
@@ -695,7 +723,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 19 Oct 2026 10:00:47 +0000"
   },
@@ -726,20 +754,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 17 Oct 2026 19:31:40 +0000"
-  },
-  {
-    "id": 947,
-    "source": "Doctor of Credit",
-    "title": "[WI only] Summit Credit Union $200/$300 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/wi-only-summit-credit-union-100-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$300 Bank Bonus",
-    "summary": "Bank bonus: $300",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Sat, 17 Oct 2026 19:55:44 +0000"
   },
   {
     "id": 945,
@@ -1260,6 +1274,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 972,
+    "source": "Doctor of Credit",
+    "title": "[Yolo County, CA] Yolo Federal Credit Union Visa Platinum Card $1,000 Bonus",
+    "url": "https://www.doctorofcredit.com/yolo-county-ca-yolo-federal-credit-union-visa-platinum-card-1000-bonus/",
+    "offer_type": "promo",
+    "headline": "$1,000 Value",
+    "summary": "Promo: $1,000 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 19 Oct 2026 17:08:28 +0000"
+  },
+  {
     "id": 687,
     "source": "Frequent Miler",
     "title": "American Express Membership Rewards offering 20% transfer bonus to AeroMexico",
@@ -1426,6 +1454,48 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
+  },
+  {
+    "id": 973,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Best Buy, Spend $250 & Get $25 Statement Credit",
+    "url": "https://www.doctorofcredit.com/amex-offers-best-buy-spend-250-get-25-statement-credit-3/",
+    "offer_type": "amex_offer",
+    "headline": "$25 Back on $250 Spend",
+    "summary": "Amex Offer: spend $250, get $25 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 10% rebate when you meet the $250 spend requirement.",
+    "published": "Mon, 19 Oct 2026 16:52:26 +0000"
+  },
+  {
+    "id": 971,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offers (Platinum Card): Spend $500 on Fine Hotels + Resorts & Get $50 Back (Stacks With $300 Hotel Credit)",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offers-platinum-card-spend-500-on-fine-hotels-resorts-get-50-back-stacks-with-300-hotel-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$50 Back on $500 Spend",
+    "summary": "Amex Offer: spend $500, get $50 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 10% rebate when you meet the $500 spend requirement.",
+    "published": "Mon, 19 Oct 2026 18:35:28 +0000"
+  },
+  {
+    "id": 947,
+    "source": "Doctor of Credit",
+    "title": "[WI only] Summit Credit Union $200/$300 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wi-only-summit-credit-union-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Sat, 17 Oct 2026 19:55:44 +0000"
   },
   {
     "id": 946,
@@ -1664,20 +1734,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 19 Sep 2026 15:00:21 +0000"
-  },
-  {
-    "id": 514,
-    "source": "Doctor of Credit",
-    "title": "[CO] Credit Union of the Rockies $300 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/co-credit-union-of-the-rockies-300-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$300 Bank Bonus",
-    "summary": "Bank bonus: $300",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 19 Sep 2026 15:00:27 +0000"
   },
   {
     "id": 508,
@@ -1932,6 +1988,20 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
+    "id": 976,
+    "source": "Frequent Miler",
+    "title": "Get 10% or 15% back with Amex Offer at Kroger & other Kroger brands (Limit $100 spend)",
+    "url": "https://frequentmiler.com/get-10-or-15-back-with-amex-offer-at-kroger-other-kroger-brands-limit-100-spend/",
+    "offer_type": "amex_offer",
+    "headline": "15% discount",
+    "summary": "Amex Offer: 15% discount",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 20 Oct 2026 13:45:51 +0000"
+  },
+  {
     "id": 923,
     "source": "Frequent Miler",
     "title": "Get up to 10% back at Hotels.com with new Amex Offer",
@@ -1960,6 +2030,20 @@
     "published": "Thu, 15 Oct 2026 19:27:58 +0000"
   },
   {
+    "id": 590,
+    "source": "Doctor of Credit",
+    "title": "Amazon: $25 Credit When You Spend On $100+ On Select Pet Products",
+    "url": "https://www.doctorofcredit.com/amazon-save-30-on-100-on-select-pet-products/",
+    "offer_type": "promo",
+    "headline": "$25 Value",
+    "summary": "Promo: $25 value",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Mon, 19 Oct 2026 20:00:56 +0000"
+  },
+  {
     "id": 394,
     "source": "Doctor of Credit",
     "title": "[Targeted] AA SimplyMiles: Spend $65 On AT&T Wireless & Earn 2,325 Miles",
@@ -1986,6 +2070,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
+  },
+  {
+    "id": 278,
+    "source": "Doctor of Credit",
+    "title": "Topcashback: Get $4 Bonus With $20 Spend (10/19-10/20)",
+    "url": "https://www.doctorofcredit.com/topcashback-get-3-bonus-when-you-spend-10-today-only/",
+    "offer_type": "promo",
+    "headline": "$4 Value",
+    "summary": "Promo: $4 value",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Tue, 20 Oct 2026 03:17:56 +0000"
+  },
+  {
+    "id": 964,
+    "source": "Doctor of Credit",
+    "title": "BeFrugal: Spend $25, Receive $5 Bonus",
+    "url": "https://www.doctorofcredit.com/befrugal-spend-15-receive-3-bonus/",
+    "offer_type": "promo",
+    "headline": "$5 Value",
+    "summary": "Promo: $5 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 20 Oct 2026 04:42:45 +0000"
   },
   {
     "id": 943,
@@ -2098,20 +2210,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 14 Oct 2026 13:45:50 +0000"
-  },
-  {
-    "id": 887,
-    "source": "Doctor of Credit",
-    "title": "Chase/U.S. Bank Offers: Get 10% Back On Amazon Business ($20 Cashback Limit)",
-    "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-on-amazon-business-20-cashback-limit/",
-    "offer_type": "promo",
-    "headline": "10% Back, $20 Value",
-    "summary": "Promo: 10% back, $20 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 13 Oct 2026 19:27:50 +0000"
   },
   {
     "id": 875,
@@ -2788,16 +2886,16 @@
   {
     "id": 162,
     "source": "Doctor of Credit",
-    "title": "Chewy.com: Earn $30 Giftcard When You Spend $100",
+    "title": "Chewy.com: Earn $25 Giftcard When You Spend $100",
     "url": "https://www.doctorofcredit.com/chewy-com-earn-30-giftcard-when-you-spend-100-stack-with-15-amex-offer-portal/",
     "offer_type": "promo",
-    "headline": "$30 Value",
-    "summary": "Promo: $30 value",
+    "headline": "$25 Value",
+    "summary": "Promo: $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Mon, 24 Aug 2026 20:50:58 +0000"
+    "published": "Mon, 19 Oct 2026 19:30:58 +0000"
   },
   {
     "id": 151,
@@ -2996,6 +3094,34 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 979,
+    "source": "Frequent Miler",
+    "title": "Leading Hotels of the World Amex Offer: Spend $700 & get 15k Membership Rewards points",
+    "url": "https://frequentmiler.com/leading-hotels-of-the-world-amex-offer-spend-700-get-15k-membership-rewards-points/",
+    "offer_type": "amex_offer",
+    "headline": "Spend $700, get 15,000 points",
+    "summary": "Amex Offer: spend $700, get 15,000 points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 19 Oct 2026 22:46:14 +0000"
+  },
+  {
+    "id": 965,
+    "source": "Doctor of Credit",
+    "title": "[WI] Prime Financial Credit Union $103 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wi-prime-financial-credit-union-103-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$103 Bank Bonus",
+    "summary": "Bank bonus: $103",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 20 Oct 2026 04:07:15 +0000"
+  },
+  {
     "id": 958,
     "source": "Doctor of Credit",
     "title": "[VA only] Argent Credit Union $100 Checking Bonus",
@@ -3005,7 +3131,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 18 Oct 2026 18:15:13 +0000"
   },

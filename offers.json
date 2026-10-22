@@ -70,6 +70,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1010,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Grubhub, Spend $20 & Get $6 Back (Can Be Done Twice)",
+    "url": "https://www.doctorofcredit.com/amex-offers-grubhub-spend-20-get-5-back-can-be-done-twice/",
+    "offer_type": "amex_offer",
+    "headline": "$6 Back on $20 Spend",
+    "summary": "Amex Offer: spend $20, get $6 back",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 30% rebate when you meet the $20 spend requirement.",
+    "published": "Wed, 21 Oct 2026 15:45:42 +0000"
+  },
+  {
     "id": 941,
     "source": "Frequent Miler",
     "title": "Walmart.com Amex Offer: Save $10 on $50 in purchases",
@@ -392,6 +406,34 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 1017,
+    "source": "Frequent Miler",
+    "title": "Get a 30% transfer bonus from Capital One to Virgin Atlantic",
+    "url": "https://frequentmiler.com/30-percent-transfer-bonus-capital-one-virgin-atlantic/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 21 Oct 2026 16:45:47 +0000"
+  },
+  {
+    "id": 1005,
+    "source": "Doctor of Credit",
+    "title": "Capital One Transfer Bonus: 30% Virgin Red/Virgin Atlantic",
+    "url": "https://www.doctorofcredit.com/capital-one-transfer-bonus-30-virgin-red-virgin-atlantic/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 21 Oct 2026 23:27:20 +0000"
+  },
+  {
     "id": 999,
     "source": "Frequent Miler",
     "title": "Get a 35% transfer bonus from Amex Membership Rewards to Marriott Bonvoy",
@@ -401,7 +443,7 @@
     "summary": "Transfer bonus: 35%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 20 Oct 2026 23:45:12 +0000"
   },
@@ -415,7 +457,7 @@
     "summary": "Credit card offer: 80,000 points",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 21 Oct 2026 13:31:01 +0000"
   },
@@ -541,7 +583,7 @@
     "summary": "Amex Offer: spend $1,000, get $200 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 20 Oct 2026 21:45:26 +0000"
   },
@@ -555,7 +597,7 @@
     "summary": "Amex Offer: spend $700, get $150 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 21.4% rebate when you meet the $700 spend requirement.",
     "published": "Tue, 20 Oct 2026 17:35:50 +0000"
   },
@@ -751,7 +793,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 20 Oct 2026 19:25:33 +0000"
   },
@@ -2128,6 +2170,20 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
+    "id": 44,
+    "source": "Doctor of Credit",
+    "title": "[MI, FL] Lake Michigan Credit Union $193 Referral Checking Bonus",
+    "url": "https://www.doctorofcredit.com/lake-michigan-credit-union-100-referral-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$193 Bank Bonus",
+    "summary": "Bank bonus: $193",
+    "score": 5.0,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Sun, 16 Aug 2026 00:30:59 +0000"
+  },
+  {
     "id": 997,
     "source": "Frequent Miler",
     "title": "StubHub promo: Get $20 off $150+ when paying with Paze (stack with StubHub credit + 10X offer)",
@@ -2137,7 +2193,7 @@
     "summary": "Promo: $20 off $150 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 21 Oct 2026 13:45:56 +0000"
   },
@@ -2151,7 +2207,7 @@
     "summary": "Promo: $20 off $150 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 20 Oct 2026 19:41:17 +0000"
   },
@@ -2165,7 +2221,7 @@
     "summary": "Promo: $75 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 20 Oct 2026 19:54:27 +0000"
   },
@@ -2179,7 +2235,7 @@
     "summary": "Promo: $200 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 21 Oct 2026 15:00:17 +0000"
   },
@@ -2718,7 +2774,7 @@
   {
     "id": 496,
     "source": "Doctor of Credit",
-    "title": "Giftcards.com: No Fees On Virtual Visa Giftcards With Promo Code NOFEES (Limit 3), $10 Bonus Giftcard With $100+ Purchase With Code FESTIVAL",
+    "title": "Giftcards.com: $10 Bonus Giftcard With $100+ Purchase With Code TREATMORE",
     "url": "https://www.doctorofcredit.com/giftcards-com-no-fees-on-virtual-visa-giftcards-with-promo-code-nofees-limit-3-10-bonus-giftcard-with-100-purchase-with-code-festival/",
     "offer_type": "promo",
     "headline": "$10 Value",
@@ -2727,7 +2783,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Fri, 18 Sep 2026 23:18:45 +0000"
+    "published": "Wed, 21 Oct 2026 17:00:45 +0000"
   },
   {
     "id": 481,
@@ -2935,7 +2991,7 @@
     "summary": "Promo: $2.50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 21 Oct 2026 14:25:56 +0000"
   },
@@ -3229,7 +3285,7 @@
     "summary": "Promo: 5,000 bonus points",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 20 Oct 2026 19:45:38 +0000"
   },
@@ -3652,20 +3708,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 15 Aug 2026 23:15:09 +0000"
-  },
-  {
-    "id": 44,
-    "source": "Doctor of Credit",
-    "title": "Lake Michigan Credit Union $110 Referral Checking Bonus",
-    "url": "https://www.doctorofcredit.com/lake-michigan-credit-union-100-referral-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$110 Bank Bonus",
-    "summary": "Bank bonus: $110",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 16 Aug 2026 00:30:59 +0000"
   },
   {
     "id": 42,

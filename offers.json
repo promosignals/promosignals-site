@@ -70,6 +70,34 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1020,
+    "source": "Doctor of Credit",
+    "title": "Schwab $250-$1,000 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/schwab-250-1000-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$1,000 Bank Bonus",
+    "summary": "Bank bonus: $1,000",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 22 Oct 2026 17:19:18 +0000"
+  },
+  {
+    "id": 1019,
+    "source": "Doctor of Credit",
+    "title": "[MA, NH, ME, RI] Eastern Bank $750 Checking/Savings Bonus",
+    "url": "https://www.doctorofcredit.com/ma-nh-me-ri-eastern-bank-750-checking-savings-bonus/",
+    "offer_type": "bank",
+    "headline": "$750 Bank Bonus",
+    "summary": "Bank bonus: $750",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 22 Oct 2026 18:00:23 +0000"
+  },
+  {
     "id": 1010,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Grubhub, Spend $20 & Get $6 Back (Can Be Done Twice)",
@@ -79,7 +107,7 @@
     "summary": "Amex Offer: spend $20, get $6 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 30% rebate when you meet the $20 spend requirement.",
     "published": "Wed, 21 Oct 2026 15:45:42 +0000"
   },
@@ -406,6 +434,20 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 1025,
+    "source": "Frequent Miler",
+    "title": "Southwest Plus card: Increased 80K welcome offer",
+    "url": "https://frequentmiler.com/southwest-plus-card-increased-80k-welcome-offer/",
+    "offer_type": "credit_card",
+    "headline": "80,000 Points",
+    "summary": "Credit card offer: 80,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 22 Oct 2026 19:45:43 +0000"
+  },
+  {
     "id": 1017,
     "source": "Frequent Miler",
     "title": "Get a 30% transfer bonus from Capital One to Virgin Atlantic",
@@ -415,7 +457,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 21 Oct 2026 16:45:47 +0000"
   },
@@ -429,7 +471,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 21 Oct 2026 23:27:20 +0000"
   },
@@ -450,7 +492,7 @@
   {
     "id": 986,
     "source": "Doctor of Credit",
-    "title": "[Targeted] Chase Southwest Plus Card 80,000 Points Signup Bonus",
+    "title": "[Public Link] Chase Southwest Plus Card 80,000 Points Signup Bonus",
     "url": "https://www.doctorofcredit.com/targeted-chase-southwest-plus-card-80000-points-signup-bonus/",
     "offer_type": "credit_card",
     "headline": "80,000 Points",
@@ -459,7 +501,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 21 Oct 2026 13:31:01 +0000"
+    "published": "Thu, 22 Oct 2026 16:15:01 +0000"
   },
   {
     "id": 711,
@@ -548,7 +590,7 @@
   {
     "id": 309,
     "source": "Frequent Miler",
-    "title": "Avios Cards (British Airways, Iberia, Aer Lingus): Increased 90K Welcome Offers",
+    "title": "Avios Cards (British Airways, Iberia, Aer Lingus): Increased 90K Welcome Offers ending next week",
     "url": "https://frequentmiler.com/avios-cards-british-airways-iberia-aer-lingus-increased-90k-welcome-offers/",
     "offer_type": "credit_card",
     "headline": "90,000 Points",
@@ -557,7 +599,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 03 Sep 2026 17:46:31 +0000"
+    "published": "Thu, 22 Oct 2026 18:45:44 +0000"
   },
   {
     "id": 148,
@@ -2170,18 +2212,18 @@
     "published": "Tue, 08 Sep 2026 16:58:17 +0000"
   },
   {
-    "id": 44,
+    "id": 1021,
     "source": "Doctor of Credit",
-    "title": "[MI, FL] Lake Michigan Credit Union $193 Referral Checking Bonus",
-    "url": "https://www.doctorofcredit.com/lake-michigan-credit-union-100-referral-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$193 Bank Bonus",
-    "summary": "Bank bonus: $193",
-    "score": 5.0,
+    "title": "Discover it $200 Signup Bonus + $100 Referral Bonus + Double Cashback + 0% APR",
+    "url": "https://www.doctorofcredit.com/discover-it-200-signup-bonus-100-referral-bonus-double-cashback-0-apr/",
+    "offer_type": "promo",
+    "headline": "0% Back, $200 Value",
+    "summary": "Promo: 0% back, $200 value",
+    "score": 4.5,
     "score_label": "Standard",
-    "status": "IMPROVED",
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Sun, 16 Aug 2026 00:30:59 +0000"
+    "published": "Thu, 22 Oct 2026 15:55:43 +0000"
   },
   {
     "id": 997,
@@ -3708,6 +3750,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 15 Aug 2026 23:15:09 +0000"
+  },
+  {
+    "id": 44,
+    "source": "Doctor of Credit",
+    "title": "[MI, FL] Lake Michigan Credit Union $193 Referral Checking Bonus",
+    "url": "https://www.doctorofcredit.com/lake-michigan-credit-union-100-referral-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$193 Bank Bonus",
+    "summary": "Bank bonus: $193",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Sun, 16 Aug 2026 00:30:59 +0000"
   },
   {
     "id": 42,

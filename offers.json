@@ -70,6 +70,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1039,
+    "source": "Frequent Miler",
+    "title": "Marriott Amex Offer: Spend $375, get $150 back (targeted)",
+    "url": "https://frequentmiler.com/marriott-amex-offer-spend-375-get-150-back-targeted/",
+    "offer_type": "amex_offer",
+    "headline": "$150 Back on $375 Spend",
+    "summary": "Amex Offer: spend $375, get $150 back",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 40% rebate when you meet the $375 spend requirement.",
+    "published": "Fri, 23 Oct 2026 17:45:32 +0000"
+  },
+  {
     "id": 1020,
     "source": "Doctor of Credit",
     "title": "Schwab $250-$1,000 Checking Bonus",
@@ -79,7 +93,7 @@
     "summary": "Bank bonus: $1,000",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 22 Oct 2026 17:19:18 +0000"
   },
@@ -93,7 +107,7 @@
     "summary": "Bank bonus: $750",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 22 Oct 2026 18:00:23 +0000"
   },
@@ -443,7 +457,7 @@
     "summary": "Credit card offer: 80,000 points",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 22 Oct 2026 19:45:43 +0000"
   },
@@ -768,20 +782,6 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
     "published": "Thu, 24 Sep 2026 21:45:08 +0000"
-  },
-  {
-    "id": 570,
-    "source": "Frequent Miler",
-    "title": "(Extended) Holland America Line Amex Offer: Spend $750 & get $200 back or spend $1,000 & get $250 back",
-    "url": "https://frequentmiler.com/holland-america-line-amex-offer-spend-750-get-200-back/",
-    "offer_type": "amex_offer",
-    "headline": "$200 Back on $750 Spend",
-    "summary": "Amex Offer: spend $750, get $200 back",
-    "score": 7.5,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": "That's an effective 26.7% rebate when you meet the $750 spend requirement.",
-    "published": "Thu, 24 Sep 2026 17:45:09 +0000"
   },
   {
     "id": 474,
@@ -2002,20 +2002,6 @@
     "published": "Sun, 06 Sep 2026 13:00:10 +0000"
   },
   {
-    "id": 326,
-    "source": "Frequent Miler",
-    "title": "Airbnb Amex Offers: $30 back when you spend $250+ or 15% back up to $30 (targeted)",
-    "url": "https://frequentmiler.com/airbnb-amex-offers-30-back-when-you-spend-250-or-15-back-up-to-30-targeted/",
-    "offer_type": "amex_offer",
-    "headline": "$30 Back on $250 Spend",
-    "summary": "Amex Offer: spend $250, get $30 back",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 04 Sep 2026 15:45:33 +0000"
-  },
-  {
     "id": 306,
     "source": "Frequent Miler",
     "title": "American Express Rewards Checking: $300 bonus for new customers",
@@ -2209,7 +2195,21 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 08 Sep 2026 16:58:17 +0000"
+    "published": "Fri, 23 Oct 2026 17:45:17 +0000"
+  },
+  {
+    "id": 1028,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] U.S. Bank Travel: $100 Off $500 Hotel Booking",
+    "url": "https://www.doctorofcredit.com/targeted-u-s-bank-travel-save-75-with-500-booking/",
+    "offer_type": "promo",
+    "headline": "$100 Off $500 Spend",
+    "summary": "Promo: $100 off $500 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 23 Oct 2026 18:00:47 +0000"
   },
   {
     "id": 1021,
@@ -2221,7 +2221,7 @@
     "summary": "Promo: 0% back, $200 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 22 Oct 2026 15:55:43 +0000"
   },
@@ -2406,20 +2406,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 14 Oct 2026 13:45:50 +0000"
-  },
-  {
-    "id": 875,
-    "source": "Frequent Miler",
-    "title": "$50 off $300 IHG Booking via Citi Travel (Targeted)",
-    "url": "https://frequentmiler.com/50-off-300-ihg-booking-via-citi-travel-targeted/",
-    "offer_type": "promo",
-    "headline": "$50 Off $300 Spend",
-    "summary": "Promo: $50 off $300 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 12 Oct 2026 19:45:04 +0000"
   },
   {
     "id": 867,
@@ -3022,20 +3008,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
-  },
-  {
-    "id": 278,
-    "source": "Doctor of Credit",
-    "title": "Topcashback: Get $2.50 Bonus With $20 Spend (10/21-10/23)",
-    "url": "https://www.doctorofcredit.com/topcashback-get-3-bonus-when-you-spend-10-today-only/",
-    "offer_type": "promo",
-    "headline": "$2.50 Value",
-    "summary": "Promo: $2.50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 21 Oct 2026 14:25:56 +0000"
   },
   {
     "id": 242,

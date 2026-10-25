@@ -79,7 +79,7 @@
     "summary": "Amex Offer: spend $375, get $150 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 40% rebate when you meet the $375 spend requirement.",
     "published": "Fri, 23 Oct 2026 17:45:32 +0000"
   },
@@ -2207,7 +2207,7 @@
     "summary": "Promo: $100 off $500 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 23 Oct 2026 18:00:47 +0000"
   },
@@ -2294,20 +2294,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 20 Oct 2026 04:42:45 +0000"
-  },
-  {
-    "id": 943,
-    "source": "Doctor of Credit",
-    "title": "Shoprite: Buy $100 In One4All Giftcards, Get $15 Shopping Voucher [10/18-10/24]",
-    "url": "https://www.doctorofcredit.com/3-22-3-28-shoprite-buy-75-in-one4all-giftcards-get-10-shopping-voucher/",
-    "offer_type": "promo",
-    "headline": "$15 Value",
-    "summary": "Promo: $15 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 18 Oct 2026 14:00:23 +0000"
   },
   {
     "id": 937,
@@ -2462,20 +2448,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 21:30:03 +0000"
-  },
-  {
-    "id": 819,
-    "source": "Doctor of Credit",
-    "title": "[YMMV] Citi Travel: IHG, Spend $300 & Get $50 Off",
-    "url": "https://www.doctorofcredit.com/ymmv-citi-travel-ihg-spend-300-get-50-off/",
-    "offer_type": "promo",
-    "headline": "$50 Value",
-    "summary": "Promo: $50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 09 Oct 2026 19:36:15 +0000"
   },
   {
     "id": 812,
@@ -2671,7 +2643,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 06 Oct 2026 14:35:30 +0000"
+    "published": "Sun, 25 Oct 2026 10:00:30 +0000"
   },
   {
     "id": 590,
@@ -2742,20 +2714,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 15:00:09 +0000"
-  },
-  {
-    "id": 564,
-    "source": "Doctor of Credit",
-    "title": "Betterment: $100 Bonus For Depositing $2,500",
-    "url": "https://www.doctorofcredit.com/betterment-100-bonus-for-depositing-2500-one-week-hold-period/",
-    "offer_type": "promo",
-    "headline": "$100 Value",
-    "summary": "Promo: $100 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 24 Sep 2026 16:00:00 +0000"
   },
   {
     "id": 559,
@@ -3318,20 +3276,6 @@
     "published": "Mon, 19 Oct 2026 22:46:14 +0000"
   },
   {
-    "id": 965,
-    "source": "Doctor of Credit",
-    "title": "[WI] Prime Financial Credit Union $103 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/wi-prime-financial-credit-union-103-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$103 Bank Bonus",
-    "summary": "Bank bonus: $103",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 20 Oct 2026 04:07:15 +0000"
-  },
-  {
     "id": 958,
     "source": "Doctor of Credit",
     "title": "[VA only] Argent Credit Union $100 Checking Bonus",
@@ -3474,7 +3418,7 @@
   {
     "id": 815,
     "source": "Doctor of Credit",
-    "title": "[SC, NC, GA, TN, VA] Sharonview Federal Credit $100 Referral Checking Bonus",
+    "title": "[SC, NC, GA, TN, VA] Sharonview Federal Credit Union $100 Referral Checking Bonus",
     "url": "https://www.doctorofcredit.com/sc-nc-ga-tn-va-sharonview-federal-credit-100-referral-checking-bonus/",
     "offer_type": "bank",
     "headline": "$100 Bank Bonus",
@@ -3735,7 +3679,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Sun, 16 Aug 2026 00:30:59 +0000"
+    "published": "Sat, 24 Oct 2026 15:30:59 +0000"
   },
   {
     "id": 42,

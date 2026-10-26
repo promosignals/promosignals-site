@@ -1498,20 +1498,6 @@
     "published": "Fri, 02 Oct 2026 12:00:00 +0000"
   },
   {
-    "id": 540,
-    "source": "Frequent Miler",
-    "title": "25% transfer bonus to Avianca Lifemiles from Citi ThankYou Rewards",
-    "url": "https://frequentmiler.com/25-transfer-bonus-to-avianca-lifemiles-from-citi-thankyou-rewards-2/",
-    "offer_type": "transfer",
-    "headline": "25% Transfer Bonus",
-    "summary": "Transfer bonus: 25%",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 21 Sep 2026 17:45:55 +0000"
-  },
-  {
     "id": 498,
     "source": "Doctor of Credit",
     "title": "Brex Business Card $1,000 Signup Bonus After $4,000 Spend",
@@ -1610,6 +1596,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1046,
+    "source": "Doctor of Credit",
+    "title": "[TX only] A+ Federal Credit Union $250 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/tx-only-a-federal-credit-union-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 25 Oct 2026 22:00:41 +0000"
+  },
+  {
     "id": 973,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Best Buy, Spend $250 & Get $25 Statement Credit",
@@ -1677,7 +1677,7 @@
     "score_label": "Good",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 13 Oct 2026 20:44:08 +0000"
+    "published": "Mon, 26 Oct 2026 08:38:08 +0000"
   },
   {
     "id": 861,
@@ -2196,6 +2196,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
+  },
+  {
+    "id": 1041,
+    "source": "Doctor of Credit",
+    "title": "Best Buy: Create A Free Gamer Profile & Get $5 Certificate",
+    "url": "https://www.doctorofcredit.com/best-buy-create-a-free-gamer-profile-get-5-certificate/",
+    "offer_type": "promo",
+    "headline": "$5 Value",
+    "summary": "Promo: $5 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 26 Oct 2026 15:00:22 +0000"
   },
   {
     "id": 1028,
@@ -2914,16 +2928,16 @@
   {
     "id": 312,
     "source": "Doctor of Credit",
-    "title": "[Targeted] Gemini: 50% Bonus On Prediction Markets Up To $50",
+    "title": "[Targeted] Gemini: Get $30-$760 On Prediction Markets (Requires $250-$20,000 In Trades)",
     "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
     "offer_type": "promo",
-    "headline": "50% Back, $50 Value",
-    "summary": "Promo: 50% back, $50 value",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Tue, 13 Oct 2026 22:51:10 +0000"
+    "published": "Sun, 25 Oct 2026 23:35:10 +0000"
   },
   {
     "id": 311,
@@ -3246,6 +3260,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 1048,
+    "source": "Doctor of Credit",
+    "title": "[CT, RI only] Centreville Bank $200 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ct-ri-only-centreville-bank-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 25 Oct 2026 20:00:38 +0000"
+  },
+  {
+    "id": 1047,
+    "source": "Doctor of Credit",
+    "title": "[MA Only] Liberty Bay Credit Union (lbcu.org) $100 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ma-only-liberty-bank-lbcu-org-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$100 Bank Bonus",
+    "summary": "Bank bonus: $100",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 25 Oct 2026 21:00:39 +0000"
   },
   {
     "id": 1001,

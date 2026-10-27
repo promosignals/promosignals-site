@@ -1428,6 +1428,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 1058,
+    "source": "Doctor of Credit",
+    "title": "Capital One Transfer Bonus: 20% To British Airways Avios (1:1.2)",
+    "url": "https://www.doctorofcredit.com/capital-one-transfer-bonus-20-to-british-airways-avios-11-2-3/",
+    "offer_type": "transfer",
+    "headline": "20% Transfer Bonus",
+    "summary": "Transfer bonus: 20%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 27 Oct 2026 02:29:11 +0000"
+  },
+  {
     "id": 972,
     "source": "Doctor of Credit",
     "title": "[Yolo County, CA] Yolo Federal Credit Union Visa Platinum Card $1,000 Bonus",
@@ -1596,6 +1610,48 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1060,
+    "source": "Doctor of Credit",
+    "title": "Hustl Financial: 3.8% APY Money Market Account [Moving From VantageWest To HarborStone]",
+    "url": "https://www.doctorofcredit.com/hustl-financial-5-apy-money-market-account/",
+    "offer_type": "bank",
+    "headline": "3.8% APY",
+    "summary": "Bank APY: 3.8% APY",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 26 Oct 2026 23:25:29 +0000"
+  },
+  {
+    "id": 1059,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offer: Delta Stays, Spend $600+ & Receive $100 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offer-delta-stays-spend-300-receive-50-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$100 Back on $600 Spend",
+    "summary": "Amex Offer: spend $600, get $100 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 16.7% rebate when you meet the $600 spend requirement.",
+    "published": "Tue, 27 Oct 2026 01:45:19 +0000"
+  },
+  {
+    "id": 1055,
+    "source": "Doctor of Credit",
+    "title": "Connexus Credit Union $300 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/connexus-credit-union-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 27 Oct 2026 15:00:11 +0000"
+  },
+  {
     "id": 1046,
     "source": "Doctor of Credit",
     "title": "[TX only] A+ Federal Credit Union $250 Checking Bonus",
@@ -1605,7 +1661,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 25 Oct 2026 22:00:41 +0000"
   },
@@ -2198,6 +2254,20 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1061,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: American Express Gift Cards, Spend $750 & Get $50 Back (2x)",
+    "url": "https://www.doctorofcredit.com/amex-offers-american-express-gift-cards-spend-750-get-50-back-2x/",
+    "offer_type": "credit_card",
+    "headline": "$50 Bonus",
+    "summary": "Credit card offer: $50 bonus",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 26 Oct 2026 22:25:44 +0000"
+  },
+  {
     "id": 1041,
     "source": "Doctor of Credit",
     "title": "Best Buy: Create A Free Gamer Profile & Get $5 Certificate",
@@ -2207,7 +2277,7 @@
     "summary": "Promo: $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 26 Oct 2026 15:00:22 +0000"
   },
@@ -2406,20 +2476,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 14 Oct 2026 13:45:50 +0000"
-  },
-  {
-    "id": 867,
-    "source": "Doctor of Credit",
-    "title": "Join Topcashback & Get A $40 Sign Up Bonus",
-    "url": "https://www.doctorofcredit.com/join-topcashback-get-a-40-sign-up-bonus-highest-ever-2/",
-    "offer_type": "promo",
-    "headline": "$40 Value",
-    "summary": "Promo: $40 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 13 Oct 2026 13:00:51 +0000"
   },
   {
     "id": 848,
@@ -2935,7 +2991,7 @@
     "summary": "Promo: $30 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 25 Oct 2026 23:35:10 +0000"
   },
@@ -3271,7 +3327,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 25 Oct 2026 20:00:38 +0000"
   },
@@ -3285,7 +3341,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 25 Oct 2026 21:00:39 +0000"
   },

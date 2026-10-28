@@ -70,6 +70,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1074,
+    "source": "Doctor of Credit",
+    "title": "Citi $325/$500/$2,000/$4,000 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/citi-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$4,000 Bank Bonus",
+    "summary": "Bank bonus: $4,000",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 28 Oct 2026 15:00:02 +0000"
+  },
+  {
     "id": 1039,
     "source": "Frequent Miler",
     "title": "Marriott Amex Offer: Spend $375, get $150 back (targeted)",
@@ -448,6 +462,20 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 1091,
+    "source": "Frequent Miler",
+    "title": "CitiBusiness AAdvantage Mastercard: 75K Welcome Offer is back",
+    "url": "https://frequentmiler.com/citibusiness-aadvantage-platinum-card-limited-time-75k-welcome-offer/",
+    "offer_type": "credit_card",
+    "headline": "75,000 Points",
+    "summary": "Credit card offer: 75,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 27 Oct 2026 20:45:48 +0000"
+  },
+  {
     "id": 1025,
     "source": "Frequent Miler",
     "title": "Southwest Plus card: Increased 80K welcome offer",
@@ -824,6 +852,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 1078,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Robinhood: 7% APY On Balances Up To $10,000 For 60 Days",
+    "url": "https://www.doctorofcredit.com/targeted-robinhood-7-apy-on-balances-up-to-10000-for-60-days/",
+    "offer_type": "bank",
+    "headline": "7% APY on up to $10,000",
+    "summary": "Bank APY: 7% APY on up to $10,000",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "The 7% APY applies to up to $10,000, so the balance cap limits how much earns the promotional rate.",
+    "published": "Tue, 27 Oct 2026 20:09:56 +0000"
   },
   {
     "id": 993,
@@ -1437,7 +1479,7 @@
     "summary": "Transfer bonus: 20%",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 27 Oct 2026 02:29:11 +0000"
   },
@@ -1610,6 +1652,62 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1090,
+    "source": "Frequent Miler",
+    "title": "Delta Amex Offer: Get $250 back when spending $2K directly with airline",
+    "url": "https://frequentmiler.com/delta-amex-offer-get-250-back-when-spending-2k-directly-with-airline/",
+    "offer_type": "amex_offer",
+    "headline": "$250 Back on $2,000 Spend",
+    "summary": "Amex Offer: spend $2,000, get $250 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 12.5% rebate when you meet the $2,000 spend requirement.",
+    "published": "Tue, 27 Oct 2026 21:45:35 +0000"
+  },
+  {
+    "id": 1079,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offer: Air New Zealand, Spend $1,800+ & Receive $350 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offer-air-new-zealand-spend-1250-receive-225-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$350 Back on $1,800 Spend",
+    "summary": "Amex Offer: spend $1,800, get $350 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 19.4% rebate when you meet the $1,800 spend requirement.",
+    "published": "Tue, 27 Oct 2026 20:05:04 +0000"
+  },
+  {
+    "id": 1076,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offer: Delta Airlines via Amex Travel, Spend $2,000+ & Receive $250 Statement Credit",
+    "url": "https://www.doctorofcredit.com/amex-offer-delta-airlines-via-amex-travel-spend-2000-receive-250-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$250 Back on $2,000 Spend",
+    "summary": "Amex Offer: spend $2,000, get $250 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 12.5% rebate when you meet the $2,000 spend requirement.",
+    "published": "Wed, 28 Oct 2026 14:00:52 +0000"
+  },
+  {
+    "id": 1075,
+    "source": "Doctor of Credit",
+    "title": "Axos Bank $300 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/axos-bank-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 28 Oct 2026 14:00:54 +0000"
+  },
+  {
     "id": 1060,
     "source": "Doctor of Credit",
     "title": "Hustl Financial: 3.8% APY Money Market Account [Moving From VantageWest To HarborStone]",
@@ -1619,7 +1717,7 @@
     "summary": "Bank APY: 3.8% APY",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 26 Oct 2026 23:25:29 +0000"
   },
@@ -1633,7 +1731,7 @@
     "summary": "Amex Offer: spend $600, get $100 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 16.7% rebate when you meet the $600 spend requirement.",
     "published": "Tue, 27 Oct 2026 01:45:19 +0000"
   },
@@ -1647,7 +1745,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 27 Oct 2026 15:00:11 +0000"
   },
@@ -1888,20 +1986,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 21:52:09 +0000"
-  },
-  {
-    "id": 585,
-    "source": "Doctor of Credit",
-    "title": "[MA & CT only] PeoplesBank (Bankatpeoples) $350 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/ma-ct-only-peoplesbank-bankatpeoples-250-checking-bonus-direct-deposit-not-required/",
-    "offer_type": "bank",
-    "headline": "$350 Bank Bonus",
-    "summary": "Bank bonus: $350",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 26 Sep 2026 15:00:09 +0000"
   },
   {
     "id": 563,
@@ -2254,6 +2338,20 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1089,
+    "source": "Frequent Miler",
+    "title": "Emirates Chase Offer: Get 5% back on $500-$2,000 spend",
+    "url": "https://frequentmiler.com/emirates-chase-offer-get-5-back-on-up-to-2k-spend/",
+    "offer_type": "promo",
+    "headline": "5% Back, Up to $100 Value on $2,000 Spend",
+    "summary": "Promo: 5% back, up to $100 value on $2,000 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 27 Oct 2026 23:45:03 +0000"
+  },
+  {
     "id": 1061,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: American Express Gift Cards, Spend $750 & Get $50 Back (2x)",
@@ -2263,7 +2361,7 @@
     "summary": "Credit card offer: $50 bonus",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 26 Oct 2026 22:25:44 +0000"
   },
@@ -3108,20 +3206,6 @@
     "published": "Mon, 28 Sep 2026 13:45:16 +0000"
   },
   {
-    "id": 162,
-    "source": "Doctor of Credit",
-    "title": "Chewy.com: Earn $25 Giftcard When You Spend $100",
-    "url": "https://www.doctorofcredit.com/chewy-com-earn-30-giftcard-when-you-spend-100-stack-with-15-amex-offer-portal/",
-    "offer_type": "promo",
-    "headline": "$25 Value",
-    "summary": "Promo: $25 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 19 Oct 2026 19:30:58 +0000"
-  },
-  {
     "id": 151,
     "source": "Doctor of Credit",
     "title": "[Targeted] Gemini, Purchase $1,000+ In Stocks & Get $75",
@@ -3316,6 +3400,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 1094,
+    "source": "Frequent Miler",
+    "title": "American Airlines shopping portal referral promo: Earn up to 5,000 bonus miles",
+    "url": "https://frequentmiler.com/american-airlines-shopping-portal-referral-promo-earn-up-to-5000-bonus-miles/",
+    "offer_type": "promo",
+    "headline": "5,000 Bonus Points",
+    "summary": "Promo: 5,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 27 Oct 2026 17:46:18 +0000"
   },
   {
     "id": 1048,

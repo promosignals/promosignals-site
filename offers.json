@@ -1,5 +1,19 @@
 [
   {
+    "id": 1099,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Chase Sapphire Reserve for Business 300,000 Points Signup Bonus",
+    "url": "https://www.doctorofcredit.com/targeted-chase-sapphire-reserve-for-business-300000-points-signup-bonus/",
+    "offer_type": "credit_card",
+    "headline": "300,000 Points",
+    "summary": "Credit card offer: 300,000 points",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 28 Oct 2026 16:27:32 +0000"
+  },
+  {
     "id": 809,
     "source": "Frequent Miler",
     "title": "100% transfer bonus from Wyndham Rewards to United MileagePlus",
@@ -79,7 +93,7 @@
     "summary": "Bank bonus: $4,000",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 28 Oct 2026 15:00:02 +0000"
   },
@@ -462,6 +476,34 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 1100,
+    "source": "Frequent Miler",
+    "title": "Southwest Priority and Premier cards: Increased welcome offers of up to 90K points",
+    "url": "https://frequentmiler.com/southwest-priority-and-premier-cards-increased-welcome-offers/",
+    "offer_type": "credit_card",
+    "headline": "90,000 Points",
+    "summary": "Credit card offer: 90,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 29 Oct 2026 13:45:34 +0000"
+  },
+  {
+    "id": 1097,
+    "source": "Doctor of Credit",
+    "title": "Bilt Rent Day (November 2026): Up to 100% Bonus On Giftcard Redemptions & Up To $150 Off Hotel Bookings",
+    "url": "https://www.doctorofcredit.com/bilt-rent-day-november-2026-up-to-100-bonus-on-giftcard-redemptions-up-to-150-off-hotel-bookings/",
+    "offer_type": "promo",
+    "headline": "100% Back, $150 Value",
+    "summary": "Promo: 100% back, $150 value",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 28 Oct 2026 19:35:05 +0000"
+  },
+  {
     "id": 1091,
     "source": "Frequent Miler",
     "title": "CitiBusiness AAdvantage Mastercard: 75K Welcome Offer is back",
@@ -471,7 +513,7 @@
     "summary": "Credit card offer: 75,000 points",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 27 Oct 2026 20:45:48 +0000"
   },
@@ -863,7 +905,7 @@
     "summary": "Bank APY: 7% APY on up to $10,000",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "The 7% APY applies to up to $10,000, so the balance cap limits how much earns the promotional rate.",
     "published": "Tue, 27 Oct 2026 20:09:56 +0000"
   },
@@ -1146,20 +1188,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 27 Sep 2026 15:00:10 +0000"
-  },
-  {
-    "id": 524,
-    "source": "Doctor of Credit",
-    "title": "[FL Only] Connect Credit Union $400 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/fl-only-connect-credit-union-400-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$400 Bank Bonus",
-    "summary": "Bank bonus: $400",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 20 Sep 2026 19:00:13 +0000"
   },
   {
     "id": 523,
@@ -1661,7 +1689,7 @@
     "summary": "Amex Offer: spend $2,000, get $250 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 12.5% rebate when you meet the $2,000 spend requirement.",
     "published": "Tue, 27 Oct 2026 21:45:35 +0000"
   },
@@ -1675,21 +1703,21 @@
     "summary": "Amex Offer: spend $1,800, get $350 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 19.4% rebate when you meet the $1,800 spend requirement.",
     "published": "Tue, 27 Oct 2026 20:05:04 +0000"
   },
   {
     "id": 1076,
     "source": "Doctor of Credit",
-    "title": "AmEx Offer: Delta Airlines via Amex Travel, Spend $2,000+ & Receive $250 Statement Credit",
+    "title": "AmEx Offer: Delta Airlines, Spend $2,000+ & Receive $250 Statement Credit",
     "url": "https://www.doctorofcredit.com/amex-offer-delta-airlines-via-amex-travel-spend-2000-receive-250-statement-credit/",
     "offer_type": "amex_offer",
     "headline": "$250 Back on $2,000 Spend",
     "summary": "Amex Offer: spend $2,000, get $250 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 12.5% rebate when you meet the $2,000 spend requirement.",
     "published": "Wed, 28 Oct 2026 14:00:52 +0000"
   },
@@ -1703,7 +1731,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 28 Oct 2026 14:00:54 +0000"
   },
@@ -2338,6 +2366,48 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 50,
+    "source": "Doctor of Credit",
+    "title": "7-Eleven 7NOW App Promo Codes: $25 off $50+, NOTRICKS",
+    "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
+    "offer_type": "promo",
+    "headline": "$25 Off $50 Spend",
+    "summary": "Promo: $25 off $50 spend",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Wed, 28 Oct 2026 20:07:41 +0000"
+  },
+  {
+    "id": 1105,
+    "source": "Frequent Miler",
+    "title": "Capital One Shopping: Earn $10.50 or $21 when booking Alaska Airlines flights (targeted)",
+    "url": "https://frequentmiler.com/capital-one-shopping-earn-10-50-or-21-when-booking-alaska-airlines-flights-targeted/",
+    "offer_type": "promo",
+    "headline": "$10.50 Value",
+    "summary": "Promo: $10.50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 28 Oct 2026 18:45:35 +0000"
+  },
+  {
+    "id": 1098,
+    "source": "Doctor of Credit",
+    "title": "Buy Costco Membership & Get $45 Costco Shop Card",
+    "url": "https://www.doctorofcredit.com/buy-costco-membership-get-45-costco-shop-card/",
+    "offer_type": "promo",
+    "headline": "$45 Value",
+    "summary": "Promo: $45 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 28 Oct 2026 16:46:49 +0000"
+  },
+  {
     "id": 1089,
     "source": "Frequent Miler",
     "title": "Emirates Chase Offer: Get 5% back on $500-$2,000 spend",
@@ -2347,7 +2417,7 @@
     "summary": "Promo: 5% back, up to $100 value on $2,000 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 27 Oct 2026 23:45:03 +0000"
   },
@@ -3080,20 +3150,6 @@
     "published": "Fri, 04 Sep 2026 20:48:22 +0000"
   },
   {
-    "id": 312,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Gemini: Get $30-$760 On Prediction Markets (Requires $250-$20,000 In Trades)",
-    "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
-    "offer_type": "promo",
-    "headline": "$30 Value",
-    "summary": "Promo: $30 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 25 Oct 2026 23:35:10 +0000"
-  },
-  {
     "id": 311,
     "source": "Doctor of Credit",
     "title": "[YMMV] inKind: $5 Off $10",
@@ -3304,20 +3360,6 @@
     "published": "Sat, 29 Aug 2026 11:30:44 +0000"
   },
   {
-    "id": 50,
-    "source": "Doctor of Credit",
-    "title": "7-Eleven 7NOW App Promo Codes: $10 off $15+, No Code",
-    "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
-    "offer_type": "promo",
-    "headline": "$10 Off $15 Spend",
-    "summary": "Promo: $10 off $15 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 15 Sep 2026 21:00:41 +0000"
-  },
-  {
     "id": 40,
     "source": "Frequent Miler",
     "title": "Marriott Bonvoy Citi Offer: Get $30 back on $300",
@@ -3411,7 +3453,7 @@
     "summary": "Promo: 5,000 bonus points",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 27 Oct 2026 17:46:18 +0000"
   },

@@ -1,5 +1,19 @@
 [
   {
+    "id": 1122,
+    "source": "Frequent Miler",
+    "title": "Chase Sapphire Reserve for Business®: Targeted 300K welcome offer",
+    "url": "https://frequentmiler.com/chase-sapphire-reserve-for-business-targeted-300k-welcome-offer/",
+    "offer_type": "credit_card",
+    "headline": "300,000 Points",
+    "summary": "Credit card offer: 300,000 points",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 29 Oct 2026 21:45:44 +0000"
+  },
+  {
     "id": 1099,
     "source": "Doctor of Credit",
     "title": "[Targeted] Chase Sapphire Reserve for Business 300,000 Points Signup Bonus",
@@ -9,7 +23,7 @@
     "summary": "Credit card offer: 300,000 points",
     "score": 9.5,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 28 Oct 2026 16:27:32 +0000"
   },
@@ -86,7 +100,7 @@
   {
     "id": 1074,
     "source": "Doctor of Credit",
-    "title": "Citi $325/$500/$2,000/$4,000 Checking Bonus",
+    "title": "Citi $325/$475/$500/$2,000/$4,000 Checking Bonus",
     "url": "https://www.doctorofcredit.com/citi-300-checking-bonus/",
     "offer_type": "bank",
     "headline": "$4,000 Bank Bonus",
@@ -95,7 +109,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 28 Oct 2026 15:00:02 +0000"
+    "published": "Fri, 30 Oct 2026 11:00:02 +0000"
   },
   {
     "id": 1039,
@@ -485,7 +499,7 @@
     "summary": "Credit card offer: 90,000 points",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 29 Oct 2026 13:45:34 +0000"
   },
@@ -499,7 +513,7 @@
     "summary": "Promo: 100% back, $150 value",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 28 Oct 2026 19:35:05 +0000"
   },
@@ -1498,6 +1512,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 1116,
+    "source": "Doctor of Credit",
+    "title": "(Update) PayPal Launches Debit Card That Earns 5% Back On One Category (Up To $1,000)",
+    "url": "https://www.doctorofcredit.com/paypal-launches-debit-card-that-earns-5-back-on-one-category-up-to-1000/",
+    "offer_type": "promo",
+    "headline": "5% Back, $1,000 Value",
+    "summary": "Promo: 5% back, $1,000 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 29 Oct 2026 19:00:32 +0000"
+  },
+  {
     "id": 1058,
     "source": "Doctor of Credit",
     "title": "Capital One Transfer Bonus: 20% To British Airways Avios (1:1.2)",
@@ -2366,20 +2394,6 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
-    "id": 50,
-    "source": "Doctor of Credit",
-    "title": "7-Eleven 7NOW App Promo Codes: $25 off $50+, NOTRICKS",
-    "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
-    "offer_type": "promo",
-    "headline": "$25 Off $50 Spend",
-    "summary": "Promo: $25 off $50 spend",
-    "score": 5.5,
-    "score_label": "Standard",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Wed, 28 Oct 2026 20:07:41 +0000"
-  },
-  {
     "id": 1105,
     "source": "Frequent Miler",
     "title": "Capital One Shopping: Earn $10.50 or $21 when booking Alaska Airlines flights (targeted)",
@@ -2389,7 +2403,7 @@
     "summary": "Promo: $10.50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 28 Oct 2026 18:45:35 +0000"
   },
@@ -2403,7 +2417,7 @@
     "summary": "Promo: $45 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 28 Oct 2026 16:46:49 +0000"
   },
@@ -3360,6 +3374,20 @@
     "published": "Sat, 29 Aug 2026 11:30:44 +0000"
   },
   {
+    "id": 50,
+    "source": "Doctor of Credit",
+    "title": "7-Eleven 7NOW App Promo Codes: $25 off $50+, NOTRICKS",
+    "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
+    "offer_type": "promo",
+    "headline": "$25 Off $50 Spend",
+    "summary": "Promo: $25 off $50 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Wed, 28 Oct 2026 20:07:41 +0000"
+  },
+  {
     "id": 40,
     "source": "Frequent Miler",
     "title": "Marriott Bonvoy Citi Offer: Get $30 back on $300",
@@ -3442,6 +3470,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 1110,
+    "source": "Doctor of Credit",
+    "title": "Wings Credit Union $200 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/wings-credit-union-200-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 30 Oct 2026 13:00:09 +0000"
   },
   {
     "id": 1094,

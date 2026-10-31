@@ -9,7 +9,7 @@
     "summary": "Credit card offer: 300,000 points",
     "score": 9.5,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 29 Oct 2026 21:45:44 +0000"
   },
@@ -70,6 +70,34 @@
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
   },
   {
+    "id": 1142,
+    "source": "Frequent Miler",
+    "title": "Chase Ink Cards: Increased targeted welcome offers up to 125K points",
+    "url": "https://frequentmiler.com/chase-ink-cards-increased-targeted-welcome-offers-up-to-125k-points/",
+    "offer_type": "credit_card",
+    "headline": "125,000 Points",
+    "summary": "Credit card offer: 125,000 points",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 30 Oct 2026 22:01:29 +0000"
+  },
+  {
+    "id": 1135,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Chase INK Cash/Unlimited $1,200 Bonus; INK Preferred 125,000 Points Bonus",
+    "url": "https://www.doctorofcredit.com/targeted-chase-ink-cash-unlimited-1200-bonus-ink-preferred-125000-points-bonus/",
+    "offer_type": "credit_card",
+    "headline": "125,000 Points",
+    "summary": "Credit card offer: 125,000 points",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": "This 125,000-point offer is 50,000 points above the card's 75,000-point baseline, a 66.7% increase.",
+    "published": "Fri, 30 Oct 2026 16:45:52 +0000"
+  },
+  {
     "id": 644,
     "source": "Doctor of Credit",
     "title": "Rove Transfer Bonuses: 50% To JAL, 40% To Flying Blue & 35% To Qatar",
@@ -96,6 +124,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
+  },
+  {
+    "id": 1124,
+    "source": "Doctor of Credit",
+    "title": "[PA & MD only] ACNB $1,000-$3,000 Business Checking bonus",
+    "url": "https://www.doctorofcredit.com/pa-md-only-acnb-1000-2000-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$3,000 Bank Bonus",
+    "summary": "Bank bonus: $3,000",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 31 Oct 2026 15:00:46 +0000"
   },
   {
     "id": 1074,
@@ -644,20 +686,6 @@
     "published": "Fri, 02 Oct 2026 14:00:23 +0000"
   },
   {
-    "id": 589,
-    "source": "Doctor of Credit",
-    "title": "Chase Southwest Business Card 80,000 Points Signup Bonus",
-    "url": "https://www.doctorofcredit.com/chase-southwest-business-card-80000-points-signup-bonus/",
-    "offer_type": "credit_card",
-    "headline": "80,000 Points",
-    "summary": "Credit card offer: 80,000 points",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 25 Sep 2026 19:28:21 +0000"
-  },
-  {
     "id": 510,
     "source": "Doctor of Credit",
     "title": "Citi Adds Japan Airlines As 1:1 Transfer Partner (Limited 30% Transfer Bonus)",
@@ -908,6 +936,34 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+  },
+  {
+    "id": 1134,
+    "source": "Doctor of Credit",
+    "title": "New I-Bonds Rate: 5.51% APY (Variable 4.11% + Fixed 1.40%)",
+    "url": "https://www.doctorofcredit.com/new-i-bonds-rate-5-51-apy-variable-4-11-fixed-1-40/",
+    "offer_type": "bank",
+    "headline": "5.51% APY",
+    "summary": "Bank APY: 5.51% APY",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 30 Oct 2026 17:24:19 +0000"
+  },
+  {
+    "id": 1130,
+    "source": "Doctor of Credit",
+    "title": "Mercury (Fintech) $500 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/mercury-fintech-500-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 30 Oct 2026 20:05:38 +0000"
   },
   {
     "id": 1078,
@@ -1521,7 +1577,7 @@
     "summary": "Promo: 5% back, $1,000 value",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 29 Oct 2026 19:00:32 +0000"
   },
@@ -1706,6 +1762,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
+  },
+  {
+    "id": 1125,
+    "source": "Doctor of Credit",
+    "title": "[GA, Select Counties] Robins Financial Credit Union $300 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ga-select-counties-robins-financial-credit-union-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 31 Oct 2026 14:30:55 +0000"
   },
   {
     "id": 1090,
@@ -2392,6 +2462,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
+  },
+  {
+    "id": 1140,
+    "source": "Frequent Miler",
+    "title": "Get $45 in Costco Cash with purchase of a new membership",
+    "url": "https://frequentmiler.com/get-costco-cash-with-purchase-of-a-new-membership/",
+    "offer_type": "promo",
+    "headline": "$45 Value",
+    "summary": "Promo: $45 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 30 Oct 2026 23:45:53 +0000"
+  },
+  {
+    "id": 1129,
+    "source": "Doctor of Credit",
+    "title": "Capital One Offers: Dunkin/Wendy’s/Burger King, Spend $5 & Get $5 Back",
+    "url": "https://www.doctorofcredit.com/capital-one-offers-dunkin-wendys-burger-king-spend-5-get-5-back/",
+    "offer_type": "promo",
+    "headline": "$5 Value",
+    "summary": "Promo: $5 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 30 Oct 2026 20:28:07 +0000"
   },
   {
     "id": 1105,
@@ -3150,6 +3248,20 @@
     "published": "Mon, 07 Sep 2026 17:00:13 +0000"
   },
   {
+    "id": 348,
+    "source": "Doctor of Credit",
+    "title": "Postmates: $10 Off $25 With Promo Code BONEAPPETIT",
+    "url": "https://www.doctorofcredit.com/postmates-15-off-45-with-promo-code-dodgers/",
+    "offer_type": "promo",
+    "headline": "$10 Off $25 Spend",
+    "summary": "Promo: $10 off $25 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "REDUCED",
+    "why_it_matters": null,
+    "published": "Fri, 30 Oct 2026 18:24:13 +0000"
+  },
+  {
     "id": 318,
     "source": "Doctor of Credit",
     "title": "[YMMV] Ibotta: Sign Up For Espolòn E-mails & Get $2 Bonus",
@@ -3474,14 +3586,14 @@
   {
     "id": 1110,
     "source": "Doctor of Credit",
-    "title": "Wings Credit Union $200 Checking Bonus, Direct Deposit Not Required",
+    "title": "[CO Only] Wings Credit Union $200 Checking Bonus, Direct Deposit Not Required",
     "url": "https://www.doctorofcredit.com/wings-credit-union-200-checking-bonus-direct-deposit-not-required/",
     "offer_type": "bank",
     "headline": "$200 Bank Bonus",
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 30 Oct 2026 13:00:09 +0000"
   },

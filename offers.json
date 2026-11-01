@@ -1,5 +1,19 @@
 [
   {
+    "id": 1148,
+    "source": "Doctor of Credit",
+    "title": "Chase Ultimate Rewards: 80% Transfer Bonus To IHG (1:1.8)",
+    "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-80-transfer-bonus-to-ihg-11-8-5/",
+    "offer_type": "transfer",
+    "headline": "80% Transfer Bonus",
+    "summary": "Transfer bonus: 80%",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 12:00:42 +0000"
+  },
+  {
     "id": 1122,
     "source": "Frequent Miler",
     "title": "Chase Sapphire Reserve for Business®: Targeted 300K welcome offer",
@@ -26,20 +40,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 28 Oct 2026 16:27:32 +0000"
-  },
-  {
-    "id": 809,
-    "source": "Frequent Miler",
-    "title": "100% transfer bonus from Wyndham Rewards to United MileagePlus",
-    "url": "https://frequentmiler.com/100-transfer-bonus-from-wyndham-rewards-to-united-mileageplus/",
-    "offer_type": "transfer",
-    "headline": "100% Transfer Bonus",
-    "summary": "Transfer bonus: 100%",
-    "score": 9.5,
-    "score_label": "Exceptional",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 08 Oct 2026 23:45:27 +0000"
   },
   {
     "id": 401,
@@ -79,7 +79,7 @@
     "summary": "Credit card offer: 125,000 points",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 30 Oct 2026 22:01:29 +0000"
   },
@@ -93,7 +93,7 @@
     "summary": "Credit card offer: 125,000 points",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": "ABOVE NORMAL",
     "why_it_matters": "This 125,000-point offer is 50,000 points above the card's 75,000-point baseline, a 66.7% increase.",
     "published": "Fri, 30 Oct 2026 16:45:52 +0000"
   },
@@ -135,7 +135,7 @@
     "summary": "Bank bonus: $3,000",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 31 Oct 2026 15:00:46 +0000"
   },
@@ -532,6 +532,48 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 1152,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers/BofA: 100% Back On YouTube Channel Memberships Up To $6",
+    "url": "https://www.doctorofcredit.com/chase-offers-bofa-100-back-on-youtube-channel-memberships-up-to-6/",
+    "offer_type": "promo",
+    "headline": "100% Back, $6 Value",
+    "summary": "Promo: 100% back, $6 value",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 31 Oct 2026 21:04:39 +0000"
+  },
+  {
+    "id": 1151,
+    "source": "Doctor of Credit",
+    "title": "Chase Ultimate Rewards: 30% Transfer Bonus To Wyndham (1:1.3)",
+    "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-30-transfer-bonus-to-wyndham-11-3-2/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 12:00:07 +0000"
+  },
+  {
+    "id": 1149,
+    "source": "Doctor of Credit",
+    "title": "Chase Ultimate Rewards: 30% Transfer Bonus To Avios (1:1.3)",
+    "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-30-transfer-bonus-to-avios-11-3/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 12:00:26 +0000"
+  },
+  {
     "id": 1100,
     "source": "Frequent Miler",
     "title": "Southwest Priority and Premier cards: Increased welcome offers of up to 90K points",
@@ -557,7 +599,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 28 Oct 2026 19:35:05 +0000"
+    "published": "Sun, 01 Nov 2026 12:00:05 +0000"
   },
   {
     "id": 1091,
@@ -947,7 +989,7 @@
     "summary": "Bank APY: 5.51% APY",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 30 Oct 2026 17:24:19 +0000"
   },
@@ -961,7 +1003,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 30 Oct 2026 20:05:38 +0000"
   },
@@ -1458,7 +1500,7 @@
   {
     "id": 258,
     "source": "Doctor of Credit",
-    "title": "[X Premium No Longer Required] X Money Review – 6% APY/$300 Bonus & 3% Back On Debit Card Purchases [3% Exclusion List Expanded]",
+    "title": "[6% $150k Cap Added] X Money Review – 6% APY/$300 Bonus & 3% Back On Debit Card Purchases",
     "url": "https://www.doctorofcredit.com/x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases/",
     "offer_type": "bank",
     "headline": "6% APY",
@@ -1467,7 +1509,7 @@
     "score_label": "Very Good",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 24 Sep 2026 03:15:52 +0000"
+    "published": "Sat, 31 Oct 2026 20:06:52 +0000"
   },
   {
     "id": 246,
@@ -1568,6 +1610,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 1150,
+    "source": "Doctor of Credit",
+    "title": "Capital One: 20% Transfer Bonus To AirFrance/KLM Flying Blue (1:1.2)",
+    "url": "https://www.doctorofcredit.com/capital-one-20-transfer-bonus-to-airfrance-klm-flying-blue-11-2-4/",
+    "offer_type": "transfer",
+    "headline": "20% Transfer Bonus",
+    "summary": "Transfer bonus: 20%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 12:00:14 +0000"
+  },
+  {
     "id": 1116,
     "source": "Doctor of Credit",
     "title": "(Update) PayPal Launches Debit Card That Earns 5% Back On One Category (Up To $1,000)",
@@ -1608,20 +1664,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 19 Oct 2026 17:08:28 +0000"
-  },
-  {
-    "id": 687,
-    "source": "Frequent Miler",
-    "title": "American Express Membership Rewards offering 20% transfer bonus to AeroMexico",
-    "url": "https://frequentmiler.com/american-express-membership-rewards-offering-20-transfer-bonus-to-aeromexico/",
-    "offer_type": "transfer",
-    "headline": "20% Transfer Bonus",
-    "summary": "Transfer bonus: 20%",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 02 Oct 2026 17:45:00 +0000"
   },
   {
     "id": 685,
@@ -1773,7 +1815,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 31 Oct 2026 14:30:55 +0000"
   },
@@ -2464,6 +2506,20 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1147,
+    "source": "Doctor of Credit",
+    "title": "Giftcards.com: $10 Bonus Giftcard With $100+ Virtual Visa eGiftcard Purchase With Code GIVEMORE",
+    "url": "https://www.doctorofcredit.com/giftcards-com-10-bonus-giftcard-with-100-virtual-visa-egiftcard-purchase-with-code-givemore/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 14:00:28 +0000"
+  },
+  {
     "id": 1140,
     "source": "Frequent Miler",
     "title": "Get $45 in Costco Cash with purchase of a new membership",
@@ -2473,7 +2529,7 @@
     "summary": "Promo: $45 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 30 Oct 2026 23:45:53 +0000"
   },
@@ -2487,7 +2543,7 @@
     "summary": "Promo: $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 30 Oct 2026 20:28:07 +0000"
   },
@@ -2700,20 +2756,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 16 Oct 2026 17:20:10 +0000"
-  },
-  {
-    "id": 925,
-    "source": "Frequent Miler",
-    "title": "TopCashback: Earn $40 Bonus When Joining & Earning $10 Cashback",
-    "url": "https://frequentmiler.com/topcashback-earn-40-bonus-when-joining-earning-10-cashback/",
-    "offer_type": "promo",
-    "headline": "$40 Value",
-    "summary": "Promo: $40 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 15 Oct 2026 19:46:14 +0000"
   },
   {
     "id": 918,
@@ -3164,20 +3206,6 @@
     "published": "Tue, 15 Sep 2026 21:45:42 +0000"
   },
   {
-    "id": 452,
-    "source": "Doctor of Credit",
-    "title": "Chase Offers: Get 10% Back at Lowe’s/Lowes.com ($50 Cashback Max)",
-    "url": "https://www.doctorofcredit.com/chase-offers-ihg-only-get-15-back-at-lowes-50-cashback-max/",
-    "offer_type": "promo",
-    "headline": "10% Back, $50 Value",
-    "summary": "Promo: 10% back, $50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Mon, 12 Oct 2026 18:37:51 +0000"
-  },
-  {
     "id": 425,
     "source": "Doctor of Credit",
     "title": "Albert (Fintech): Get $200 In Stock For Free",
@@ -3257,7 +3285,7 @@
     "summary": "Promo: $10 off $25 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 30 Oct 2026 18:24:13 +0000"
   },
@@ -3488,16 +3516,16 @@
   {
     "id": 50,
     "source": "Doctor of Credit",
-    "title": "7-Eleven 7NOW App Promo Codes: $25 off $50+, NOTRICKS",
+    "title": "7-Eleven 7NOW App Promo Codes: $10 off $20+, TREAT",
     "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
     "offer_type": "promo",
-    "headline": "$25 Off $50 Spend",
-    "summary": "Promo: $25 off $50 spend",
+    "headline": "$10 Off $20 Spend",
+    "summary": "Promo: $10 off $20 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Wed, 28 Oct 2026 20:07:41 +0000"
+    "published": "Sat, 31 Oct 2026 20:05:41 +0000"
   },
   {
     "id": 40,
@@ -3584,6 +3612,20 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 1156,
+    "source": "Doctor of Credit",
+    "title": "[ID only] Cap Ed Credit Union $200 Checking Bonus – No Direct Deposit Required",
+    "url": "https://www.doctorofcredit.com/in-only-cap-ed-credit-union-100-checking-bonus-no-direct-deposit-required/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 31 Oct 2026 16:00:19 +0000"
+  },
+  {
     "id": 1110,
     "source": "Doctor of Credit",
     "title": "[CO Only] Wings Credit Union $200 Checking Bonus, Direct Deposit Not Required",
@@ -3596,20 +3638,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 30 Oct 2026 13:00:09 +0000"
-  },
-  {
-    "id": 1094,
-    "source": "Frequent Miler",
-    "title": "American Airlines shopping portal referral promo: Earn up to 5,000 bonus miles",
-    "url": "https://frequentmiler.com/american-airlines-shopping-portal-referral-promo-earn-up-to-5000-bonus-miles/",
-    "offer_type": "promo",
-    "headline": "5,000 Bonus Points",
-    "summary": "Promo: 5,000 bonus points",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 27 Oct 2026 17:46:18 +0000"
   },
   {
     "id": 1048,

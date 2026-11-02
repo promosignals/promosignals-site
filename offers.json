@@ -9,7 +9,7 @@
     "summary": "Transfer bonus: 80%",
     "score": 9.5,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 12:00:42 +0000"
   },
@@ -98,20 +98,6 @@
     "published": "Fri, 30 Oct 2026 16:45:52 +0000"
   },
   {
-    "id": 644,
-    "source": "Doctor of Credit",
-    "title": "Rove Transfer Bonuses: 50% To JAL, 40% To Flying Blue & 35% To Qatar",
-    "url": "https://www.doctorofcredit.com/rove-transfer-bonuses-50-to-jal-40-to-flying-blue-35-to-qatar/",
-    "offer_type": "transfer",
-    "headline": "Up to 50% Transfer Bonus",
-    "summary": "Transfer bonus: 50%",
-    "score": 9.0,
-    "score_label": "Exceptional",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 01 Oct 2026 10:00:47 +0000"
-  },
-  {
     "id": 244,
     "source": "Doctor of Credit",
     "title": "Rove Adds Copa Airlines ConnectMiles As 1:1 Transfer Partner + 40% Transfer Bonus",
@@ -124,6 +110,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
+  },
+  {
+    "id": 1169,
+    "source": "Doctor of Credit",
+    "title": "Quorum Federal Credit Union Up To $1,000 Savings Bonus",
+    "url": "https://www.doctorofcredit.com/quorum-federal-credit-union-up-to-1000-savings-bonus/",
+    "offer_type": "bank",
+    "headline": "$1,000 Bank Bonus",
+    "summary": "Bank bonus: $1,000",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 20:00:39 +0000"
   },
   {
     "id": 1124,
@@ -532,6 +532,20 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 1164,
+    "source": "Doctor of Credit",
+    "title": "Staples: 100% Back In Points Scotch Purchases, Up To $40",
+    "url": "https://www.doctorofcredit.com/staples-100-back-in-points-scotch-purchases-up-to-40/",
+    "offer_type": "promo",
+    "headline": "100% Back, $40 Value",
+    "summary": "Promo: 100% back, $40 value",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 22:06:04 +0000"
+  },
+  {
     "id": 1152,
     "source": "Doctor of Credit",
     "title": "Chase Offers/BofA: 100% Back On YouTube Channel Memberships Up To $6",
@@ -541,7 +555,7 @@
     "summary": "Promo: 100% back, $6 value",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 31 Oct 2026 21:04:39 +0000"
   },
@@ -555,7 +569,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 12:00:07 +0000"
   },
@@ -569,7 +583,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 12:00:26 +0000"
   },
@@ -698,20 +712,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 23:53:24 +0000"
-  },
-  {
-    "id": 682,
-    "source": "Frequent Miler",
-    "title": "Up to 35% transfer bonus to Qatar Avios from Citi ThankYou Rewards",
-    "url": "https://frequentmiler.com/30-transfer-bonus-to-qatar-avios-from-citi-thankyou/",
-    "offer_type": "transfer",
-    "headline": "35% Transfer Bonus",
-    "summary": "Transfer bonus: 35%",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 03 Oct 2026 13:45:31 +0000"
   },
   {
     "id": 656,
@@ -882,20 +882,6 @@
     "published": "Tue, 06 Oct 2026 13:46:10 +0000"
   },
   {
-    "id": 725,
-    "source": "Frequent Miler",
-    "title": "Wyndham Amex Offer: Spend $100 & get $20 back (enrollment required)",
-    "url": "https://frequentmiler.com/wyndham-amex-offer-spend-100-get-20-back-enrollment-required/",
-    "offer_type": "amex_offer",
-    "headline": "$20 Back on $100 Spend",
-    "summary": "Amex Offer: spend $100, get $20 back",
-    "score": 7.5,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": "That's an effective 20% rebate when you meet the $100 spend requirement.",
-    "published": "Sun, 04 Oct 2026 17:45:32 +0000"
-  },
-  {
     "id": 641,
     "source": "Frequent Miler",
     "title": "Frontier Airlines Amex Offer: Spend $200 & get $50 back",
@@ -977,7 +963,7 @@
     "score_label": "Very Good",
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
-    "published": "Tue, 25 Aug 2026 21:45:15 +0000"
+    "published": "Sun, 01 Nov 2026 15:45:40 +0000"
   },
   {
     "id": 1134,
@@ -1610,6 +1596,20 @@
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
   },
   {
+    "id": 1171,
+    "source": "Frequent Miler",
+    "title": "20% transfer bonus to Air France / KLM Flying Blue from Capital One",
+    "url": "https://frequentmiler.com/20-transfer-bonus-to-air-france-klm-flying-blue-from-capital-one/",
+    "offer_type": "transfer",
+    "headline": "20% Transfer Bonus",
+    "summary": "Transfer bonus: 20%",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 14:57:07 +0000"
+  },
+  {
     "id": 1150,
     "source": "Doctor of Credit",
     "title": "Capital One: 20% Transfer Bonus To AirFrance/KLM Flying Blue (1:1.2)",
@@ -1619,7 +1619,7 @@
     "summary": "Transfer bonus: 20%",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 12:00:14 +0000"
   },
@@ -1638,20 +1638,6 @@
     "published": "Thu, 29 Oct 2026 19:00:32 +0000"
   },
   {
-    "id": 1058,
-    "source": "Doctor of Credit",
-    "title": "Capital One Transfer Bonus: 20% To British Airways Avios (1:1.2)",
-    "url": "https://www.doctorofcredit.com/capital-one-transfer-bonus-20-to-british-airways-avios-11-2-3/",
-    "offer_type": "transfer",
-    "headline": "20% Transfer Bonus",
-    "summary": "Transfer bonus: 20%",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 27 Oct 2026 02:29:11 +0000"
-  },
-  {
     "id": 972,
     "source": "Doctor of Credit",
     "title": "[Yolo County, CA] Yolo Federal Credit Union Visa Platinum Card $1,000 Bonus",
@@ -1664,48 +1650,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 19 Oct 2026 17:08:28 +0000"
-  },
-  {
-    "id": 685,
-    "source": "Frequent Miler",
-    "title": "20% transfer bonus from Capital One miles to British Airways Avios",
-    "url": "https://frequentmiler.com/20-transfer-bonus-from-capital-one-miles-to-british-airways-avios/",
-    "offer_type": "transfer",
-    "headline": "20% Transfer Bonus",
-    "summary": "Transfer bonus: 20%",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 02 Oct 2026 21:46:04 +0000"
-  },
-  {
-    "id": 658,
-    "source": "Doctor of Credit",
-    "title": "American Express Transfer Bonus: 20% To AeroMexico",
-    "url": "https://www.doctorofcredit.com/american-express-transfer-bonus-20-to-aeromexico-3/",
-    "offer_type": "transfer",
-    "headline": "20% Transfer Bonus",
-    "summary": "Transfer bonus: 20%",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 02 Oct 2026 11:00:51 +0000"
-  },
-  {
-    "id": 657,
-    "source": "Doctor of Credit",
-    "title": "American Express Transfer Bonus: 25% To AirFrance/KLM FlyingBlue (1:1.25)",
-    "url": "https://www.doctorofcredit.com/american-express-transfer-bonus-25-to-airfrance-klm-flyingblue-11-25-4/",
-    "offer_type": "transfer",
-    "headline": "25% Transfer Bonus",
-    "summary": "Transfer bonus: 25%",
-    "score": 6.5,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 02 Oct 2026 12:00:00 +0000"
   },
   {
     "id": 498,
@@ -1804,6 +1748,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
+  },
+  {
+    "id": 1168,
+    "source": "Doctor of Credit",
+    "title": "[IL, In Branch?] United Trust Bank $350 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/il-in-branch-united-trust-bank-350-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$350 Bank Bonus",
+    "summary": "Bank bonus: $350",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 20:30:40 +0000"
   },
   {
     "id": 1125,
@@ -2044,20 +2002,6 @@
     "published": "Sat, 10 Oct 2026 20:30:31 +0000"
   },
   {
-    "id": 841,
-    "source": "Doctor of Credit",
-    "title": "[IL] Eagle Valley Bank $250 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/il-eagle-valley-bank-250-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$250 Bank Bonus",
-    "summary": "Bank bonus: $250",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 10 Oct 2026 20:41:19 +0000"
-  },
-  {
     "id": 840,
     "source": "Doctor of Credit",
     "title": "[PA only] TruMark Financial $300 Checking Bonus + $200 Savings",
@@ -2184,20 +2128,6 @@
     "published": "Sun, 20 Sep 2026 18:00:12 +0000"
   },
   {
-    "id": 515,
-    "source": "Doctor of Credit",
-    "title": "[IN & MI] Horizon Bank $250 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/in-in-branch-only-horizon-bank-300-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$250 Bank Bonus",
-    "summary": "Bank bonus: $250",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 19 Sep 2026 15:00:21 +0000"
-  },
-  {
     "id": 508,
     "source": "Doctor of Credit",
     "title": "[MO] Sterling Bank $250 Checking Bonus",
@@ -2224,20 +2154,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 12 Sep 2026 17:00:09 +0000"
-  },
-  {
-    "id": 418,
-    "source": "Doctor of Credit",
-    "title": "[WV, PA, OH, IN, KY, MD, In Branch] Wesbanco $300 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/wv-pa-oh-in-ky-md-wesbanco-250-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$300 Bank Bonus",
-    "summary": "Bank bonus: $300",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 12 Sep 2026 18:00:13 +0000"
   },
   {
     "id": 417,
@@ -2324,20 +2240,6 @@
     "published": "Thu, 03 Sep 2026 21:45:23 +0000"
   },
   {
-    "id": 263,
-    "source": "Doctor of Credit",
-    "title": "Amex Offers: Chevron, Texaco, Spend $30 & Get $5, Must Use App Or Pay At Pump",
-    "url": "https://www.doctorofcredit.com/amex-offers-chevron-texaco-spend-30-get-5/",
-    "offer_type": "amex_offer",
-    "headline": "$5 Back on $30 Spend",
-    "summary": "Amex Offer: spend $30, get $5 back",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": "That's an effective 16.7% rebate when you meet the $30 spend requirement.",
-    "published": "Tue, 01 Sep 2026 21:41:42 +0000"
-  },
-  {
     "id": 233,
     "source": "Doctor of Credit",
     "title": "[MS Only] Grand Bank $250 Checking Bonus",
@@ -2392,20 +2294,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 23 Aug 2026 22:30:11 +0000"
-  },
-  {
-    "id": 146,
-    "source": "Doctor of Credit",
-    "title": "[MI] Forest Area Federal Credit Union $300 Checking Referral Bonus",
-    "url": "https://www.doctorofcredit.com/mi-forest-area-federal-credit-union-300-checking-referral-bonus/",
-    "offer_type": "bank",
-    "headline": "$300 Bank Bonus",
-    "summary": "Bank bonus: $300",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 01 Sep 2026 14:00:06 +0000"
   },
   {
     "id": 126,
@@ -2515,7 +2403,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 14:00:28 +0000"
   },
@@ -2828,20 +2716,6 @@
     "published": "Sat, 10 Oct 2026 21:08:46 +0000"
   },
   {
-    "id": 836,
-    "source": "Doctor of Credit",
-    "title": "Citi Offers: Walmart.com, Spend $75 & Get $5 Back",
-    "url": "https://www.doctorofcredit.com/citi-offers-get-10-back-on-walmart-com-up-to-10-cashback/",
-    "offer_type": "promo",
-    "headline": "$5 Value",
-    "summary": "Promo: $5 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 10 Oct 2026 21:30:03 +0000"
-  },
-  {
     "id": 812,
     "source": "Frequent Miler",
     "title": "Viator/TripAdvisor Experiences Chase Offer: Get 8% back on up to $125 spend",
@@ -2853,7 +2727,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 08 Oct 2026 20:45:01 +0000"
+    "published": "Sun, 01 Nov 2026 23:45:40 +0000"
   },
   {
     "id": 755,
@@ -2898,20 +2772,6 @@
     "published": "Tue, 06 Oct 2026 04:01:22 +0000"
   },
   {
-    "id": 696,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] PayPal Credit Card: Spend $2,500, Earn $125 Bonus",
-    "url": "https://www.doctorofcredit.com/targeted-paypal-credit-card-spend-2500-earn-125-bonus/",
-    "offer_type": "credit_card",
-    "headline": "$125 Bonus",
-    "summary": "Credit card offer: $125 bonus",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 03 Oct 2026 20:12:44 +0000"
-  },
-  {
     "id": 695,
     "source": "Doctor of Credit",
     "title": "[YMMV] Rakuten: Amazon, Spend $25 & Earn $5 (Limit 3, $15 Back)",
@@ -2924,34 +2784,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 21:26:55 +0000"
-  },
-  {
-    "id": 680,
-    "source": "Doctor of Credit",
-    "title": "[YMMV] Samsung Wallet: Get Up To $300 Back When You Use Installment Payments",
-    "url": "https://www.doctorofcredit.com/ymmv-samsung-wallet-get-up-to-300-back-when-you-use-installment-payments/",
-    "offer_type": "promo",
-    "headline": "$300 Value",
-    "summary": "Promo: $300 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 02 Oct 2026 17:00:29 +0000"
-  },
-  {
-    "id": 678,
-    "source": "Doctor of Credit",
-    "title": "Citi Offers: $10 Off $200 At Best Buy (Limit 2)",
-    "url": "https://www.doctorofcredit.com/citi-offers-15-off-150-at-best-buy-limit-2/",
-    "offer_type": "promo",
-    "headline": "$10 Off $200 Spend",
-    "summary": "Promo: $10 off $200 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 02 Oct 2026 20:45:16 +0000"
   },
   {
     "id": 654,
@@ -3133,7 +2965,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 06 Oct 2026 15:46:02 +0000"
+    "published": "Sun, 01 Nov 2026 16:45:02 +0000"
   },
   {
     "id": 505,
@@ -3150,20 +2982,6 @@
     "published": "Fri, 18 Sep 2026 18:45:06 +0000"
   },
   {
-    "id": 496,
-    "source": "Doctor of Credit",
-    "title": "Giftcards.com: $10 Bonus Giftcard With $100+ Purchase With Code TREATMORE",
-    "url": "https://www.doctorofcredit.com/giftcards-com-no-fees-on-virtual-visa-giftcards-with-promo-code-nofees-limit-3-10-bonus-giftcard-with-100-purchase-with-code-festival/",
-    "offer_type": "promo",
-    "headline": "$10 Value",
-    "summary": "Promo: $10 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 21 Oct 2026 17:00:45 +0000"
-  },
-  {
     "id": 481,
     "source": "Doctor of Credit",
     "title": "UberEats: Promo Codes, Discounts & Other Savings: $10 Off $20+ With Code RIOT102",
@@ -3176,6 +2994,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 00:50:06 +0000"
+  },
+  {
+    "id": 478,
+    "source": "Frequent Miler",
+    "title": "Giftcards.com Chase Offer: Get 5% back on up to $800 spend",
+    "url": "https://frequentmiler.com/giftcards-com-chase-offer-get-5-back-on-up-to-1000-spend/",
+    "offer_type": "promo",
+    "headline": "5% Back, Up to $40 Value on $800 Spend",
+    "summary": "Promo: 5% back, up to $40 value on $800 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "REDUCED",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 21:45:18 +0000"
   },
   {
     "id": 469,
@@ -3234,34 +3066,6 @@
     "published": "Fri, 11 Sep 2026 02:29:24 +0000"
   },
   {
-    "id": 388,
-    "source": "Frequent Miler",
-    "title": "Best Western Chase Offer: Get 10% back on $100-$320 spend",
-    "url": "https://frequentmiler.com/best-western-chase-offer-get-10-back-on-100-320-spend/",
-    "offer_type": "promo",
-    "headline": "10% Back, Up to $32 Value on $320 Spend",
-    "summary": "Promo: 10% back, up to $32 value on $320 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 09 Sep 2026 17:45:42 +0000"
-  },
-  {
-    "id": 367,
-    "source": "Frequent Miler",
-    "title": "Avis Citi Offer: Get $30 back when spending $250+ on a rental",
-    "url": "https://frequentmiler.com/avis-citi-offer-get-30-back-when-spending-250-on-a-rental/",
-    "offer_type": "promo",
-    "headline": "$30 Value",
-    "summary": "Promo: $30 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 08 Sep 2026 23:45:31 +0000"
-  },
-  {
     "id": 350,
     "source": "Doctor of Credit",
     "title": "(In-Branch) Regions Business Enhanced Visa Card $300 Signup Bonus + 0% APR",
@@ -3316,20 +3120,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 05 Sep 2026 12:00:10 +0000"
-  },
-  {
-    "id": 299,
-    "source": "Doctor of Credit",
-    "title": "Chase Offers: Get 15% Back On Home Improvement Stores (Max $50 Cashback)",
-    "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-on-home-improvement-stores/",
-    "offer_type": "promo",
-    "headline": "15% Back, $50 Value",
-    "summary": "Promo: 15% back, $50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 03 Sep 2026 19:10:12 +0000"
   },
   {
     "id": 283,
@@ -3514,20 +3304,6 @@
     "published": "Sat, 29 Aug 2026 11:30:44 +0000"
   },
   {
-    "id": 50,
-    "source": "Doctor of Credit",
-    "title": "7-Eleven 7NOW App Promo Codes: $10 off $20+, TREAT",
-    "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
-    "offer_type": "promo",
-    "headline": "$10 Off $20 Spend",
-    "summary": "Promo: $10 off $20 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": "REDUCED",
-    "why_it_matters": null,
-    "published": "Sat, 31 Oct 2026 20:05:41 +0000"
-  },
-  {
     "id": 40,
     "source": "Frequent Miler",
     "title": "Marriott Bonvoy Citi Offer: Get $30 back on $300",
@@ -3612,6 +3388,48 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 1167,
+    "source": "Doctor of Credit",
+    "title": "[NC] Acclaim Federal Credit Union $100 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/nc-acclaim-federal-credit-union-100-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$100 Bank Bonus",
+    "summary": "Bank bonus: $100",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 20:45:42 +0000"
+  },
+  {
+    "id": 1166,
+    "source": "Doctor of Credit",
+    "title": "[WA] Northwest Plus Credit Union $200 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wa-northwest-plus-credit-union-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 21:00:45 +0000"
+  },
+  {
+    "id": 1165,
+    "source": "Doctor of Credit",
+    "title": "[TX] Firstmark Credit Union $100 Referral Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/tx-firstmark-credit-union-100-referral-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$100 Bank Bonus",
+    "summary": "Bank bonus: $100",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 01 Nov 2026 21:15:46 +0000"
+  },
+  {
     "id": 1156,
     "source": "Doctor of Credit",
     "title": "[ID only] Cap Ed Credit Union $200 Checking Bonus – No Direct Deposit Required",
@@ -3621,7 +3439,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 31 Oct 2026 16:00:19 +0000"
   },
@@ -3724,20 +3542,6 @@
     "published": "Sat, 17 Oct 2026 16:45:18 +0000"
   },
   {
-    "id": 948,
-    "source": "Doctor of Credit",
-    "title": "[TN] US Community Credit Union $200 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/tn-us-community-credit-union-250-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$200 Bank Bonus",
-    "summary": "Bank bonus: $200",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 17 Oct 2026 19:45:36 +0000"
-  },
-  {
     "id": 894,
     "source": "Frequent Miler",
     "title": "Hilton cardholder Amex Offer: Spend $200+ on Hilton stays & earn 20K bonus points",
@@ -3820,20 +3624,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 14:00:13 +0000"
-  },
-  {
-    "id": 820,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Happen Bank (Formerly LendingClub) Level Up $200 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/targeted-lendingclub-level-up-200-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$200 Bank Bonus",
-    "summary": "Bank bonus: $200",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 09 Oct 2026 18:00:32 +0000"
   },
   {
     "id": 815,
@@ -3988,20 +3778,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 20 Sep 2026 13:00:29 +0000"
-  },
-  {
-    "id": 428,
-    "source": "Doctor of Credit",
-    "title": "[AR, MS, TN only] Orion Financial $150 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/ar-ms-tn-only-orion-financial-150-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$150 Bank Bonus",
-    "summary": "Bank bonus: $150",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 13 Sep 2026 18:00:46 +0000"
   },
   {
     "id": 268,

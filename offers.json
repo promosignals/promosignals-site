@@ -121,7 +121,7 @@
     "summary": "Bank bonus: $1,000",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 20:00:39 +0000"
   },
@@ -532,6 +532,48 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 1193,
+    "source": "Frequent Miler",
+    "title": "30% transfer bonus from Chase Ultimate Rewards to Wyndham Rewards",
+    "url": "https://frequentmiler.com/30-transfer-bonus-from-chase-ultimate-rewards-to-wyndham-rewards/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 17:08:48 +0000"
+  },
+  {
+    "id": 1192,
+    "source": "Frequent Miler",
+    "title": "Copa added as new Capital One transfer partner (2:1.5), 30% launch transfer bonus",
+    "url": "https://frequentmiler.com/copa-added-as-new-capital-one-transfer-partner-21-5-30-launch-transfer-bonus/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 18:45:35 +0000"
+  },
+  {
+    "id": 1179,
+    "source": "Doctor of Credit",
+    "title": "American Express Transfer Bonus: 30% To Virgin Atlantic",
+    "url": "https://www.doctorofcredit.com/american-express-transfer-bonus-30-to-virgin-atlantic-8/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 19:31:27 +0000"
+  },
+  {
     "id": 1164,
     "source": "Doctor of Credit",
     "title": "Staples: 100% Back In Points Scotch Purchases, Up To $40",
@@ -541,7 +583,7 @@
     "summary": "Promo: 100% back, $40 value",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 22:06:04 +0000"
   },
@@ -600,20 +642,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 29 Oct 2026 13:45:34 +0000"
-  },
-  {
-    "id": 1097,
-    "source": "Doctor of Credit",
-    "title": "Bilt Rent Day (November 2026): Up to 100% Bonus On Giftcard Redemptions & Up To $150 Off Hotel Bookings",
-    "url": "https://www.doctorofcredit.com/bilt-rent-day-november-2026-up-to-100-bonus-on-giftcard-redemptions-up-to-150-off-hotel-bookings/",
-    "offer_type": "promo",
-    "headline": "100% Back, $150 Value",
-    "summary": "Promo: 100% back, $150 value",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 01 Nov 2026 12:00:05 +0000"
   },
   {
     "id": 1091,
@@ -782,6 +810,48 @@
     "status": null,
     "why_it_matters": "The 10% APY applies to up to $1,000, so the balance cap limits how much earns the promotional rate.",
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
+  },
+  {
+    "id": 1188,
+    "source": "Frequent Miler",
+    "title": "Amex Offer: Spend $1,000+ on Etihad, get $200 back (targeted, enrollment required)",
+    "url": "https://frequentmiler.com/amex-offer-spend-1000-on-etihad-get-200-back-targeted-enrollment-required/",
+    "offer_type": "amex_offer",
+    "headline": "$200 Back on $1,000 Spend",
+    "summary": "Amex Offer: spend $1,000, get $200 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
+    "published": "Tue, 03 Nov 2026 00:45:15 +0000"
+  },
+  {
+    "id": 1182,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offer: Lululemon, Spend $100+ & Receive $20 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offer-lululemon-spend-100-receive-20-statement-credit-3/",
+    "offer_type": "amex_offer",
+    "headline": "$20 Back on $100 Spend",
+    "summary": "Amex Offer: spend $100, get $20 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $100 spend requirement.",
+    "published": "Mon, 02 Nov 2026 19:20:33 +0000"
+  },
+  {
+    "id": 1178,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers (Marriott Brilliant Card): Spend $900 on Airfare & Get $200 Back",
+    "url": "https://www.doctorofcredit.com/amex-offers-marriott-brilliant-card-spend-900-on-airfare-get-200-back/",
+    "offer_type": "amex_offer",
+    "headline": "$200 Back on $900 Spend",
+    "summary": "Amex Offer: spend $900, get $200 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 22.2% rebate when you meet the $900 spend requirement.",
+    "published": "Mon, 02 Nov 2026 20:23:06 +0000"
   },
   {
     "id": 1000,
@@ -1006,20 +1076,6 @@
     "status": null,
     "why_it_matters": "The 7% APY applies to up to $10,000, so the balance cap limits how much earns the promotional rate.",
     "published": "Tue, 27 Oct 2026 20:09:56 +0000"
-  },
-  {
-    "id": 993,
-    "source": "Doctor of Credit",
-    "title": "E*Trade $400 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/etrade-400-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$400 Bank Bonus",
-    "summary": "Bank bonus: $400",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 20 Oct 2026 19:25:33 +0000"
   },
   {
     "id": 981,
@@ -1605,7 +1661,7 @@
     "summary": "Transfer bonus: 20%",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 02 Nov 2026 14:57:07 +0000"
   },
@@ -1759,7 +1815,7 @@
     "summary": "Bank bonus: $350",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 20:30:40 +0000"
   },
@@ -2324,6 +2380,20 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
+    "id": 1175,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Avis Car Rental, Spend $200/$400 & Get $40/$80 Statement Credit",
+    "url": "https://www.doctorofcredit.com/amex-offers-avis-car-rental-spend-350-get-75-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "Tiered/multiple dollar offer",
+    "summary": "Amex Offer: tiered/multiple dollar offer",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 03 Nov 2026 02:11:40 +0000"
+  },
+  {
     "id": 976,
     "source": "Frequent Miler",
     "title": "Get 10% or 15% back with Amex Offer at Kroger & other Kroger brands (Limit $100 spend)",
@@ -2366,6 +2436,20 @@
     "published": "Thu, 15 Oct 2026 19:27:58 +0000"
   },
   {
+    "id": 422,
+    "source": "Doctor of Credit",
+    "title": "AmEx, Wells, U. S. Bank Offers: Get 15% Off CVS (Max $7.50 Back)",
+    "url": "https://www.doctorofcredit.com/amex-offers-get-10-off-cvs-max-10-back/",
+    "offer_type": "promo",
+    "headline": "15% Back, $7.50 Value",
+    "summary": "Promo: 15% back, $7.50 value",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 21:00:55 +0000"
+  },
+  {
     "id": 394,
     "source": "Doctor of Credit",
     "title": "[Targeted] AA SimplyMiles: Spend $65 On AT&T Wireless & Earn 2,325 Miles",
@@ -2394,6 +2478,48 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1183,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers: Save 10% on Lyft, Up To $10 Back",
+    "url": "https://www.doctorofcredit.com/chase-offers-bofa-save-10-on-lyft-max-3-cashback/",
+    "offer_type": "promo",
+    "headline": "10% Back, $10 Value",
+    "summary": "Promo: 10% back, $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 18:40:45 +0000"
+  },
+  {
+    "id": 1177,
+    "source": "Doctor of Credit",
+    "title": "Synchrony 2% Card: $100 Signup Bonus",
+    "url": "https://www.doctorofcredit.com/synchrony-2-card-100-signup-bonus/",
+    "offer_type": "credit_card",
+    "headline": "$100 Bonus",
+    "summary": "Credit card offer: $100 bonus",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 20:33:23 +0000"
+  },
+  {
+    "id": 1176,
+    "source": "Doctor of Credit",
+    "title": "CVS: Buy $100 Zillions Giftcards, Get $20 ExtraBucks (Stack For More Savings)",
+    "url": "https://www.doctorofcredit.com/cvs-buy-100-zillions-giftcards-get-20-extrabucks-stack-for-more-savings/",
+    "offer_type": "promo",
+    "headline": "$20 Value",
+    "summary": "Promo: $20 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 23:16:19 +0000"
+  },
+  {
     "id": 1147,
     "source": "Doctor of Credit",
     "title": "Giftcards.com: $10 Bonus Giftcard With $100+ Virtual Visa eGiftcard Purchase With Code GIVEMORE",
@@ -2405,7 +2531,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Sun, 01 Nov 2026 14:00:28 +0000"
+    "published": "Tue, 03 Nov 2026 02:45:28 +0000"
   },
   {
     "id": 1140,
@@ -2954,6 +3080,20 @@
     "published": "Thu, 24 Sep 2026 19:30:37 +0000"
   },
   {
+    "id": 517,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Chase Offers: $50 Back On $80+ New T-Mobile Customers [BofA, Regions, Suntrust & More]",
+    "url": "https://www.doctorofcredit.com/targeted-chase-offers-100-back-new-t-mobile-customers-bofa-regions-suntrust-more/",
+    "offer_type": "promo",
+    "headline": "$50 Value",
+    "summary": "Promo: $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 22:55:54 +0000"
+  },
+  {
     "id": 507,
     "source": "Frequent Miler",
     "title": "Chase Travel℠ Chase Offer: Spend $600 & get $100 back (targeted)",
@@ -3005,7 +3145,7 @@
     "summary": "Promo: 5% back, up to $40 value on $800 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 21:45:18 +0000"
   },
@@ -3397,7 +3537,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 20:45:42 +0000"
   },
@@ -3411,7 +3551,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 21:00:45 +0000"
   },
@@ -3425,7 +3565,7 @@
     "summary": "Bank bonus: $100",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 01 Nov 2026 21:15:46 +0000"
   },
@@ -3610,20 +3750,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 10 Oct 2026 20:50:52 +0000"
-  },
-  {
-    "id": 831,
-    "source": "Doctor of Credit",
-    "title": "[KY, TN, IL, IN, MO] CFSB $100 Checking Bonus, Direct Deposit Not Required",
-    "url": "https://www.doctorofcredit.com/ky-tn-il-in-mo-cfsb-100-checking-bonus-direct-deposit-not-required/",
-    "offer_type": "bank",
-    "headline": "$100 Bank Bonus",
-    "summary": "Bank bonus: $100",
-    "score": 4.0,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 11 Oct 2026 14:00:13 +0000"
   },
   {
     "id": 815,

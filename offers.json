@@ -112,6 +112,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1205,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Monarch Money, Spend $69.99 & Get $50 Back",
+    "url": "https://www.doctorofcredit.com/amex-offers-monarch-money-spend-69-99-get-50-back/",
+    "offer_type": "amex_offer",
+    "headline": "$50 Back on $69.99 Spend",
+    "summary": "Amex Offer: spend $69.99, get $50 back",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 71.4% rebate when you meet the $69.99 spend requirement.",
+    "published": "Tue, 03 Nov 2026 19:58:57 +0000"
+  },
+  {
     "id": 1169,
     "source": "Doctor of Credit",
     "title": "Quorum Federal Credit Union Up To $1,000 Savings Bonus",
@@ -532,6 +546,20 @@
     "published": "Fri, 25 Sep 2026 02:17:54 +0000"
   },
   {
+    "id": 1200,
+    "source": "Doctor of Credit",
+    "title": "Capital One Adds Copa As 2:1.5 Transfer Partner – Launches With 30% Transfer Bonus",
+    "url": "https://www.doctorofcredit.com/capital-one-adds-copa-as-21-5-transfer-partner-launches-with-30-transfer-bonus/",
+    "offer_type": "transfer",
+    "headline": "30% Transfer Bonus",
+    "summary": "Transfer bonus: 30%",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 03 Nov 2026 23:39:57 +0000"
+  },
+  {
     "id": 1193,
     "source": "Frequent Miler",
     "title": "30% transfer bonus from Chase Ultimate Rewards to Wyndham Rewards",
@@ -541,7 +569,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 02 Nov 2026 17:08:48 +0000"
   },
@@ -555,7 +583,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 02 Nov 2026 18:45:35 +0000"
   },
@@ -569,7 +597,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 02 Nov 2026 19:31:27 +0000"
   },
@@ -632,7 +660,7 @@
   {
     "id": 1100,
     "source": "Frequent Miler",
-    "title": "Southwest Priority and Premier cards: Increased welcome offers of up to 90K points",
+    "title": "(Now available via referrals) Southwest Priority and Premier cards: Increased welcome offers of up to 90K points",
     "url": "https://frequentmiler.com/southwest-priority-and-premier-cards-increased-welcome-offers/",
     "offer_type": "credit_card",
     "headline": "90,000 Points",
@@ -641,7 +669,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": null,
-    "published": "Thu, 29 Oct 2026 13:45:34 +0000"
+    "published": "Tue, 03 Nov 2026 19:45:38 +0000"
   },
   {
     "id": 1091,
@@ -742,6 +770,20 @@
     "published": "Sun, 04 Oct 2026 23:53:24 +0000"
   },
   {
+    "id": 659,
+    "source": "Doctor of Credit",
+    "title": "CIT Bank .6% APY Boost For 6 Months – New & Existing Customers (Code BOOST60)",
+    "url": "https://www.doctorofcredit.com/cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost/",
+    "offer_type": "bank",
+    "headline": "6% APY for 6 months",
+    "summary": "Bank APY: 6% APY for 6 months",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Tue, 03 Nov 2026 23:25:03 +0000"
+  },
+  {
     "id": 656,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Get 10-60% Back On UPS Shipping Online (Up To $500 Cashback)",
@@ -812,6 +854,20 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 1199,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offers: Marriott Luxury Brands, Spend $1,000+ & Receive $200 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offers-marriott-luxury-brands-spend-1000-receive-200-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$200 Back on $1,000 Spend",
+    "summary": "Amex Offer: spend $1,000, get $200 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
+    "published": "Tue, 03 Nov 2026 23:49:40 +0000"
+  },
+  {
     "id": 1188,
     "source": "Frequent Miler",
     "title": "Amex Offer: Spend $1,000+ on Etihad, get $200 back (targeted, enrollment required)",
@@ -821,7 +877,7 @@
     "summary": "Amex Offer: spend $1,000, get $200 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 03 Nov 2026 00:45:15 +0000"
   },
@@ -835,7 +891,7 @@
     "summary": "Amex Offer: spend $100, get $20 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $100 spend requirement.",
     "published": "Mon, 02 Nov 2026 19:20:33 +0000"
   },
@@ -849,9 +905,23 @@
     "summary": "Amex Offer: spend $900, get $200 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 22.2% rebate when you meet the $900 spend requirement.",
     "published": "Mon, 02 Nov 2026 20:23:06 +0000"
+  },
+  {
+    "id": 1175,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Avis Car Rental, Spend $350 & Get $75 Statement Credit",
+    "url": "https://www.doctorofcredit.com/amex-offers-avis-car-rental-spend-350-get-75-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$75 Back on $350 Spend",
+    "summary": "Amex Offer: spend $350, get $75 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 21.4% rebate when you meet the $350 spend requirement.",
+    "published": "Tue, 03 Nov 2026 02:11:40 +0000"
   },
   {
     "id": 1000,
@@ -1034,6 +1104,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Sun, 01 Nov 2026 15:45:40 +0000"
+  },
+  {
+    "id": 1202,
+    "source": "Doctor of Credit",
+    "title": "[Select Unknown States] 2UFI $400 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/select-unknown-states-2ufi-300-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 03 Nov 2026 21:00:22 +0000"
   },
   {
     "id": 1134,
@@ -1314,20 +1398,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 15:00:43 +0000"
-  },
-  {
-    "id": 659,
-    "source": "Doctor of Credit",
-    "title": "CIT Bank .5% APY Boost For 6 Months – New & Existing Customers (Code BOOST50)",
-    "url": "https://www.doctorofcredit.com/cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost/",
-    "offer_type": "bank",
-    "headline": "5% APY for 6 months",
-    "summary": "Bank APY: 5% APY for 6 months",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 02 Oct 2026 10:00:03 +0000"
   },
   {
     "id": 600,
@@ -1804,6 +1874,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
+  },
+  {
+    "id": 1211,
+    "source": "Frequent Miler",
+    "title": "Air France/KLM Amex Offer: Spend $1,500 & get $150 back",
+    "url": "https://frequentmiler.com/air-france-klm-amex-offer-spend-1500-get-150-back/",
+    "offer_type": "amex_offer",
+    "headline": "$150 Back on $1,500 Spend",
+    "summary": "Amex Offer: spend $1,500, get $150 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 10% rebate when you meet the $1,500 spend requirement.",
+    "published": "Tue, 03 Nov 2026 20:45:13 +0000"
   },
   {
     "id": 1168,
@@ -2380,20 +2464,6 @@
     "published": "Sun, 16 Aug 2026 21:00:52 +0000"
   },
   {
-    "id": 1175,
-    "source": "Doctor of Credit",
-    "title": "AmEx Offers: Avis Car Rental, Spend $200/$400 & Get $40/$80 Statement Credit",
-    "url": "https://www.doctorofcredit.com/amex-offers-avis-car-rental-spend-350-get-75-statement-credit/",
-    "offer_type": "amex_offer",
-    "headline": "Tiered/multiple dollar offer",
-    "summary": "Amex Offer: tiered/multiple dollar offer",
-    "score": 5.5,
-    "score_label": "Standard",
-    "status": "NEW",
-    "why_it_matters": null,
-    "published": "Tue, 03 Nov 2026 02:11:40 +0000"
-  },
-  {
     "id": 976,
     "source": "Frequent Miler",
     "title": "Get 10% or 15% back with Amex Offer at Kroger & other Kroger brands (Limit $100 spend)",
@@ -2436,20 +2506,6 @@
     "published": "Thu, 15 Oct 2026 19:27:58 +0000"
   },
   {
-    "id": 422,
-    "source": "Doctor of Credit",
-    "title": "AmEx, Wells, U. S. Bank Offers: Get 15% Off CVS (Max $7.50 Back)",
-    "url": "https://www.doctorofcredit.com/amex-offers-get-10-off-cvs-max-10-back/",
-    "offer_type": "promo",
-    "headline": "15% Back, $7.50 Value",
-    "summary": "Promo: 15% back, $7.50 value",
-    "score": 5.5,
-    "score_label": "Standard",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Mon, 02 Nov 2026 21:00:55 +0000"
-  },
-  {
     "id": 394,
     "source": "Doctor of Credit",
     "title": "[Targeted] AA SimplyMiles: Spend $65 On AT&T Wireless & Earn 2,325 Miles",
@@ -2478,6 +2534,20 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1195,
+    "source": "Doctor of Credit",
+    "title": "Ameriprise Premier Visa – 2.5% Cashback On All Purchases, $150 Sign Up Bonus",
+    "url": "https://www.doctorofcredit.com/ameriprise-premier-visa-2-5-cashback-on-all-purchases-150-sign-up-bonus/",
+    "offer_type": "credit_card",
+    "headline": "$150 Bonus",
+    "summary": "Credit card offer: $150 bonus",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 04 Nov 2026 15:00:14 +0000"
+  },
+  {
     "id": 1183,
     "source": "Doctor of Credit",
     "title": "Chase Offers: Save 10% on Lyft, Up To $10 Back",
@@ -2487,7 +2557,7 @@
     "summary": "Promo: 10% back, $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 02 Nov 2026 18:40:45 +0000"
   },
@@ -2501,7 +2571,7 @@
     "summary": "Credit card offer: $100 bonus",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 02 Nov 2026 20:33:23 +0000"
   },
@@ -2515,7 +2585,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 02 Nov 2026 23:16:19 +0000"
   },
@@ -3190,6 +3260,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 13 Sep 2026 22:20:36 +0000"
+  },
+  {
+    "id": 422,
+    "source": "Doctor of Credit",
+    "title": "AmEx, Wells, U. S. Bank Offers: Get 15% Off CVS (Max $7.50 Back)",
+    "url": "https://www.doctorofcredit.com/amex-offers-get-10-off-cvs-max-10-back/",
+    "offer_type": "promo",
+    "headline": "15% Back, $7.50 Value",
+    "summary": "Promo: 15% back, $7.50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Mon, 02 Nov 2026 21:00:55 +0000"
   },
   {
     "id": 393,

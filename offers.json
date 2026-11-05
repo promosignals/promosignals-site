@@ -70,6 +70,34 @@
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
   },
   {
+    "id": 1229,
+    "source": "Frequent Miler",
+    "title": "Get a 40% transfer bonus from Citi ThankYou to Turkish Miles&Smiles",
+    "url": "https://frequentmiler.com/40-percent-transfer-bonus-citi-thankyou-turkish-milesandsmiles/",
+    "offer_type": "transfer",
+    "headline": "40% Transfer Bonus",
+    "summary": "Transfer bonus: 40%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 04 Nov 2026 19:46:39 +0000"
+  },
+  {
+    "id": 1222,
+    "source": "Doctor of Credit",
+    "title": "Citi ThankYou Points 40% Transfer Bonus To Turkish Airlines Miles & Smiles (1:1.4)",
+    "url": "https://www.doctorofcredit.com/citi-thankyou-points-40-transfer-bonus-to-turkish-airlines-miles-smiles-11-4-2/",
+    "offer_type": "transfer",
+    "headline": "40% Transfer Bonus",
+    "summary": "Transfer bonus: 40%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 04 Nov 2026 19:28:44 +0000"
+  },
+  {
     "id": 1142,
     "source": "Frequent Miler",
     "title": "Chase Ink Cards: Increased targeted welcome offers up to 125K points",
@@ -112,6 +140,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1223,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offers: Tim Hortons, Spend $10+ & Receive $5 Statement Credit (Limit 2)",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offers-tim-hortsons-spend-10-receive-5-statement-credit-limit-2/",
+    "offer_type": "amex_offer",
+    "headline": "$5 Back on $10 Spend",
+    "summary": "Amex Offer: spend $10, get $5 back",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 50% rebate when you meet the $10 spend requirement.",
+    "published": "Wed, 04 Nov 2026 16:00:22 +0000"
+  },
+  {
     "id": 1205,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Monarch Money, Spend $69.99 & Get $50 Back",
@@ -121,7 +163,7 @@
     "summary": "Amex Offer: spend $69.99, get $50 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 71.4% rebate when you meet the $69.99 spend requirement.",
     "published": "Tue, 03 Nov 2026 19:58:57 +0000"
   },
@@ -378,20 +420,6 @@
     "published": "Sat, 19 Sep 2026 14:00:06 +0000"
   },
   {
-    "id": 448,
-    "source": "Doctor of Credit",
-    "title": "E*Trade $400-$800 Savings Bonus (Requires $20k-$100k Deposit) + 4.25% Intro Rate",
-    "url": "https://www.doctorofcredit.com/etrade-400-savings-bonus-requires-20k-deposit-4-intro-rate/",
-    "offer_type": "bank",
-    "headline": "$800 Bank Bonus with $100,000 Deposit",
-    "summary": "Bank bonus: $800 with $100,000 deposit",
-    "score": 8.5,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": "The $800 bonus is equivalent to about 0.8% of the $100,000 deposit requirement, before considering how long the funds must remain deposited.",
-    "published": "Wed, 16 Sep 2026 14:00:39 +0000"
-  },
-  {
     "id": 440,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Dish Network, Spend $94.99+ & Receive $80 Statement Credit",
@@ -532,20 +560,6 @@
     "published": "Tue, 29 Sep 2026 00:20:12 +0000"
   },
   {
-    "id": 3,
-    "source": "Doctor of Credit",
-    "title": "(Update)[Targeted] AmEx Offers: ADT, Spend $250+ & Receive $250 Statement Credit",
-    "url": "https://www.doctorofcredit.com/targeted-amex-offers-adt-spend-250-receive-250-statement-credit/",
-    "offer_type": "amex_offer",
-    "headline": "$250 Back on $250 Spend",
-    "summary": "Amex Offer: spend $250, get $250 back",
-    "score": 8.5,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": "That's an effective 100% rebate when you meet the $250 spend requirement.",
-    "published": "Fri, 25 Sep 2026 02:17:54 +0000"
-  },
-  {
     "id": 1200,
     "source": "Doctor of Credit",
     "title": "Capital One Adds Copa As 2:1.5 Transfer Partner – Launches With 30% Transfer Bonus",
@@ -555,7 +569,7 @@
     "summary": "Transfer bonus: 30%",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 03 Nov 2026 23:39:57 +0000"
   },
@@ -770,20 +784,6 @@
     "published": "Sun, 04 Oct 2026 23:53:24 +0000"
   },
   {
-    "id": 659,
-    "source": "Doctor of Credit",
-    "title": "CIT Bank .6% APY Boost For 6 Months – New & Existing Customers (Code BOOST60)",
-    "url": "https://www.doctorofcredit.com/cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost/",
-    "offer_type": "bank",
-    "headline": "6% APY for 6 months",
-    "summary": "Bank APY: 6% APY for 6 months",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Tue, 03 Nov 2026 23:25:03 +0000"
-  },
-  {
     "id": 656,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Get 10-60% Back On UPS Shipping Online (Up To $500 Cashback)",
@@ -854,6 +854,34 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 1228,
+    "source": "Frequent Miler",
+    "title": "Airfare Amex Offer on Marriott Brilliant cards: Get $200 back when spending $900+",
+    "url": "https://frequentmiler.com/airfare-amex-offer-on-marriott-brilliant-cards-get-200-back-when-spending-900/",
+    "offer_type": "amex_offer",
+    "headline": "$200 Back on $900 Spend",
+    "summary": "Amex Offer: spend $900, get $200 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 22.2% rebate when you meet the $900 spend requirement.",
+    "published": "Wed, 04 Nov 2026 20:45:43 +0000"
+  },
+  {
+    "id": 1217,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offer: Hen House Market, Spend $100+ & Receive $20 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offer-hen-house-market-spend-100-receive-20-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$20 Back on $100 Spend",
+    "summary": "Amex Offer: spend $100, get $20 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $100 spend requirement.",
+    "published": "Wed, 04 Nov 2026 23:15:50 +0000"
+  },
+  {
     "id": 1199,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Marriott Luxury Brands, Spend $1,000+ & Receive $200 Statement Credit",
@@ -863,7 +891,7 @@
     "summary": "Amex Offer: spend $1,000, get $200 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Tue, 03 Nov 2026 23:49:40 +0000"
   },
@@ -919,7 +947,7 @@
     "summary": "Amex Offer: spend $350, get $75 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 21.4% rebate when you meet the $350 spend requirement.",
     "published": "Tue, 03 Nov 2026 02:11:40 +0000"
   },
@@ -1106,6 +1134,20 @@
     "published": "Sun, 01 Nov 2026 15:45:40 +0000"
   },
   {
+    "id": 1215,
+    "source": "Doctor of Credit",
+    "title": "Barclays $200-$400 Savings Bonus",
+    "url": "https://www.doctorofcredit.com/barclays-200-savings-bonus/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 05 Nov 2026 15:00:33 +0000"
+  },
+  {
     "id": 1202,
     "source": "Doctor of Credit",
     "title": "[Select Unknown States] 2UFI $400 Business Checking Bonus",
@@ -1115,7 +1157,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 03 Nov 2026 21:00:22 +0000"
   },
@@ -1398,6 +1440,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 04 Oct 2026 15:00:43 +0000"
+  },
+  {
+    "id": 659,
+    "source": "Doctor of Credit",
+    "title": "CIT Bank .6% APY Boost For 6 Months – New & Existing Customers (Code BOOST60)",
+    "url": "https://www.doctorofcredit.com/cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost/",
+    "offer_type": "bank",
+    "headline": "6% APY for 6 months",
+    "summary": "Bank APY: 6% APY for 6 months",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 03 Nov 2026 23:25:03 +0000"
   },
   {
     "id": 600,
@@ -1885,7 +1941,7 @@
     "summary": "Amex Offer: spend $1,500, get $150 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 10% rebate when you meet the $1,500 spend requirement.",
     "published": "Tue, 03 Nov 2026 20:45:13 +0000"
   },
@@ -2534,6 +2590,34 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1232,
+    "source": "Frequent Miler",
+    "title": "Get $10 back when spending $20+ with Uber Eats Citi Offer (can use up to two times)",
+    "url": "https://frequentmiler.com/get-10-back-when-spending-20-with-uber-eats-citi-offer-can-use-up-to-two-times/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 04 Nov 2026 15:45:50 +0000"
+  },
+  {
+    "id": 1220,
+    "source": "Doctor of Credit",
+    "title": "Citi Offers: Home Depot $5 off $50 (3x)",
+    "url": "https://www.doctorofcredit.com/citi-offers-15-off-home-depot-up-to-30-back/",
+    "offer_type": "promo",
+    "headline": "$5 Off $50 Spend",
+    "summary": "Promo: $5 off $50 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 04 Nov 2026 20:32:29 +0000"
+  },
+  {
     "id": 1195,
     "source": "Doctor of Credit",
     "title": "Ameriprise Premier Visa – 2.5% Cashback On All Purchases, $150 Sign Up Bonus",
@@ -2543,7 +2627,7 @@
     "summary": "Credit card offer: $150 bonus",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 04 Nov 2026 15:00:14 +0000"
   },
@@ -3360,6 +3444,20 @@
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
   },
   {
+    "id": 277,
+    "source": "Doctor of Credit",
+    "title": "Citi Offers: Get Up To 10% Back At Stop & Shop, Giant ($6 Max Cashback; 2x)",
+    "url": "https://www.doctorofcredit.com/citi-offers-get-4-back-at-giant-stop-30-max-cashback/",
+    "offer_type": "promo",
+    "headline": "10% Back, $6 Value",
+    "summary": "Promo: 10% back, $6 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "REDUCED",
+    "why_it_matters": null,
+    "published": "Wed, 04 Nov 2026 20:30:48 +0000"
+  },
+  {
     "id": 242,
     "source": "Doctor of Credit",
     "title": "NinjaTrader (Futures Trading): $50-$250 Bonus When You Deposit $250-$2,500+",
@@ -3852,16 +3950,16 @@
   {
     "id": 811,
     "source": "Frequent Miler",
-    "title": "Earn 15K bonus miles when joining AAdvantage Business with promo code GET15K",
+    "title": "Earn 10K bonus miles when joining AAdvantage Business with promo code BNS10K",
     "url": "https://frequentmiler.com/earn-10k-bonus-miles-when-joining-aadvantage-business-with-promo-code-bns10k/",
     "offer_type": "promo",
-    "headline": "15,000 Bonus Points",
-    "summary": "Promo: 15,000 bonus points",
+    "headline": "10,000 Bonus Points",
+    "summary": "Promo: 10,000 bonus points",
     "score": 4.0,
     "score_label": "Standard",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Thu, 08 Oct 2026 21:45:11 +0000"
+    "published": "Wed, 04 Nov 2026 17:46:32 +0000"
   },
   {
     "id": 773,

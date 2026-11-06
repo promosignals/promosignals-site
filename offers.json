@@ -1,5 +1,19 @@
 [
   {
+    "id": 1243,
+    "source": "Frequent Miler",
+    "title": "Chase Marriott Bonvoy Boundless Card: Massive 200K welcome offer",
+    "url": "https://frequentmiler.com/chase-marriott-bonvoy-boundless-card-massive-200k-welcome-offer/",
+    "offer_type": "credit_card",
+    "headline": "200,000 Points",
+    "summary": "Credit card offer: 200,000 points",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": "This 200,000-point offer is 125,000 points above the card's 75,000-point baseline, a 166.7% increase.",
+    "published": "Fri, 06 Nov 2026 14:45:29 +0000"
+  },
+  {
     "id": 1148,
     "source": "Doctor of Credit",
     "title": "Chase Ultimate Rewards: 80% Transfer Bonus To IHG (1:1.8)",
@@ -79,7 +93,7 @@
     "summary": "Transfer bonus: 40%",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 04 Nov 2026 19:46:39 +0000"
   },
@@ -93,7 +107,7 @@
     "summary": "Transfer bonus: 40%",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 04 Nov 2026 19:28:44 +0000"
   },
@@ -140,6 +154,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1236,
+    "source": "Doctor of Credit",
+    "title": "[Targeted, VA, MD NC, D.C.] Atlantic Union Bank $400-$800 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/va-md-nc-atlantic-union-bank-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$800 Bank Bonus",
+    "summary": "Bank bonus: $800",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 06 Nov 2026 00:22:10 +0000"
+  },
+  {
     "id": 1223,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Tim Hortons, Spend $10+ & Receive $5 Statement Credit (Limit 2)",
@@ -149,7 +177,7 @@
     "summary": "Amex Offer: spend $10, get $5 back",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 50% rebate when you meet the $10 spend requirement.",
     "published": "Wed, 04 Nov 2026 16:00:22 +0000"
   },
@@ -863,7 +891,7 @@
     "summary": "Amex Offer: spend $900, get $200 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 22.2% rebate when you meet the $900 spend requirement.",
     "published": "Wed, 04 Nov 2026 20:45:43 +0000"
   },
@@ -877,7 +905,7 @@
     "summary": "Amex Offer: spend $100, get $20 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $100 spend requirement.",
     "published": "Wed, 04 Nov 2026 23:15:50 +0000"
   },
@@ -1106,6 +1134,20 @@
     "published": "Wed, 16 Sep 2026 21:45:50 +0000"
   },
   {
+    "id": 425,
+    "source": "Doctor of Credit",
+    "title": "Albert (Fintech): Get $1,000 In Stock For Free",
+    "url": "https://www.doctorofcredit.com/albert-fintech-get-200-in-stock-for-free/",
+    "offer_type": "promo",
+    "headline": "$1,000 Value",
+    "summary": "Promo: $1,000 value",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Fri, 06 Nov 2026 15:00:36 +0000"
+  },
+  {
     "id": 335,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Platinum Member Airfares, Spend $1,000+ & Receive $200 Statement Credit",
@@ -1143,7 +1185,7 @@
     "summary": "Bank bonus: $400",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 05 Nov 2026 15:00:33 +0000"
   },
@@ -2590,6 +2632,20 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 277,
+    "source": "Doctor of Credit",
+    "title": "Citi Offers: Get Up To 10% Back At Stop & Shop, Giant ($10 Max Cashback; 2x)",
+    "url": "https://www.doctorofcredit.com/citi-offers-get-4-back-at-giant-stop-30-max-cashback/",
+    "offer_type": "promo",
+    "headline": "10% Back, $10 Value",
+    "summary": "Promo: 10% back, $10 value",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Wed, 04 Nov 2026 20:30:48 +0000"
+  },
+  {
     "id": 1232,
     "source": "Frequent Miler",
     "title": "Get $10 back when spending $20+ with Uber Eats Citi Offer (can use up to two times)",
@@ -2599,7 +2655,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 04 Nov 2026 15:45:50 +0000"
   },
@@ -2613,7 +2669,7 @@
     "summary": "Promo: $5 off $50 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 04 Nov 2026 20:32:29 +0000"
   },
@@ -2872,16 +2928,16 @@
   {
     "id": 964,
     "source": "Doctor of Credit",
-    "title": "BeFrugal: Spend $25, Receive $5 Bonus",
+    "title": "BeFrugal: Spend $20, Receive $4 Bonus",
     "url": "https://www.doctorofcredit.com/befrugal-spend-15-receive-3-bonus/",
     "offer_type": "promo",
-    "headline": "$5 Value",
-    "summary": "Promo: $5 value",
+    "headline": "$4 Value",
+    "summary": "Promo: $4 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Tue, 20 Oct 2026 04:42:45 +0000"
+    "published": "Thu, 05 Nov 2026 21:27:45 +0000"
   },
   {
     "id": 937,
@@ -3332,20 +3388,6 @@
     "published": "Tue, 15 Sep 2026 21:45:42 +0000"
   },
   {
-    "id": 425,
-    "source": "Doctor of Credit",
-    "title": "Albert (Fintech): Get $200 In Stock For Free",
-    "url": "https://www.doctorofcredit.com/albert-fintech-get-200-in-stock-for-free/",
-    "offer_type": "promo",
-    "headline": "$200 Value",
-    "summary": "Promo: $200 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 13 Sep 2026 22:20:36 +0000"
-  },
-  {
     "id": 422,
     "source": "Doctor of Credit",
     "title": "AmEx, Wells, U. S. Bank Offers: Get 15% Off CVS (Max $7.50 Back)",
@@ -3416,6 +3458,20 @@
     "published": "Fri, 04 Sep 2026 20:48:22 +0000"
   },
   {
+    "id": 312,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Gemini: Get $30-$760 On Prediction Markets (Requires $250-$20,000 In Trades)",
+    "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
+    "offer_type": "promo",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Fri, 06 Nov 2026 00:06:10 +0000"
+  },
+  {
     "id": 311,
     "source": "Doctor of Credit",
     "title": "[YMMV] inKind: $5 Off $10",
@@ -3444,18 +3500,18 @@
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
   },
   {
-    "id": 277,
+    "id": 278,
     "source": "Doctor of Credit",
-    "title": "Citi Offers: Get Up To 10% Back At Stop & Shop, Giant ($6 Max Cashback; 2x)",
-    "url": "https://www.doctorofcredit.com/citi-offers-get-4-back-at-giant-stop-30-max-cashback/",
+    "title": "Topcashback: Get $2.50 Bonus With $20 Spend (11/6)",
+    "url": "https://www.doctorofcredit.com/topcashback-get-3-bonus-when-you-spend-10-today-only/",
     "offer_type": "promo",
-    "headline": "10% Back, $6 Value",
-    "summary": "Promo: 10% back, $6 value",
+    "headline": "$2.50 Value",
+    "summary": "Promo: $2.50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
-    "published": "Wed, 04 Nov 2026 20:30:48 +0000"
+    "published": "Fri, 06 Nov 2026 14:38:56 +0000"
   },
   {
     "id": 242,
@@ -3710,6 +3766,20 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 1240,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Amazon, Spend $150 and Get 1,200 Membership Rewards Points (Can Be Done 3x)",
+    "url": "https://www.doctorofcredit.com/amex-offers-amazon-spend-150-and-get-1200-membership-rewards-points-can-be-done-3x/",
+    "offer_type": "amex_offer",
+    "headline": "Spend $150, get 1,200 points",
+    "summary": "Amex Offer: spend $150, get 1,200 points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 05 Nov 2026 20:09:09 +0000"
+  },
+  {
     "id": 1167,
     "source": "Doctor of Credit",
     "title": "[NC] Acclaim Federal Credit Union $100 Checking Bonus, Direct Deposit Not Required",
@@ -3957,7 +4027,7 @@
     "summary": "Promo: 10,000 bonus points",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 04 Nov 2026 17:46:32 +0000"
   },

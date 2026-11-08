@@ -163,7 +163,7 @@
     "summary": "Amex Offer: $100 value",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 06 Nov 2026 15:45:28 +0000"
   },
@@ -882,6 +882,20 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 1281,
+    "source": "Frequent Miler",
+    "title": "Avis Amex Offer: Spend $350 & get $75 back",
+    "url": "https://frequentmiler.com/avis-amex-offer-spend-350-get-75-back/",
+    "offer_type": "amex_offer",
+    "headline": "$75 Back on $350 Spend",
+    "summary": "Amex Offer: spend $350, get $75 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 21.4% rebate when you meet the $350 spend requirement.",
+    "published": "Sat, 07 Nov 2026 16:45:39 +0000"
+  },
+  {
     "id": 1269,
     "source": "Frequent Miler",
     "title": "IHG Amex Offer: Spend $250+, get $50 back (targeted)",
@@ -891,7 +905,7 @@
     "summary": "Amex Offer: spend $250, get $50 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
     "published": "Fri, 06 Nov 2026 20:45:59 +0000"
   },
@@ -905,7 +919,7 @@
     "summary": "Amex Offer: spend $300, get $60 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $300 spend requirement.",
     "published": "Fri, 06 Nov 2026 15:07:28 +0000"
   },
@@ -919,7 +933,7 @@
     "summary": "Amex Offer: spend $250, get $50 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
     "published": "Fri, 06 Nov 2026 15:16:21 +0000"
   },
@@ -933,7 +947,7 @@
     "summary": "Amex Offer: spend $500, get $100 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $500 spend requirement.",
     "published": "Fri, 06 Nov 2026 20:00:04 +0000"
   },
@@ -947,7 +961,7 @@
     "summary": "Amex Offer: spend $100, get $20 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $100 spend requirement.",
     "published": "Fri, 06 Nov 2026 23:06:25 +0000"
   },
@@ -1230,6 +1244,48 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Sun, 01 Nov 2026 15:45:40 +0000"
+  },
+  {
+    "id": 1278,
+    "source": "Doctor of Credit",
+    "title": "[NY] Hudson Valley Credit Union $500 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/ny-hudson-valley-federal-credit-union-400-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 07 Nov 2026 19:00:44 +0000"
+  },
+  {
+    "id": 1274,
+    "source": "Doctor of Credit",
+    "title": "[FL, NJ, NY] Popular Bank $600 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/fl-nj-ny-popular-bank-400-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$600 Bank Bonus",
+    "summary": "Bank bonus: $600",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 07 Nov 2026 22:10:02 +0000"
+  },
+  {
+    "id": 1273,
+    "source": "Doctor of Credit",
+    "title": "[SD & MN, In Branch Only] American Bank & Trust $600 Checking Bonus + $150 Savings Bonus",
+    "url": "https://www.doctorofcredit.com/sd-mn-american-bank-trust-250-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$600 Bank Bonus",
+    "summary": "Bank bonus: $600",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 08 Nov 2026 15:00:38 +0000"
   },
   {
     "id": 1215,
@@ -2030,6 +2086,34 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1279,
+    "source": "Doctor of Credit",
+    "title": "[NY, PA] Heritage Financial Credit Union $300 Checking Bonus, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 07 Nov 2026 16:00:02 +0000"
+  },
+  {
+    "id": 1276,
+    "source": "Doctor of Credit",
+    "title": "[UT, ID] Goldenwest Credit Union $250 Checking Bonus (Ages 13-25, No Direct Deposit Required)",
+    "url": "https://www.doctorofcredit.com/ut-goldenwest-credit-union-250-checking-bonus-ages-13-25-no-direct-deposit-required/",
+    "offer_type": "bank",
+    "headline": "$250 Bank Bonus",
+    "summary": "Bank bonus: $250",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 07 Nov 2026 20:05:02 +0000"
+  },
+  {
     "id": 1252,
     "source": "Doctor of Credit",
     "title": "[AL] Avadian Credit Union $300 Checking Bonus",
@@ -2039,7 +2123,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 07 Nov 2026 15:00:11 +0000"
   },
@@ -2711,7 +2795,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 06 Nov 2026 15:37:26 +0000"
   },
@@ -2725,7 +2809,7 @@
     "summary": "Promo: $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 06 Nov 2026 18:30:00 +0000"
   },
@@ -2739,7 +2823,7 @@
     "summary": "Credit card offer: $200 bonus",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 06 Nov 2026 19:00:59 +0000"
   },
@@ -2854,20 +2938,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 30 Oct 2026 23:45:53 +0000"
-  },
-  {
-    "id": 1129,
-    "source": "Doctor of Credit",
-    "title": "Capital One Offers: Dunkin/Wendy’s/Burger King, Spend $5 & Get $5 Back",
-    "url": "https://www.doctorofcredit.com/capital-one-offers-dunkin-wendys-burger-king-spend-5-get-5-back/",
-    "offer_type": "promo",
-    "headline": "$5 Value",
-    "summary": "Promo: $5 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 30 Oct 2026 20:28:07 +0000"
   },
   {
     "id": 1105,
@@ -3458,20 +3528,6 @@
     "published": "Wed, 16 Sep 2026 21:02:41 +0000"
   },
   {
-    "id": 460,
-    "source": "Frequent Miler",
-    "title": "Away Chase Offer: Get $50 back when spending $295+ on luggage, bags, & accessories",
-    "url": "https://frequentmiler.com/away-chase-offer-get-50-back-when-spending-295-on-luggage-bags-accessories/",
-    "offer_type": "promo",
-    "headline": "$50 Value",
-    "summary": "Promo: $50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 15 Sep 2026 21:45:42 +0000"
-  },
-  {
     "id": 422,
     "source": "Doctor of Credit",
     "title": "AmEx, Wells, U. S. Bank Offers: Get 15% Off CVS (Max $7.50 Back)",
@@ -3582,20 +3638,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
-  },
-  {
-    "id": 278,
-    "source": "Doctor of Credit",
-    "title": "Topcashback: Get $2.50 Bonus With $20 Spend (11/6)",
-    "url": "https://www.doctorofcredit.com/topcashback-get-3-bonus-when-you-spend-10-today-only/",
-    "offer_type": "promo",
-    "headline": "$2.50 Value",
-    "summary": "Promo: $2.50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 06 Nov 2026 14:38:56 +0000"
   },
   {
     "id": 277,
@@ -3780,6 +3822,20 @@
     "published": "Sat, 29 Aug 2026 11:30:44 +0000"
   },
   {
+    "id": 50,
+    "source": "Doctor of Credit",
+    "title": "7-Eleven 7NOW App Promo Codes: $10 off $20+,  10FORYOU",
+    "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
+    "offer_type": "promo",
+    "headline": "$10 Off $20 Spend",
+    "summary": "Promo: $10 off $20 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Sat, 07 Nov 2026 20:21:41 +0000"
+  },
+  {
     "id": 40,
     "source": "Frequent Miler",
     "title": "Marriott Bonvoy Citi Offer: Get $30 back on $300",
@@ -3862,6 +3918,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 1275,
+    "source": "Doctor of Credit",
+    "title": "[CO only] On Tap Credit Union $150 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/co-only-on-tap-credit-union-150-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$150 Bank Bonus",
+    "summary": "Bank bonus: $150",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 07 Nov 2026 21:15:00 +0000"
   },
   {
     "id": 1240,

@@ -644,20 +644,6 @@
     "published": "Mon, 02 Nov 2026 19:31:27 +0000"
   },
   {
-    "id": 1164,
-    "source": "Doctor of Credit",
-    "title": "Staples: 100% Back In Points Scotch Purchases, Up To $40",
-    "url": "https://www.doctorofcredit.com/staples-100-back-in-points-scotch-purchases-up-to-40/",
-    "offer_type": "promo",
-    "headline": "100% Back, $40 Value",
-    "summary": "Promo: 100% back, $40 value",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 01 Nov 2026 22:06:04 +0000"
-  },
-  {
     "id": 1152,
     "source": "Doctor of Credit",
     "title": "Chase Offers/BofA: 100% Back On YouTube Channel Memberships Up To $6",
@@ -891,7 +877,7 @@
     "summary": "Amex Offer: spend $350, get $75 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 21.4% rebate when you meet the $350 spend requirement.",
     "published": "Sat, 07 Nov 2026 16:45:39 +0000"
   },
@@ -1255,7 +1241,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 07 Nov 2026 19:00:44 +0000"
   },
@@ -1269,7 +1255,7 @@
     "summary": "Bank bonus: $600",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 07 Nov 2026 22:10:02 +0000"
   },
@@ -1283,7 +1269,7 @@
     "summary": "Bank bonus: $600",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 08 Nov 2026 15:00:38 +0000"
   },
@@ -1510,20 +1496,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 11 Oct 2026 23:30:35 +0000"
-  },
-  {
-    "id": 842,
-    "source": "Doctor of Credit",
-    "title": "[WI + IL Only] North Shore Bank $400 Checking Bonus – Direct Deposit Optional",
-    "url": "https://www.doctorofcredit.com/wi-il-only-north-shore-bank-300-checking-bonus-direct-deposit-optional/",
-    "offer_type": "bank",
-    "headline": "$400 Bank Bonus",
-    "summary": "Bank bonus: $400",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 10 Oct 2026 20:40:29 +0000"
   },
   {
     "id": 838,
@@ -2086,6 +2058,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1285,
+    "source": "Doctor of Credit",
+    "title": "[CO Only] Zing Credit Union $300 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/co-only-zing-credit-union-300-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 08 Nov 2026 20:00:58 +0000"
+  },
+  {
     "id": 1279,
     "source": "Doctor of Credit",
     "title": "[NY, PA] Heritage Financial Credit Union $300 Checking Bonus, Direct Deposit Not Required",
@@ -2095,7 +2081,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 07 Nov 2026 16:00:02 +0000"
   },
@@ -2109,7 +2095,7 @@
     "summary": "Bank bonus: $250",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 07 Nov 2026 20:05:02 +0000"
   },
@@ -2786,6 +2772,76 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1289,
+    "source": "Doctor of Credit",
+    "title": "Amazon $20 Off $80 P&G Products, Stack With $25 P&G Rebate & $3 Coupon (Bounty, Tide, Pampers, Cascade & More)",
+    "url": "https://www.doctorofcredit.com/amazon-20-off-80-pg-products-stack-with-15-pg-rebate-bounty-tide-pampers-cascade-more/",
+    "offer_type": "promo",
+    "headline": "$20 Off $80 Spend",
+    "summary": "Promo: $20 off $80 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 08 Nov 2026 19:35:14 +0000"
+  },
+  {
+    "id": 1288,
+    "source": "Doctor of Credit",
+    "title": "Target: Purchase $100+ In Qualifying Giftcards, Get $10 Target Giftcard (Disney, Starbucks & More)",
+    "url": "https://www.doctorofcredit.com/target-purchase-100-in-qualifying-giftcards-get-10-target-giftcard-disney-starbucks-more/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 08 Nov 2026 19:38:21 +0000"
+  },
+  {
+    "id": 1287,
+    "source": "Doctor of Credit",
+    "title": "AmEx/Cit Offers: Get 10% Back On Shell Gas (Max $10)",
+    "url": "https://www.doctorofcredit.com/amex-offers-get-10-back-on-shell-gas-max-10/",
+    "offer_type": "promo",
+    "headline": "10% Back, $10 Value",
+    "summary": "Promo: 10% back, $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 08 Nov 2026 19:42:10 +0000"
+  },
+  {
+    "id": 1286,
+    "source": "Doctor of Credit",
+    "title": "Target.com: Get $10 Back With $100 Giftcard Purchase – Starbucks, Apple, Uber, Phone Card, Home Depot, Google, Etc. (11/8-11/14)",
+    "url": "https://www.doctorofcredit.com/target-com-get-10-back-with-100-giftcard-purchase-apple-uber-phone-card-home-depot-google-etc-11-8-11-14/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 08 Nov 2026 19:48:42 +0000"
+  },
+  {
+    "id": 1284,
+    "source": "Doctor of Credit",
+    "title": "AmEx/Chase/BofA/etc: YouTube TV, Spend $39.99 & Get $20 Back",
+    "url": "https://www.doctorofcredit.com/chase-offers-youtube-tv-spend-54-99-get-20-back/",
+    "offer_type": "promo",
+    "headline": "$20 Value",
+    "summary": "Promo: $20 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 08 Nov 2026 23:00:16 +0000"
+  },
+  {
     "id": 1262,
     "source": "Doctor of Credit",
     "title": "Fidelity Card Spend Bonus Offers (Up to $50 Back)",
@@ -2896,20 +2952,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Mon, 02 Nov 2026 20:33:23 +0000"
-  },
-  {
-    "id": 1176,
-    "source": "Doctor of Credit",
-    "title": "CVS: Buy $100 Zillions Giftcards, Get $20 ExtraBucks (Stack For More Savings)",
-    "url": "https://www.doctorofcredit.com/cvs-buy-100-zillions-giftcards-get-20-extrabucks-stack-for-more-savings/",
-    "offer_type": "promo",
-    "headline": "$20 Value",
-    "summary": "Promo: $20 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 06 Nov 2026 20:36:19 +0000"
   },
   {
     "id": 1147,
@@ -3357,7 +3399,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Sun, 25 Oct 2026 10:00:30 +0000"
+    "published": "Sun, 08 Nov 2026 17:30:30 +0000"
   },
   {
     "id": 590,
@@ -3822,20 +3864,6 @@
     "published": "Sat, 29 Aug 2026 11:30:44 +0000"
   },
   {
-    "id": 50,
-    "source": "Doctor of Credit",
-    "title": "7-Eleven 7NOW App Promo Codes: $10 off $20+,  10FORYOU",
-    "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
-    "offer_type": "promo",
-    "headline": "$10 Off $20 Spend",
-    "summary": "Promo: $10 off $20 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 07 Nov 2026 20:21:41 +0000"
-  },
-  {
     "id": 40,
     "source": "Frequent Miler",
     "title": "Marriott Bonvoy Citi Offer: Get $30 back on $300",
@@ -3920,6 +3948,20 @@
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
   },
   {
+    "id": 1283,
+    "source": "Doctor of Credit",
+    "title": "[TN only] Pinnacle Financial Partners $200 Mastercard Checking Bonus",
+    "url": "https://www.doctorofcredit.com/tn-only-pinnacle-financial-partners-200-mastercard-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 09 Nov 2026 00:21:18 +0000"
+  },
+  {
     "id": 1275,
     "source": "Doctor of Credit",
     "title": "[CO only] On Tap Credit Union $150 Checking Bonus",
@@ -3929,7 +3971,7 @@
     "summary": "Bank bonus: $150",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sat, 07 Nov 2026 21:15:00 +0000"
   },

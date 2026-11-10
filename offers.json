@@ -154,6 +154,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1302,
+    "source": "Frequent Miler",
+    "title": "$40 back on $200 at Caesars Rewards destinations with targeted Amex Offer (enrollment required). Stack with portal rewards for big savings.",
+    "url": "https://frequentmiler.com/40-back-on-200-at-caesars-rewards-destinations-with-targeted-amex-offer-enrollment-required-stack-with-portal-rewards-for-big-savings/",
+    "offer_type": "amex_offer",
+    "headline": "$40 value",
+    "summary": "Amex Offer: $40 value",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 10 Nov 2026 00:45:52 +0000"
+  },
+  {
     "id": 1272,
     "source": "Frequent Miler",
     "title": "Get $100 back on a $500+ Omni Hotels & Resorts stay with targeted Amex Offer",
@@ -866,6 +880,20 @@
     "status": null,
     "why_it_matters": "The 10% APY applies to up to $1,000, so the balance cap limits how much earns the promotional rate.",
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
+  },
+  {
+    "id": 1292,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offer: Caesars Entertainment, Spend $200+ & Receive $40 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offer-caesars-entertainment-spend-200-receive-40-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$40 Back on $200 Spend",
+    "summary": "Amex Offer: spend $200, get $40 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $200 spend requirement.",
+    "published": "Tue, 10 Nov 2026 09:40:20 +0000"
   },
   {
     "id": 1281,
@@ -2067,7 +2095,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 08 Nov 2026 20:00:58 +0000"
   },
@@ -2781,7 +2809,7 @@
     "summary": "Promo: $20 off $80 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 08 Nov 2026 19:35:14 +0000"
   },
@@ -2795,21 +2823,21 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 08 Nov 2026 19:38:21 +0000"
   },
   {
     "id": 1287,
     "source": "Doctor of Credit",
-    "title": "AmEx/Cit Offers: Get 10% Back On Shell Gas (Max $10)",
+    "title": "AmEx/Citi Offers: Get 10% Back On Shell Gas (Max $10)",
     "url": "https://www.doctorofcredit.com/amex-offers-get-10-back-on-shell-gas-max-10/",
     "offer_type": "promo",
     "headline": "10% Back, $10 Value",
     "summary": "Promo: 10% back, $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 08 Nov 2026 19:42:10 +0000"
   },
@@ -2823,7 +2851,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 08 Nov 2026 19:48:42 +0000"
   },
@@ -2837,7 +2865,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 08 Nov 2026 23:00:16 +0000"
   },
@@ -3640,20 +3668,6 @@
     "published": "Fri, 04 Sep 2026 20:48:22 +0000"
   },
   {
-    "id": 312,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Gemini: Get $30-$760 On Prediction Markets (Requires $250-$20,000 In Trades)",
-    "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
-    "offer_type": "promo",
-    "headline": "$30 Value",
-    "summary": "Promo: $30 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 06 Nov 2026 00:06:10 +0000"
-  },
-  {
     "id": 311,
     "source": "Doctor of Credit",
     "title": "[YMMV] inKind: $5 Off $10",
@@ -3917,7 +3931,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 29 Sep 2026 01:25:45 +0000"
+    "published": "Mon, 09 Nov 2026 19:40:45 +0000"
   },
   {
     "id": 24,
@@ -3957,7 +3971,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 09 Nov 2026 00:21:18 +0000"
   },

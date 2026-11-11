@@ -154,6 +154,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1314,
+    "source": "Doctor of Credit",
+    "title": "Wells Fargo $400/$550/$825 Business Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wells-fargo-400-825-business-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$825 Bank Bonus",
+    "summary": "Bank bonus: $825",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 10 Nov 2026 19:36:58 +0000"
+  },
+  {
     "id": 1302,
     "source": "Frequent Miler",
     "title": "$40 back on $200 at Caesars Rewards destinations with targeted Amex Offer (enrollment required). Stack with portal rewards for big savings.",
@@ -163,7 +177,7 @@
     "summary": "Amex Offer: $40 value",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 10 Nov 2026 00:45:52 +0000"
   },
@@ -891,7 +905,7 @@
     "summary": "Amex Offer: spend $200, get $40 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $200 spend requirement.",
     "published": "Tue, 10 Nov 2026 09:40:20 +0000"
   },
@@ -1890,6 +1904,20 @@
     "published": "Sun, 23 Aug 2026 22:00:59 +0000"
   },
   {
+    "id": 129,
+    "source": "Doctor of Credit",
+    "title": "Wells Fargo $500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/wells-fargo-500-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 10 Nov 2026 19:48:09 +0000"
+  },
+  {
     "id": 117,
     "source": "Doctor of Credit",
     "title": "Wells Fargo $400 Checking Bonus – Available Online",
@@ -2772,6 +2800,20 @@
     "published": "Thu, 15 Oct 2026 19:27:58 +0000"
   },
   {
+    "id": 609,
+    "source": "Doctor of Credit",
+    "title": "Rakuten: $170 Bonus For Citi Strata Premier Signup",
+    "url": "https://www.doctorofcredit.com/rakuten-100-bonus-for-citi-strata-premier-signup/",
+    "offer_type": "promo",
+    "headline": "$170 Value",
+    "summary": "Promo: $170 value",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Wed, 11 Nov 2026 09:52:30 +0000"
+  },
+  {
     "id": 394,
     "source": "Doctor of Credit",
     "title": "[Targeted] AA SimplyMiles: Spend $65 On AT&T Wireless & Earn 2,325 Miles",
@@ -2798,6 +2840,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
+  },
+  {
+    "id": 1322,
+    "source": "Frequent Miler",
+    "title": "Hyatt Classics Chase Offer: Get 10% back on $100-$500 spend (Grand Hyatt, Hyatt Regency, Hyatt Centric, & more)",
+    "url": "https://frequentmiler.com/hyatt-classics-chase-offer-get-10-back-on-100-500-spend-grand-hyatt-hyatt-regency-hyatt-centric-more/",
+    "offer_type": "promo",
+    "headline": "10% Back, Up to $50 Value on $500 Spend",
+    "summary": "Promo: 10% back, up to $50 value on $500 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 10 Nov 2026 16:45:26 +0000"
   },
   {
     "id": 1289,
@@ -3416,20 +3472,6 @@
     "published": "Tue, 29 Sep 2026 00:16:07 +0000"
   },
   {
-    "id": 609,
-    "source": "Doctor of Credit",
-    "title": "Rakuten: $150 Bonus For Citi Strata Premier Signup",
-    "url": "https://www.doctorofcredit.com/rakuten-100-bonus-for-citi-strata-premier-signup/",
-    "offer_type": "promo",
-    "headline": "$150 Value",
-    "summary": "Promo: $150 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 08 Nov 2026 17:30:30 +0000"
-  },
-  {
     "id": 590,
     "source": "Doctor of Credit",
     "title": "Amazon: $25 Credit When You Spend On $100+ On Select Pet Products",
@@ -3498,20 +3540,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 24 Sep 2026 15:00:09 +0000"
-  },
-  {
-    "id": 559,
-    "source": "Doctor of Credit",
-    "title": "U.S. Bank Offers: 15% Back at Optimum ($27 Max Cashback)",
-    "url": "https://www.doctorofcredit.com/chase-offers-15-off-optimum-subscription-for-new-customers/",
-    "offer_type": "promo",
-    "headline": "15% Back, $27 Value",
-    "summary": "Promo: 15% back, $27 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 24 Sep 2026 19:30:37 +0000"
   },
   {
     "id": 517,

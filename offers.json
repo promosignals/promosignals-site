@@ -163,7 +163,7 @@
     "summary": "Bank bonus: $825",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 10 Nov 2026 19:36:58 +0000"
   },
@@ -292,20 +292,6 @@
     "status": null,
     "why_it_matters": "That's an effective 40% rebate when you meet the $375 spend requirement.",
     "published": "Fri, 23 Oct 2026 17:45:32 +0000"
-  },
-  {
-    "id": 1020,
-    "source": "Doctor of Credit",
-    "title": "Schwab $250-$1,000 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/schwab-250-1000-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$1,000 Bank Bonus",
-    "summary": "Bank bonus: $1,000",
-    "score": 8.5,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 22 Oct 2026 17:19:18 +0000"
   },
   {
     "id": 1019,
@@ -1272,6 +1258,34 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Sun, 01 Nov 2026 15:45:40 +0000"
+  },
+  {
+    "id": 1329,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] U.S. Bank Smartly Savings $500 Bonus",
+    "url": "https://www.doctorofcredit.com/targeted-u-s-bank-smartly-savings-500-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 11 Nov 2026 18:58:47 +0000"
+  },
+  {
+    "id": 1325,
+    "source": "Doctor of Credit",
+    "title": "U.S. Bank $450 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/u-s-bank-450-100-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$450 Bank Bonus",
+    "summary": "Bank bonus: $450",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 12 Nov 2026 14:00:28 +0000"
   },
   {
     "id": 1278,
@@ -2802,11 +2816,11 @@
   {
     "id": 609,
     "source": "Doctor of Credit",
-    "title": "Rakuten: $170 Bonus For Citi Strata Premier Signup",
+    "title": "Rakuten: $175 Bonus For Citi Strata Premier Signup",
     "url": "https://www.doctorofcredit.com/rakuten-100-bonus-for-citi-strata-premier-signup/",
     "offer_type": "promo",
-    "headline": "$170 Value",
-    "summary": "Promo: $170 value",
+    "headline": "$175 Value",
+    "summary": "Promo: $175 value",
     "score": 5.5,
     "score_label": "Standard",
     "status": "IMPROVED",
@@ -2842,6 +2856,76 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1343,
+    "source": "Frequent Miler",
+    "title": "Marriott Bonvoy Chase Offer: Get 10% back on $100-$500 spend",
+    "url": "https://frequentmiler.com/marriott-bonvoy-chase-offer-get-10-back-on-100-500-spend-2/",
+    "offer_type": "promo",
+    "headline": "10% Back, Up to $50 Value on $500 Spend",
+    "summary": "Promo: 10% back, up to $50 value on $500 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 11 Nov 2026 16:45:58 +0000"
+  },
+  {
+    "id": 1335,
+    "source": "Frequent Miler",
+    "title": "Get $10 back when spending $15+ with Uber Citi Offer",
+    "url": "https://frequentmiler.com/get-10-back-when-spending-15-with-uber-citi-offer/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 12 Nov 2026 01:45:58 +0000"
+  },
+  {
+    "id": 1332,
+    "source": "Doctor of Credit",
+    "title": "Revolut $100 Bonus Via Finder, Direct Deposit Not Required",
+    "url": "https://www.doctorofcredit.com/revolut-100-bonus-via-finder-direct-deposit-not-required/",
+    "offer_type": "promo",
+    "headline": "$100 Value",
+    "summary": "Promo: $100 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 11 Nov 2026 16:00:36 +0000"
+  },
+  {
+    "id": 1331,
+    "source": "Doctor of Credit",
+    "title": "Citi Offers: $5 off $25 Starbucks eGiftcard (Can Be Done 3 Times)",
+    "url": "https://www.doctorofcredit.com/citi-offers-5-off-25-starbucks-egiftcard-can-be-done-3-times/",
+    "offer_type": "promo",
+    "headline": "$5 Off $25 Spend",
+    "summary": "Promo: $5 off $25 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 11 Nov 2026 16:46:23 +0000"
+  },
+  {
+    "id": 1328,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers/BofA: Get 10% Back At Marriott, Up To $85 Cashback",
+    "url": "https://www.doctorofcredit.com/chase-offers-bofa-get-10-back-at-marriott-up-to-35-cashback/",
+    "offer_type": "promo",
+    "headline": "10% Back, $85 Value",
+    "summary": "Promo: 10% back, $85 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 11 Nov 2026 19:30:29 +0000"
+  },
+  {
     "id": 1322,
     "source": "Frequent Miler",
     "title": "Hyatt Classics Chase Offer: Get 10% back on $100-$500 spend (Grand Hyatt, Hyatt Regency, Hyatt Centric, & more)",
@@ -2851,7 +2935,7 @@
     "summary": "Promo: 10% back, up to $50 value on $500 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 10 Nov 2026 16:45:26 +0000"
   },
@@ -3105,7 +3189,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 27 Oct 2026 23:45:03 +0000"
+    "published": "Wed, 11 Nov 2026 15:45:51 +0000"
   },
   {
     "id": 1061,
@@ -3628,16 +3712,16 @@
   {
     "id": 422,
     "source": "Doctor of Credit",
-    "title": "AmEx, Wells, U. S. Bank Offers: Get 15% Off CVS (Max $7.50 Back)",
+    "title": "Citi, AmEx, Wells, U.S. Bank Offers: $5 off $15 or 15% Back At CVS",
     "url": "https://www.doctorofcredit.com/amex-offers-get-10-off-cvs-max-10-back/",
     "offer_type": "promo",
-    "headline": "15% Back, $7.50 Value",
-    "summary": "Promo: 15% back, $7.50 value",
+    "headline": "$5 Off $15 Spend",
+    "summary": "Promo: $5 off $15 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Mon, 02 Nov 2026 21:00:55 +0000"
+    "published": "Wed, 11 Nov 2026 16:55:55 +0000"
   },
   {
     "id": 393,
@@ -3988,6 +4072,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 1338,
+    "source": "Frequent Miler",
+    "title": "Targeted American Airlines promo: Take 4 flights in premium cabins & earn 26K bonus miles",
+    "url": "https://frequentmiler.com/targeted-american-airlines-promo-take-4-flights-in-premium-cabins-earn-26k-bonus-miles/",
+    "offer_type": "promo",
+    "headline": "26,000 Bonus Points",
+    "summary": "Promo: 26,000 bonus points",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 11 Nov 2026 21:45:59 +0000"
   },
   {
     "id": 1283,

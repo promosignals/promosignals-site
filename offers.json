@@ -1269,7 +1269,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 11 Nov 2026 18:58:47 +0000"
   },
@@ -1283,7 +1283,7 @@
     "summary": "Bank bonus: $450",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 12 Nov 2026 14:00:28 +0000"
   },
@@ -1972,6 +1972,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 16 Aug 2026 21:30:56 +0000"
+  },
+  {
+    "id": 1350,
+    "source": "Doctor of Credit",
+    "title": "American Express Graphite Business Cash Unlimited Card ($2,000 Bonus, $295 Annual Fee)",
+    "url": "https://www.doctorofcredit.com/american-express-graphite-business-cash-unlimited-card-1500-bonus-295-annual-fee/",
+    "offer_type": "promo",
+    "headline": "$2,000 Value",
+    "summary": "Promo: $2,000 value",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 12 Nov 2026 19:34:09 +0000"
+  },
+  {
+    "id": 1346,
+    "source": "Doctor of Credit",
+    "title": "Apple Card Signup Bonus: Double Cashback For One Year, Up To $1,000 Bonus (Targeted?)",
+    "url": "https://www.doctorofcredit.com/apple-card-signup-bonus-double-cashback-for-one-year-up-to-1000-bonus-targeted/",
+    "offer_type": "credit_card",
+    "headline": "$1,000 Bonus",
+    "summary": "Credit card offer: $1,000 bonus",
+    "score": 6.5,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 12 Nov 2026 21:00:37 +0000"
   },
   {
     "id": 1171,
@@ -2814,20 +2842,6 @@
     "published": "Thu, 15 Oct 2026 19:27:58 +0000"
   },
   {
-    "id": 609,
-    "source": "Doctor of Credit",
-    "title": "Rakuten: $175 Bonus For Citi Strata Premier Signup",
-    "url": "https://www.doctorofcredit.com/rakuten-100-bonus-for-citi-strata-premier-signup/",
-    "offer_type": "promo",
-    "headline": "$175 Value",
-    "summary": "Promo: $175 value",
-    "score": 5.5,
-    "score_label": "Standard",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Wed, 11 Nov 2026 09:52:30 +0000"
-  },
-  {
     "id": 394,
     "source": "Doctor of Credit",
     "title": "[Targeted] AA SimplyMiles: Spend $65 On AT&T Wireless & Earn 2,325 Miles",
@@ -2865,7 +2879,7 @@
     "summary": "Promo: 10% back, up to $50 value on $500 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 11 Nov 2026 16:45:58 +0000"
   },
@@ -2879,7 +2893,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 12 Nov 2026 01:45:58 +0000"
   },
@@ -2893,7 +2907,7 @@
     "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 11 Nov 2026 16:00:36 +0000"
   },
@@ -2907,7 +2921,7 @@
     "summary": "Promo: $5 off $25 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 11 Nov 2026 16:46:23 +0000"
   },
@@ -2921,7 +2935,7 @@
     "summary": "Promo: 10% back, $85 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 11 Nov 2026 19:30:29 +0000"
   },
@@ -3539,7 +3553,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Mon, 28 Sep 2026 20:30:51 +0000"
+    "published": "Thu, 12 Nov 2026 19:25:51 +0000"
   },
   {
     "id": 619,
@@ -3554,6 +3568,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 29 Sep 2026 00:16:07 +0000"
+  },
+  {
+    "id": 609,
+    "source": "Doctor of Credit",
+    "title": "Rakuten: $175 Bonus For Citi Strata Premier Signup",
+    "url": "https://www.doctorofcredit.com/rakuten-100-bonus-for-citi-strata-premier-signup/",
+    "offer_type": "promo",
+    "headline": "$175 Value",
+    "summary": "Promo: $175 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Wed, 11 Nov 2026 09:52:30 +0000"
   },
   {
     "id": 590,
@@ -3710,6 +3738,20 @@
     "published": "Wed, 16 Sep 2026 21:02:41 +0000"
   },
   {
+    "id": 452,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers: Get 10% Back at Lowe’s/Lowes.com ($50 Cashback Max)",
+    "url": "https://www.doctorofcredit.com/chase-offers-ihg-only-get-15-back-at-lowes-50-cashback-max/",
+    "offer_type": "promo",
+    "headline": "10% Back, $50 Value",
+    "summary": "Promo: 10% back, $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Fri, 13 Nov 2026 00:35:51 +0000"
+  },
+  {
     "id": 422,
     "source": "Doctor of Credit",
     "title": "Citi, AmEx, Wells, U.S. Bank Offers: $5 off $15 or 15% Back At CVS",
@@ -3719,7 +3761,7 @@
     "summary": "Promo: $5 off $15 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 11 Nov 2026 16:55:55 +0000"
   },
@@ -3880,7 +3922,7 @@
   {
     "id": 171,
     "source": "Frequent Miler",
-    "title": "(9/28 only) Rakuten American Express card welcome offer increased to $200",
+    "title": "Rakuten American Express card welcome offer increased to $200 (Ends 11/13)",
     "url": "https://frequentmiler.com/rakuten-american-express-card-welcome-offer-increased-to-200-20k-points/",
     "offer_type": "credit_card",
     "headline": "$200 Bonus",
@@ -3889,7 +3931,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Mon, 28 Sep 2026 13:45:16 +0000"
+    "published": "Thu, 12 Nov 2026 22:45:47 +0000"
   },
   {
     "id": 151,
@@ -4018,20 +4060,6 @@
     "published": "Mon, 14 Sep 2026 02:05:23 +0000"
   },
   {
-    "id": 26,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Capital One Offers: Get $20 With Purchase (In Addition To Regular Rewards)",
-    "url": "https://www.doctorofcredit.com/targeted-capital-one-offers-get-20-with-purchase-in-addition-to-regular-rewards/",
-    "offer_type": "promo",
-    "headline": "$20 Value",
-    "summary": "Promo: $20 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 14 Aug 2026 19:09:59 +0000"
-  },
-  {
     "id": 25,
     "source": "Doctor of Credit",
     "title": "Walmart: $10 Off $35+ With Promo Code SAVE3X/FAST30/DOUBLE10/TRIPLE10 (Next 3 Delivery/Pickup Orders)",
@@ -4083,7 +4111,7 @@
     "summary": "Promo: 26,000 bonus points",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 11 Nov 2026 21:45:59 +0000"
   },

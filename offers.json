@@ -1,19 +1,5 @@
 [
   {
-    "id": 1243,
-    "source": "Frequent Miler",
-    "title": "Chase Marriott Bonvoy Boundless Card: Massive 200K welcome offer",
-    "url": "https://frequentmiler.com/chase-marriott-bonvoy-boundless-card-massive-200k-welcome-offer/",
-    "offer_type": "credit_card",
-    "headline": "200,000 Points",
-    "summary": "Credit card offer: 200,000 points",
-    "score": 9.5,
-    "score_label": "Exceptional",
-    "status": "ABOVE NORMAL",
-    "why_it_matters": "This 200,000-point offer is 125,000 points above the card's 75,000-point baseline, a 166.7% increase.",
-    "published": "Fri, 06 Nov 2026 14:45:29 +0000"
-  },
-  {
     "id": 1148,
     "source": "Doctor of Credit",
     "title": "Chase Ultimate Rewards: 80% Transfer Bonus To IHG (1:1.8)",
@@ -56,6 +42,20 @@
     "published": "Wed, 28 Oct 2026 16:27:32 +0000"
   },
   {
+    "id": 650,
+    "source": "Frequent Miler",
+    "title": "IHG One Rewards Premier Select credit card 200K welcome offer (last call)",
+    "url": "https://frequentmiler.com/the-new-ihg-one-rewards-premier-select-credit-card-is-surprisingly-compelling/",
+    "offer_type": "credit_card",
+    "headline": "200,000 Points",
+    "summary": "Credit card offer: 200,000 points",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 13 Nov 2026 16:46:00 +0000"
+  },
+  {
     "id": 401,
     "source": "Frequent Miler",
     "title": "Chase Sapphire Reserve for Business®: Improved 200K welcome offer",
@@ -82,6 +82,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
+  },
+  {
+    "id": 1366,
+    "source": "Frequent Miler",
+    "title": "New Amex Marriott Bonvoy Bevy welcome offer: 150K points + $250 statement credit",
+    "url": "https://frequentmiler.com/new-amex-marriott-bonvoy-bevy-welcome-offer-150k-points-250-statement-credit/",
+    "offer_type": "credit_card",
+    "headline": "150,000 Points",
+    "summary": "Credit card offer: 150,000 points",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 13 Nov 2026 19:45:03 +0000"
   },
   {
     "id": 1229,
@@ -501,7 +515,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": null,
-    "published": "Fri, 11 Sep 2026 15:45:30 +0000"
+    "published": "Fri, 13 Nov 2026 18:46:01 +0000"
   },
   {
     "id": 403,
@@ -1983,7 +1997,7 @@
     "summary": "Promo: $2,000 value",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 12 Nov 2026 19:34:09 +0000"
   },
@@ -1997,7 +2011,7 @@
     "summary": "Credit card offer: $1,000 bonus",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 12 Nov 2026 21:00:37 +0000"
   },
@@ -2868,6 +2882,34 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
+  },
+  {
+    "id": 1361,
+    "source": "Doctor of Credit",
+    "title": "(Update) Amazon Prime Now Offers Uber Eats Benefits + $20 Off Two Uber Eats Orders (Plus 5% Back 11/5-12/5)",
+    "url": "https://www.doctorofcredit.com/amazon-prime-now-offers-uber-eats-benefits-20-off-two-uber-eats-orders/",
+    "offer_type": "promo",
+    "headline": "5% Back, $20 Value",
+    "summary": "Promo: 5% back, $20 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 13 Nov 2026 16:00:37 +0000"
+  },
+  {
+    "id": 1360,
+    "source": "Doctor of Credit",
+    "title": "Uber One Member Days (11/16–12/1): 15% Off Gift Cards, $40 Off $100 at Best Buy, 15% Back On Hotels & More",
+    "url": "https://www.doctorofcredit.com/uber-one-member-days-11-16-12-1-15-off-gift-cards-40-off-100-at-best-buy-15-back-on-hotels-more/",
+    "offer_type": "promo",
+    "headline": "$40 Off $100 Spend",
+    "summary": "Promo: $40 off $100 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 13 Nov 2026 16:15:42 +0000"
   },
   {
     "id": 1343,
@@ -3848,6 +3890,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
+  },
+  {
+    "id": 278,
+    "source": "Doctor of Credit",
+    "title": "Topcashback: Get $2.50 Bonus With $20 Spend (11/13 Only)",
+    "url": "https://www.doctorofcredit.com/topcashback-get-3-bonus-when-you-spend-10-today-only/",
+    "offer_type": "promo",
+    "headline": "$2.50 Value",
+    "summary": "Promo: $2.50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Fri, 13 Nov 2026 15:17:56 +0000"
   },
   {
     "id": 277,

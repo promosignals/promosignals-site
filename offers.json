@@ -51,7 +51,7 @@
     "summary": "Credit card offer: 200,000 points",
     "score": 9.5,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 13 Nov 2026 16:46:00 +0000"
   },
@@ -93,7 +93,7 @@
     "summary": "Credit card offer: 150,000 points",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 13 Nov 2026 19:45:03 +0000"
   },
@@ -1750,20 +1750,6 @@
     "published": "Sun, 13 Sep 2026 14:00:13 +0000"
   },
   {
-    "id": 413,
-    "source": "Frequent Miler",
-    "title": "Earn $450 bonus with a new US Bank checking account",
-    "url": "https://frequentmiler.com/earn-450-bonus-with-a-new-us-bank-checking-account/",
-    "offer_type": "bank",
-    "headline": "$450 Bank Bonus",
-    "summary": "Bank bonus: $450",
-    "score": 7.0,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 11 Sep 2026 20:45:04 +0000"
-  },
-  {
     "id": 343,
     "source": "Doctor of Credit",
     "title": "[WI + IL, In Branch Only] Northshore Bank $500 Business Checking Bonus",
@@ -2646,20 +2632,6 @@
     "published": "Sat, 12 Sep 2026 17:00:09 +0000"
   },
   {
-    "id": 417,
-    "source": "Doctor of Credit",
-    "title": "[MA, ME, NH] Camden National Bank $300 Checking Bonus + $200 Savings Bonus",
-    "url": "https://www.doctorofcredit.com/me-nh-camden-national-bank-300-checking-bonus-2/",
-    "offer_type": "bank",
-    "headline": "$300 Bank Bonus",
-    "summary": "Bank bonus: $300",
-    "score": 6.0,
-    "score_label": "Good",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 12 Sep 2026 19:30:23 +0000"
-  },
-  {
     "id": 361,
     "source": "Doctor of Credit",
     "title": "Live Oak Bank $300 Savings Bonus (New & Existing Customers)",
@@ -2884,6 +2856,20 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1368,
+    "source": "Doctor of Credit",
+    "title": "T. Rowe Price 529 Plan Bonus: Get $250 With $250 Contribution",
+    "url": "https://www.doctorofcredit.com/t-rowe-price-529-plan-bonus-get-250-with-250-contribution/",
+    "offer_type": "promo",
+    "headline": "$250 Value",
+    "summary": "Promo: $250 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 15 Nov 2026 01:51:38 +0000"
+  },
+  {
     "id": 1361,
     "source": "Doctor of Credit",
     "title": "(Update) Amazon Prime Now Offers Uber Eats Benefits + $20 Off Two Uber Eats Orders (Plus 5% Back 11/5-12/5)",
@@ -2893,7 +2879,7 @@
     "summary": "Promo: 5% back, $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 13 Nov 2026 16:00:37 +0000"
   },
@@ -2907,7 +2893,7 @@
     "summary": "Promo: $40 off $100 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 13 Nov 2026 16:15:42 +0000"
   },
@@ -3010,20 +2996,6 @@
     "published": "Sun, 08 Nov 2026 19:35:14 +0000"
   },
   {
-    "id": 1288,
-    "source": "Doctor of Credit",
-    "title": "Target: Purchase $100+ In Qualifying Giftcards, Get $10 Target Giftcard (Disney, Starbucks & More)",
-    "url": "https://www.doctorofcredit.com/target-purchase-100-in-qualifying-giftcards-get-10-target-giftcard-disney-starbucks-more/",
-    "offer_type": "promo",
-    "headline": "$10 Value",
-    "summary": "Promo: $10 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 08 Nov 2026 19:38:21 +0000"
-  },
-  {
     "id": 1287,
     "source": "Doctor of Credit",
     "title": "AmEx/Citi Offers: Get 10% Back On Shell Gas (Max $10)",
@@ -3036,20 +3008,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sun, 08 Nov 2026 19:42:10 +0000"
-  },
-  {
-    "id": 1286,
-    "source": "Doctor of Credit",
-    "title": "Target.com: Get $10 Back With $100 Giftcard Purchase – Starbucks, Apple, Uber, Phone Card, Home Depot, Google, Etc. (11/8-11/14)",
-    "url": "https://www.doctorofcredit.com/target-com-get-10-back-with-100-giftcard-purchase-apple-uber-phone-card-home-depot-google-etc-11-8-11-14/",
-    "offer_type": "promo",
-    "headline": "$10 Value",
-    "summary": "Promo: $10 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sun, 08 Nov 2026 19:48:42 +0000"
   },
   {
     "id": 1284,
@@ -3584,20 +3542,6 @@
     "published": "Mon, 28 Sep 2026 20:30:17 +0000"
   },
   {
-    "id": 620,
-    "source": "Doctor of Credit",
-    "title": "Rakuten American Express Card With Extra Earnings On Rakuten Shopping & Dining + $200 Bonus",
-    "url": "https://www.doctorofcredit.com/new-card-review-rakuten-american-express-card-with-extra-earnings-on-rakuten-shopping-dining/",
-    "offer_type": "credit_card",
-    "headline": "$200 Bonus",
-    "summary": "Credit card offer: $200 bonus",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 12 Nov 2026 19:25:51 +0000"
-  },
-  {
     "id": 619,
     "source": "Doctor of Credit",
     "title": "Whole Foods: $10 Off $50 For New App Users",
@@ -3890,20 +3834,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 02 Sep 2026 18:57:08 +0000"
-  },
-  {
-    "id": 278,
-    "source": "Doctor of Credit",
-    "title": "Topcashback: Get $2.50 Bonus With $20 Spend (11/13 Only)",
-    "url": "https://www.doctorofcredit.com/topcashback-get-3-bonus-when-you-spend-10-today-only/",
-    "offer_type": "promo",
-    "headline": "$2.50 Value",
-    "summary": "Promo: $2.50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 13 Nov 2026 15:17:56 +0000"
   },
   {
     "id": 277,

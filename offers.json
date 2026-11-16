@@ -1845,7 +1845,7 @@
     "score_label": "Very Good",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 02 Sep 2026 00:15:49 +0000"
+    "published": "Sun, 15 Nov 2026 23:30:49 +0000"
   },
   {
     "id": 258,
@@ -2154,6 +2154,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
+  },
+  {
+    "id": 1376,
+    "source": "Doctor of Credit",
+    "title": "[MD, D.C., VA] Lafayette Federal Credit Union $300 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/md-d-c-va-lafayette-federal-credit-union-100-checking-bonus-2/",
+    "offer_type": "bank",
+    "headline": "$300 Bank Bonus",
+    "summary": "Bank bonus: $300",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 15 Nov 2026 23:35:28 +0000"
   },
   {
     "id": 1285,
@@ -2856,6 +2870,20 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1377,
+    "source": "Doctor of Credit",
+    "title": "Shoprite: $25 Off $50+ On Huggies Products",
+    "url": "https://www.doctorofcredit.com/shoprite-25-off-50-on-huggies-products/",
+    "offer_type": "promo",
+    "headline": "$25 Off $50 Spend",
+    "summary": "Promo: $25 off $50 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sun, 15 Nov 2026 19:44:26 +0000"
+  },
+  {
     "id": 1368,
     "source": "Doctor of Credit",
     "title": "T. Rowe Price 529 Plan Bonus: Get $250 With $250 Contribution",
@@ -2865,7 +2893,7 @@
     "summary": "Promo: $250 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 15 Nov 2026 01:51:38 +0000"
   },
@@ -3806,6 +3834,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 04 Sep 2026 20:48:22 +0000"
+  },
+  {
+    "id": 312,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Gemini: Get $30-$760 On Prediction Markets (Requires $250-$20,000 In Trades)",
+    "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
+    "offer_type": "promo",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Sun, 15 Nov 2026 19:35:10 +0000"
   },
   {
     "id": 311,

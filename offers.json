@@ -896,6 +896,34 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 1399,
+    "source": "Frequent Miler",
+    "title": "(Extended) Hyatt Resorts Amex Offer: Get $100 back when spending $500+",
+    "url": "https://frequentmiler.com/hyatt-resorts-amex-offer-get-100-back-when-spending-500/",
+    "offer_type": "amex_offer",
+    "headline": "$100 Back on $500 Spend",
+    "summary": "Amex Offer: spend $500, get $100 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $500 spend requirement.",
+    "published": "Tue, 17 Nov 2026 14:45:55 +0000"
+  },
+  {
+    "id": 1389,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Lowe’s $50 off $250",
+    "url": "https://www.doctorofcredit.com/amex-offers-lowes-50-off-250/",
+    "offer_type": "amex_offer",
+    "headline": "$50 Back on $250 Spend",
+    "summary": "Amex Offer: spend $250, get $50 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
+    "published": "Mon, 16 Nov 2026 21:08:07 +0000"
+  },
+  {
     "id": 1292,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offer: Caesars Entertainment, Spend $200+ & Receive $40 Statement Credit",
@@ -1132,20 +1160,6 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $300 spend requirement.",
     "published": "Mon, 19 Oct 2026 16:44:51 +0000"
-  },
-  {
-    "id": 915,
-    "source": "Doctor of Credit",
-    "title": "AmEx Offers: Walmart.com, Spend $50 & Get $10 Statement Credit (Expires 11/15/26)",
-    "url": "https://www.doctorofcredit.com/amex-offers-walmart-com-spend-50-get-10-statement-credit-expires-11-15-26/",
-    "offer_type": "amex_offer",
-    "headline": "$10 Back on $50 Spend",
-    "summary": "Amex Offer: spend $50, get $10 back",
-    "score": 7.5,
-    "score_label": "Very Good",
-    "status": null,
-    "why_it_matters": "That's an effective 20% rebate when you meet the $50 spend requirement.",
-    "published": "Thu, 15 Oct 2026 18:41:48 +0000"
   },
   {
     "id": 892,
@@ -2156,6 +2170,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1396,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offer: Viator, Spend $300 & Receive $45 Statement Credit",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offer-viator-spend-200-receive-20-statement-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$45 Back on $300 Spend",
+    "summary": "Amex Offer: spend $300, get $45 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 15% rebate when you meet the $300 spend requirement.",
+    "published": "Mon, 16 Nov 2026 19:37:42 +0000"
+  },
+  {
     "id": 1376,
     "source": "Doctor of Credit",
     "title": "[MD, D.C., VA] Lafayette Federal Credit Union $300 Checking Bonus",
@@ -2165,7 +2193,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 15 Nov 2026 23:35:28 +0000"
   },
@@ -2870,6 +2898,76 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1398,
+    "source": "Doctor of Credit",
+    "title": "ClearStreet: Deposit $5,000 & Receive $250 Bonus",
+    "url": "https://www.doctorofcredit.com/clearstreet-deposit-5000-receive-250-bonus/",
+    "offer_type": "promo",
+    "headline": "$250 Value",
+    "summary": "Promo: $250 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 16 Nov 2026 16:00:20 +0000"
+  },
+  {
+    "id": 1397,
+    "source": "Doctor of Credit",
+    "title": "Chase Sapphire Reserve: Spend $250+ On Simplisafe, Get $250 Back",
+    "url": "https://www.doctorofcredit.com/chase-sapphire-reserve-spend-250-on-simplisafe-get-250-back/",
+    "offer_type": "promo",
+    "headline": "$250 Value",
+    "summary": "Promo: $250 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 16 Nov 2026 17:00:22 +0000"
+  },
+  {
+    "id": 1394,
+    "source": "Doctor of Credit",
+    "title": "Chipotle: Purchase $50 Giftcard, Get $10 Promotional Code (11/27-11/30)",
+    "url": "https://www.doctorofcredit.com/chipotle-purchase-50-giftcard-get-10-promotional-code-11-27-11-30/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 16 Nov 2026 20:09:52 +0000"
+  },
+  {
+    "id": 1391,
+    "source": "Doctor of Credit",
+    "title": "Amazon Prime: Get $10 Off $20+ Grocery Order (Promo Code: HOLIDAY)",
+    "url": "https://www.doctorofcredit.com/amazon-prime-get-10-off-20-grocery-order-promo-code-holiday/",
+    "offer_type": "promo",
+    "headline": "$10 Off $20 Spend",
+    "summary": "Promo: $10 off $20 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 16 Nov 2026 20:44:58 +0000"
+  },
+  {
+    "id": 1386,
+    "source": "Doctor of Credit",
+    "title": "Giftcards.com: $10 Bonus Giftcard With $100+ Virtual Visa eGiftcard Purchase With Code EARLYVISA",
+    "url": "https://www.doctorofcredit.com/giftcards-com-10-bonus-giftcard-with-100-virtual-visa-egiftcard-purchase-with-code-earlyvisa/",
+    "offer_type": "promo",
+    "headline": "$10 Value",
+    "summary": "Promo: $10 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 16 Nov 2026 23:19:48 +0000"
+  },
+  {
     "id": 1377,
     "source": "Doctor of Credit",
     "title": "Shoprite: $25 Off $50+ On Huggies Products",
@@ -2879,7 +2977,7 @@
     "summary": "Promo: $25 off $50 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 15 Nov 2026 19:44:26 +0000"
   },
@@ -3290,20 +3388,6 @@
     "published": "Wed, 21 Oct 2026 13:45:56 +0000"
   },
   {
-    "id": 992,
-    "source": "Doctor of Credit",
-    "title": "Paze: Stubhub $20 Off $150 (Stack With 10x Deal + $150 CSR Credit)",
-    "url": "https://www.doctorofcredit.com/paze-stubhub-20-off-150-stack-with-10x-deal-150-csr-credit/",
-    "offer_type": "promo",
-    "headline": "$20 Off $150 Spend",
-    "summary": "Promo: $20 off $150 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 20 Oct 2026 19:41:17 +0000"
-  },
-  {
     "id": 991,
     "source": "Doctor of Credit",
     "title": "[Targeted] Chase Amazon Card Spend Bonus: Get $75/$100 With $500/$750 Spend",
@@ -3511,7 +3595,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Tue, 06 Oct 2026 04:01:22 +0000"
+    "published": "Mon, 16 Nov 2026 21:13:22 +0000"
   },
   {
     "id": 695,

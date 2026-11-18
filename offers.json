@@ -1,5 +1,19 @@
 [
   {
+    "id": 1413,
+    "source": "Doctor of Credit",
+    "title": "(Update) American Express Business Platinum 300,000 Points Signup Bonus",
+    "url": "https://www.doctorofcredit.com/targeted-american-express-business-platinum-300000-points-signup-bonus/",
+    "offer_type": "credit_card",
+    "headline": "300,000 Points",
+    "summary": "Credit card offer: 300,000 points",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 17 Nov 2026 16:00:06 +0000"
+  },
+  {
     "id": 1148,
     "source": "Doctor of Credit",
     "title": "Chase Ultimate Rewards: 80% Transfer Bonus To IHG (1:1.8)",
@@ -82,6 +96,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
+  },
+  {
+    "id": 1410,
+    "source": "Doctor of Credit",
+    "title": "Chase Ultimate Rewards: 40% Transfer Bonus To Virgin Atlantic (1:1.4)",
+    "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-40-transfer-bonus-to-virgin-atlantic-11-4-4/",
+    "offer_type": "transfer",
+    "headline": "40% Transfer Bonus",
+    "summary": "Transfer bonus: 40%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 17 Nov 2026 20:06:47 +0000"
   },
   {
     "id": 1366,
@@ -896,6 +924,20 @@
     "published": "Sun, 23 Aug 2026 23:00:34 +0000"
   },
   {
+    "id": 1409,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Select Hyatt Properties, Spend $500 & Get $100 Back",
+    "url": "https://www.doctorofcredit.com/amex-offers-select-hyatt-properties-spend-300-get-75-back/",
+    "offer_type": "amex_offer",
+    "headline": "$100 Back on $500 Spend",
+    "summary": "Amex Offer: spend $500, get $100 back",
+    "score": 7.5,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 20% rebate when you meet the $500 spend requirement.",
+    "published": "Tue, 17 Nov 2026 20:11:28 +0000"
+  },
+  {
     "id": 1399,
     "source": "Frequent Miler",
     "title": "(Extended) Hyatt Resorts Amex Offer: Get $100 back when spending $500+",
@@ -905,7 +947,7 @@
     "summary": "Amex Offer: spend $500, get $100 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $500 spend requirement.",
     "published": "Tue, 17 Nov 2026 14:45:55 +0000"
   },
@@ -919,7 +961,7 @@
     "summary": "Amex Offer: spend $250, get $50 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $250 spend requirement.",
     "published": "Mon, 16 Nov 2026 21:08:07 +0000"
   },
@@ -2170,6 +2212,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1418,
+    "source": "Frequent Miler",
+    "title": "Viator Amex Offer: Spend $300 & get $30 back",
+    "url": "https://frequentmiler.com/viator-amex-offer-spend-300-get-30-back-earn-up-to-two-times/",
+    "offer_type": "amex_offer",
+    "headline": "$30 Back on $300 Spend",
+    "summary": "Amex Offer: spend $300, get $30 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 10% rebate when you meet the $300 spend requirement.",
+    "published": "Tue, 17 Nov 2026 18:45:13 +0000"
+  },
+  {
     "id": 1396,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offer: Viator, Spend $300 & Receive $45 Statement Credit",
@@ -2179,7 +2235,7 @@
     "summary": "Amex Offer: spend $300, get $45 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 15% rebate when you meet the $300 spend requirement.",
     "published": "Mon, 16 Nov 2026 19:37:42 +0000"
   },
@@ -2898,18 +2954,32 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
-    "id": 1398,
-    "source": "Doctor of Credit",
-    "title": "ClearStreet: Deposit $5,000 & Receive $250 Bonus",
-    "url": "https://www.doctorofcredit.com/clearstreet-deposit-5000-receive-250-bonus/",
+    "id": 1420,
+    "source": "Frequent Miler",
+    "title": "Turkish Airlines Chase Offer: Get $50 back when spending $1,000",
+    "url": "https://frequentmiler.com/turkish-airlines-chase-offer-get-50-back-when-spending-1000/",
     "offer_type": "promo",
-    "headline": "$250 Value",
-    "summary": "Promo: $250 value",
+    "headline": "$50 Value",
+    "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
     "status": "NEW",
     "why_it_matters": null,
-    "published": "Mon, 16 Nov 2026 16:00:20 +0000"
+    "published": "Tue, 17 Nov 2026 16:45:10 +0000"
+  },
+  {
+    "id": 1408,
+    "source": "Doctor of Credit",
+    "title": "Amazon: Shop Via Text & Get $5 Off",
+    "url": "https://www.doctorofcredit.com/amazon-shop-via-text-get-5-off/",
+    "offer_type": "promo",
+    "headline": "$5 Value",
+    "summary": "Promo: $5 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 17 Nov 2026 20:32:21 +0000"
   },
   {
     "id": 1397,
@@ -2921,7 +2991,7 @@
     "summary": "Promo: $250 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 16 Nov 2026 17:00:22 +0000"
   },
@@ -2935,7 +3005,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 16 Nov 2026 20:09:52 +0000"
   },
@@ -2949,7 +3019,7 @@
     "summary": "Promo: $10 off $20 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 16 Nov 2026 20:44:58 +0000"
   },
@@ -2963,7 +3033,7 @@
     "summary": "Promo: $10 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 16 Nov 2026 23:19:48 +0000"
   },
@@ -3948,6 +4018,20 @@
     "published": "Sat, 05 Sep 2026 12:00:10 +0000"
   },
   {
+    "id": 300,
+    "source": "Doctor of Credit",
+    "title": "ShopBack Shopping Portal $20 Signup Bonus & More Deals (Deal Roundup)",
+    "url": "https://www.doctorofcredit.com/shopback-shopping-portal-20-signup-bonus-earn-cashback-on-amazon-ubereats-more/",
+    "offer_type": "promo",
+    "headline": "$20 Value",
+    "summary": "Promo: $20 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 17 Nov 2026 23:10:39 +0000"
+  },
+  {
     "id": 283,
     "source": "Doctor of Credit",
     "title": "U.S. Bank Smartly Card: Get $10 + $5 Off Uber Rides (9/13-12/31)",
@@ -4030,20 +4114,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 27 Aug 2026 21:27:52 +0000"
-  },
-  {
-    "id": 171,
-    "source": "Frequent Miler",
-    "title": "Rakuten American Express card welcome offer increased to $200 (Ends 11/13)",
-    "url": "https://frequentmiler.com/rakuten-american-express-card-welcome-offer-increased-to-200-20k-points/",
-    "offer_type": "credit_card",
-    "headline": "$200 Bonus",
-    "summary": "Credit card offer: $200 bonus",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 12 Nov 2026 22:45:47 +0000"
   },
   {
     "id": 151,
@@ -4212,6 +4282,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 1407,
+    "source": "Doctor of Credit",
+    "title": "Alliant Credit Union $200 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/rakuten-alliant-credit-union-100-10000-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$200 Bank Bonus",
+    "summary": "Bank bonus: $200",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 17 Nov 2026 22:25:06 +0000"
   },
   {
     "id": 1338,

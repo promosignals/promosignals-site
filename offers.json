@@ -1,5 +1,19 @@
 [
   {
+    "id": 1439,
+    "source": "Frequent Miler",
+    "title": "Targeted 300K Amex Business Platinum® welcome offer with No Lifetime Language",
+    "url": "https://frequentmiler.com/targeted-300k-amex-business-platinum-welcome-offer-with-no-lifetime-language/",
+    "offer_type": "credit_card",
+    "headline": "300,000 Points",
+    "summary": "Credit card offer: 300,000 points",
+    "score": 9.5,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 18 Nov 2026 19:45:21 +0000"
+  },
+  {
     "id": 1413,
     "source": "Doctor of Credit",
     "title": "(Update) American Express Business Platinum 300,000 Points Signup Bonus",
@@ -9,7 +23,7 @@
     "summary": "Credit card offer: 300,000 points",
     "score": 9.5,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 17 Nov 2026 16:00:06 +0000"
   },
@@ -107,7 +121,7 @@
     "summary": "Transfer bonus: 40%",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 17 Nov 2026 20:06:47 +0000"
   },
@@ -194,6 +208,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
+  },
+  {
+    "id": 1431,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] AmEx Offers: Mcdonald’s App, Spend $15 & Get $5 Back (3x)",
+    "url": "https://www.doctorofcredit.com/targeted-amex-offers-mcdonalds-app-spend-15-get-5-back-2x/",
+    "offer_type": "amex_offer",
+    "headline": "$5 Back on $15 Spend",
+    "summary": "Amex Offer: spend $15, get $5 back",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 33.3% rebate when you meet the $15 spend requirement.",
+    "published": "Wed, 18 Nov 2026 18:00:16 +0000"
   },
   {
     "id": 1314,
@@ -644,6 +672,20 @@
     "published": "Tue, 29 Sep 2026 00:20:12 +0000"
   },
   {
+    "id": 1433,
+    "source": "Frequent Miler",
+    "title": "Atmos Business Card: 90K welcome offer, higher annual fee, and no companion fare",
+    "url": "https://frequentmiler.com/atmos-business-card-90k-welcome-offer-higher-annual-fee-and-no-companion-fare/",
+    "offer_type": "credit_card",
+    "headline": "90,000 Points",
+    "summary": "Credit card offer: 90,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Thu, 19 Nov 2026 14:45:07 +0000"
+  },
+  {
     "id": 1200,
     "source": "Doctor of Credit",
     "title": "Capital One Adds Copa As 2:1.5 Transfer Partner – Launches With 30% Transfer Bonus",
@@ -933,7 +975,7 @@
     "summary": "Amex Offer: spend $500, get $100 back",
     "score": 7.5,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $500 spend requirement.",
     "published": "Tue, 17 Nov 2026 20:11:28 +0000"
   },
@@ -2212,6 +2254,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1430,
+    "source": "Doctor of Credit",
+    "title": "[11/18] BestBuy.com: Buy $100 Amazon, Home Depot, Etc. & Get $10 Bonus Giftcard (Stack With Amex Offer or Citi Credit)",
+    "url": "https://www.doctorofcredit.com/11-18-bestbuy-com-buy-100-amazon-home-depot-etc-get-10-bonus-giftcard-stack-with-amex-offer-or-citi-credit/",
+    "offer_type": "amex_offer",
+    "headline": "$10 Back on $100 Spend",
+    "summary": "Amex Offer: spend $100, get $10 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 10% rebate when you meet the $100 spend requirement.",
+    "published": "Wed, 18 Nov 2026 18:05:40 +0000"
+  },
+  {
     "id": 1418,
     "source": "Frequent Miler",
     "title": "Viator Amex Offer: Spend $300 & get $30 back",
@@ -2221,7 +2277,7 @@
     "summary": "Amex Offer: spend $300, get $30 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 10% rebate when you meet the $300 spend requirement.",
     "published": "Tue, 17 Nov 2026 18:45:13 +0000"
   },
@@ -2954,6 +3010,34 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1427,
+    "source": "Doctor of Credit",
+    "title": "Target.com: Buy $100 Apple Giftcard & Get $15 Target Giftcard Bonus (11/22 – 11/28)",
+    "url": "https://www.doctorofcredit.com/target-com-buy-100-apple-giftcard-get-15-target-giftcard-bonus-11-22-11-28/",
+    "offer_type": "promo",
+    "headline": "$15 Value",
+    "summary": "Promo: $15 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 18 Nov 2026 20:11:14 +0000"
+  },
+  {
+    "id": 1425,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] AAA Members: $80 Off $200+ On Select Giftcards, Amusement Parks, Movie & Event Tickets",
+    "url": "https://www.doctorofcredit.com/ymmv-aaa-members-80-off-200-on-select-giftcards-amusement-parks-movie-event-tickets/",
+    "offer_type": "promo",
+    "headline": "$80 Off $200 Spend",
+    "summary": "Promo: $80 off $200 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 18 Nov 2026 21:12:40 +0000"
+  },
+  {
     "id": 1420,
     "source": "Frequent Miler",
     "title": "Turkish Airlines Chase Offer: Get $50 back when spending $1,000",
@@ -2963,7 +3047,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 17 Nov 2026 16:45:10 +0000"
   },
@@ -2977,7 +3061,7 @@
     "summary": "Promo: $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 17 Nov 2026 20:32:21 +0000"
   },
@@ -4027,7 +4111,7 @@
     "summary": "Promo: $20 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 17 Nov 2026 23:10:39 +0000"
   },
@@ -4293,7 +4377,7 @@
     "summary": "Bank bonus: $200",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 17 Nov 2026 22:25:06 +0000"
   },

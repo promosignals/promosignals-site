@@ -378,20 +378,6 @@
     "published": "Wed, 21 Oct 2026 15:45:42 +0000"
   },
   {
-    "id": 941,
-    "source": "Frequent Miler",
-    "title": "Walmart.com Amex Offer: Save $10 on $50 in purchases",
-    "url": "https://frequentmiler.com/walmart-com-amex-offer-save-10-on-50-in-purchases/",
-    "offer_type": "amex_offer",
-    "headline": "$10 value",
-    "summary": "Amex Offer: $10 value",
-    "score": 8.5,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Fri, 16 Oct 2026 16:45:04 +0000"
-  },
-  {
     "id": 920,
     "source": "Frequent Miler",
     "title": "Bank of America Business Checking: Up to a $2500 bonus (no direct deposit required)",
@@ -602,20 +588,6 @@
     "published": "Thu, 03 Sep 2026 19:30:01 +0000"
   },
   {
-    "id": 270,
-    "source": "Frequent Miler",
-    "title": "Small Luxury Hotels of the World (SLH) Amex Offer: Get $100 back on $300 spend",
-    "url": "https://frequentmiler.com/small-luxury-hotels-of-the-world-slh-amex-offer-get-100-back-on-300-spend/",
-    "offer_type": "amex_offer",
-    "headline": "$100 Back on $300 Spend",
-    "summary": "Amex Offer: spend $300, get $100 back",
-    "score": 8.5,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": "That's an effective 33.3% rebate when you meet the $300 spend requirement.",
-    "published": "Tue, 01 Sep 2026 23:45:57 +0000"
-  },
-  {
     "id": 262,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Sling TV, Spend $19.95+ & Receive $15 Statement Credit (Limit 2) + 45x On Rakuten",
@@ -810,20 +782,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 22 Oct 2026 19:45:43 +0000"
-  },
-  {
-    "id": 1017,
-    "source": "Frequent Miler",
-    "title": "Get a 30% transfer bonus from Capital One to Virgin Atlantic",
-    "url": "https://frequentmiler.com/30-percent-transfer-bonus-capital-one-virgin-atlantic/",
-    "offer_type": "transfer",
-    "headline": "30% Transfer Bonus",
-    "summary": "Transfer bonus: 30%",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 21 Oct 2026 16:45:47 +0000"
   },
   {
     "id": 1005,
@@ -2968,6 +2926,20 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1466,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] PayPal: Earn 15% Back On Food Delivery (Up To $15)",
+    "url": "https://www.doctorofcredit.com/ymmv-paypal-earn-15-back-on-food-delivery-up-to-15/",
+    "offer_type": "promo",
+    "headline": "15% Back, $15 Value",
+    "summary": "Promo: 15% back, $15 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 20 Nov 2026 18:30:16 +0000"
+  },
+  {
     "id": 1458,
     "source": "Frequent Miler",
     "title": "T-Mobile Chase Offer: Get up to $50 back on wireless payments",
@@ -2977,7 +2949,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 19 Nov 2026 19:45:16 +0000"
   },
@@ -2991,7 +2963,7 @@
     "summary": "Promo: $5 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 19 Nov 2026 20:19:19 +0000"
   },
@@ -3005,7 +2977,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Thu, 19 Nov 2026 21:10:55 +0000"
   },
@@ -3528,20 +3500,6 @@
     "published": "Thu, 22 Oct 2026 15:55:43 +0000"
   },
   {
-    "id": 997,
-    "source": "Frequent Miler",
-    "title": "StubHub promo: Get $20 off $150+ when paying with Paze (stack with StubHub credit + 10X offer)",
-    "url": "https://frequentmiler.com/stubhub-promo-get-20-off-150-when-paying-with-paze-stack-with-stubhub-credit-10x-offer/",
-    "offer_type": "promo",
-    "headline": "$20 Off $150 Spend",
-    "summary": "Promo: $20 off $150 spend",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 21 Oct 2026 13:45:56 +0000"
-  },
-  {
     "id": 991,
     "source": "Doctor of Credit",
     "title": "[Targeted] Chase Amazon Card Spend Bonus: Get $75/$100 With $500/$750 Spend",
@@ -3764,6 +3722,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 03 Oct 2026 21:26:55 +0000"
+  },
+  {
+    "id": 678,
+    "source": "Doctor of Credit",
+    "title": "Citi Offers: $10 Off $200 At Best Buy (Limit 2)",
+    "url": "https://www.doctorofcredit.com/citi-offers-15-off-150-at-best-buy-limit-2/",
+    "offer_type": "promo",
+    "headline": "$10 Off $200 Spend",
+    "summary": "Promo: $10 off $200 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Fri, 20 Nov 2026 19:00:16 +0000"
   },
   {
     "id": 654,

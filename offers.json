@@ -350,20 +350,6 @@
     "published": "Fri, 23 Oct 2026 17:45:32 +0000"
   },
   {
-    "id": 1019,
-    "source": "Doctor of Credit",
-    "title": "[MA, NH, ME, RI] Eastern Bank $750 Checking/Savings Bonus",
-    "url": "https://www.doctorofcredit.com/ma-nh-me-ri-eastern-bank-750-checking-savings-bonus/",
-    "offer_type": "bank",
-    "headline": "$750 Bank Bonus",
-    "summary": "Bank bonus: $750",
-    "score": 8.5,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 22 Oct 2026 18:00:23 +0000"
-  },
-  {
     "id": 1010,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Grubhub, Spend $20 & Get $6 Back (Can Be Done Twice)",
@@ -782,20 +768,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 22 Oct 2026 19:45:43 +0000"
-  },
-  {
-    "id": 1005,
-    "source": "Doctor of Credit",
-    "title": "Capital One Transfer Bonus: 30% Virgin Red/Virgin Atlantic",
-    "url": "https://www.doctorofcredit.com/capital-one-transfer-bonus-30-virgin-red-virgin-atlantic/",
-    "offer_type": "transfer",
-    "headline": "30% Transfer Bonus",
-    "summary": "Transfer bonus: 30%",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 21 Oct 2026 23:27:20 +0000"
   },
   {
     "id": 999,
@@ -1314,6 +1286,20 @@
     "status": null,
     "why_it_matters": "That's an effective 20% rebate when you meet the $1,000 spend requirement.",
     "published": "Sun, 01 Nov 2026 15:45:40 +0000"
+  },
+  {
+    "id": 1477,
+    "source": "Doctor of Credit",
+    "title": "[CA Only] Heritage Community Credit Union $500 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/ca-only-heritage-community-credit-union-500-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$500 Bank Bonus",
+    "summary": "Bank bonus: $500",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Sat, 21 Nov 2026 17:00:27 +0000"
   },
   {
     "id": 1329,
@@ -2926,6 +2912,20 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 50,
+    "source": "Doctor of Credit",
+    "title": "7-Eleven 7NOW App Promo Codes: $25 off $50+,  FRIENDS",
+    "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
+    "offer_type": "promo",
+    "headline": "$25 Off $50 Spend",
+    "summary": "Promo: $25 off $50 spend",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Sat, 21 Nov 2026 21:15:41 +0000"
+  },
+  {
     "id": 1466,
     "source": "Doctor of Credit",
     "title": "[YMMV] PayPal: Earn 15% Back On Food Delivery (Up To $15)",
@@ -2935,7 +2935,7 @@
     "summary": "Promo: 15% back, $15 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 20 Nov 2026 18:30:16 +0000"
   },
@@ -2966,20 +2966,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 19 Nov 2026 20:19:19 +0000"
-  },
-  {
-    "id": 1447,
-    "source": "Doctor of Credit",
-    "title": "Target Circle: $10 Back With $100 Spend, Up to $50 Back (11/19-11/21)",
-    "url": "https://www.doctorofcredit.com/target-circle-10-back-with-100-spend-up-to-50-back-11-19-11-21/",
-    "offer_type": "promo",
-    "headline": "$50 Value",
-    "summary": "Promo: $50 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 19 Nov 2026 21:10:55 +0000"
   },
   {
     "id": 1427,
@@ -3498,20 +3484,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Thu, 22 Oct 2026 15:55:43 +0000"
-  },
-  {
-    "id": 991,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Chase Amazon Card Spend Bonus: Get $75/$100 With $500/$750 Spend",
-    "url": "https://www.doctorofcredit.com/chase-amazon-card-spend-bonus-get-75-100-with-500-750-spend/",
-    "offer_type": "promo",
-    "headline": "$75 Value",
-    "summary": "Promo: $75 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 20 Oct 2026 19:54:27 +0000"
   },
   {
     "id": 985,

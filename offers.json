@@ -196,6 +196,20 @@
     "published": "Tue, 01 Sep 2026 10:00:21 +0000"
   },
   {
+    "id": 1510,
+    "source": "Frequent Miler",
+    "title": "Walmart.com Amex Offer: Save $20 on $60 in purchases",
+    "url": "https://frequentmiler.com/walmart-com-amex-offer-save-20-on-60-in-purchases/",
+    "offer_type": "amex_offer",
+    "headline": "$20 value",
+    "summary": "Amex Offer: $20 value",
+    "score": 8.5,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 23 Nov 2026 18:05:56 +0000"
+  },
+  {
     "id": 1431,
     "source": "Doctor of Credit",
     "title": "[Targeted] AmEx Offers: Mcdonald’s App, Spend $15 & Get $5 Back (3x)",
@@ -798,6 +812,20 @@
     "published": "Thu, 22 Oct 2026 16:15:01 +0000"
   },
   {
+    "id": 820,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Happen Bank (Formerly LendingClub) Level Up $400 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/targeted-lendingclub-level-up-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Tue, 24 Nov 2026 15:00:32 +0000"
+  },
+  {
     "id": 711,
     "source": "Doctor of Credit",
     "title": "Staples: 100% Back In Points On Command Purchases Up To $40",
@@ -1297,7 +1325,7 @@
     "summary": "Bank bonus: $500",
     "score": 7.0,
     "score_label": "Very Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 01:48:48 +0000"
   },
@@ -2011,7 +2039,7 @@
     "summary": "Promo: 5% back, $1,000 value",
     "score": 6.5,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 12:00:49 +0000"
   },
@@ -2198,6 +2226,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1496,
+    "source": "Doctor of Credit",
+    "title": "AmEx Offers: Shoprite, Spend $85, Get $10 Back",
+    "url": "https://www.doctorofcredit.com/amex-offers-shoprite-spend-85-get-10-back/",
+    "offer_type": "amex_offer",
+    "headline": "$10 Back on $85 Spend",
+    "summary": "Amex Offer: spend $85, get $10 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 11.8% rebate when you meet the $85 spend requirement.",
+    "published": "Tue, 24 Nov 2026 00:40:44 +0000"
+  },
+  {
     "id": 1483,
     "source": "Doctor of Credit",
     "title": "[CA only] KeyPoint Credit Union $300 Checking Bonus",
@@ -2207,7 +2249,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 02:10:41 +0000"
   },
@@ -2221,7 +2263,7 @@
     "summary": "Bank bonus: $300",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 15:00:03 +0000"
   },
@@ -2940,20 +2982,6 @@
     "published": "Thu, 15 Oct 2026 19:27:58 +0000"
   },
   {
-    "id": 481,
-    "source": "Doctor of Credit",
-    "title": "UberEats: Promo Codes, Discounts & Other Savings: $11.25 off $18+",
-    "url": "https://www.doctorofcredit.com/ubereats-promo-codes-discounts-other-savings/",
-    "offer_type": "promo",
-    "headline": "$11.25 Off $18 Spend",
-    "summary": "Promo: $11.25 off $18 spend",
-    "score": 5.5,
-    "score_label": "Standard",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Sun, 22 Nov 2026 23:40:06 +0000"
-  },
-  {
     "id": 394,
     "source": "Doctor of Credit",
     "title": "[Targeted] AA SimplyMiles: Spend $65 On AT&T Wireless & Earn 2,325 Miles",
@@ -2982,16 +3010,72 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 1507,
+    "source": "Frequent Miler",
+    "title": "BeFrugal: Get a $40 welcome bonus after earning $10 cashback",
+    "url": "https://frequentmiler.com/befrugal-40-welcome-bonus-after-earning-10-cashback/",
+    "offer_type": "promo",
+    "headline": "$40 Value",
+    "summary": "Promo: $40 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 23 Nov 2026 21:45:19 +0000"
+  },
+  {
+    "id": 1502,
+    "source": "Frequent Miler",
+    "title": "Newegg: Buy $500 Southwest gift card & get $50 Southwest gift card free",
+    "url": "https://frequentmiler.com/newegg-southwest-gift-card-deal/",
+    "offer_type": "promo",
+    "headline": "$50 Value",
+    "summary": "Promo: $50 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 24 Nov 2026 13:45:32 +0000"
+  },
+  {
+    "id": 1499,
+    "source": "Doctor of Credit",
+    "title": "[Nationwide] Skyla Credit Union Visa Signature: $250 Signup Bonus + 4% Cashback On All Purchases (11/22-12/5)",
+    "url": "https://www.doctorofcredit.com/nationwide-skyla-credit-union-visa-signature-250-bonus-4-cashback-on-all-purchases-11-22-12-5/",
+    "offer_type": "credit_card",
+    "headline": "$250 Bonus",
+    "summary": "Credit card offer: $250 bonus",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 23 Nov 2026 20:01:10 +0000"
+  },
+  {
+    "id": 1498,
+    "source": "Doctor of Credit",
+    "title": "(Targeted) Paypal Rewards: Get 25% Back On Purchases With Pay-in-4, Up To $25 Back (11/23-12/6)",
+    "url": "https://www.doctorofcredit.com/targeted-paypal-rewards-get-25-back-on-purchases-with-pay-in-4-up-to-25-back-11-23-12-6/",
+    "offer_type": "promo",
+    "headline": "25% Back, $25 Value",
+    "summary": "Promo: 25% back, $25 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 23 Nov 2026 20:34:07 +0000"
+  },
+  {
     "id": 1488,
     "source": "Doctor of Credit",
-    "title": "Chase/U.S. Bank Offers: Get 5-7% Back At Food Lion (Up To $5/$7 Back)",
+    "title": "Amex/Chase/U.S. Bank Offers: Get 5-7% Back At Food Lion (Up To $5/$7 Back)",
     "url": "https://www.doctorofcredit.com/citi-offers-get-3-back-at-food-lion/",
     "offer_type": "promo",
     "headline": "7% Back, $7 Value",
     "summary": "Promo: 7% back, $7 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Sun, 22 Nov 2026 16:25:18 +0000"
   },
@@ -3024,6 +3108,20 @@
     "published": "Thu, 19 Nov 2026 19:45:16 +0000"
   },
   {
+    "id": 1455,
+    "source": "Frequent Miler",
+    "title": "Rakuten offering up to $175 cashback or 17,500 Bilt points for for Citi cards",
+    "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/",
+    "offer_type": "promo",
+    "headline": "$175 Value",
+    "summary": "Promo: $175 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Mon, 23 Nov 2026 22:45:14 +0000"
+  },
+  {
     "id": 1449,
     "source": "Doctor of Credit",
     "title": "Citi Offers: Chipotle, Spend $20, Get $5 Back",
@@ -3049,7 +3147,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 18 Nov 2026 20:11:14 +0000"
+    "published": "Mon, 23 Nov 2026 23:30:14 +0000"
   },
   {
     "id": 1425,
@@ -3572,16 +3670,16 @@
   {
     "id": 964,
     "source": "Doctor of Credit",
-    "title": "BeFrugal: Spend $20, Receive $4 Bonus",
+    "title": "BeFrugal: Spend $15, Receive $3 Bonus",
     "url": "https://www.doctorofcredit.com/befrugal-spend-15-receive-3-bonus/",
     "offer_type": "promo",
-    "headline": "$4 Value",
-    "summary": "Promo: $4 value",
+    "headline": "$3 Value",
+    "summary": "Promo: $3 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Thu, 05 Nov 2026 21:27:45 +0000"
+    "published": "Mon, 23 Nov 2026 19:51:45 +0000"
   },
   {
     "id": 937,
@@ -3988,6 +4086,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 18 Sep 2026 18:45:06 +0000"
+  },
+  {
+    "id": 481,
+    "source": "Doctor of Credit",
+    "title": "UberEats: Promo Codes, Discounts & Other Savings: $11.25 off $18+",
+    "url": "https://www.doctorofcredit.com/ubereats-promo-codes-discounts-other-savings/",
+    "offer_type": "promo",
+    "headline": "$11.25 Off $18 Spend",
+    "summary": "Promo: $11.25 off $18 spend",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Sun, 22 Nov 2026 23:40:06 +0000"
   },
   {
     "id": 478,

@@ -205,7 +205,7 @@
     "summary": "Amex Offer: $20 value",
     "score": 8.5,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 18:05:56 +0000"
   },
@@ -352,7 +352,7 @@
   {
     "id": 1039,
     "source": "Frequent Miler",
-    "title": "Marriott Amex Offer: Spend $375, get $150 back (targeted)",
+    "title": "(Extended) Marriott Amex Offer: Spend $375, get $150 back (targeted)",
     "url": "https://frequentmiler.com/marriott-amex-offer-spend-375-get-150-back-targeted/",
     "offer_type": "amex_offer",
     "headline": "$150 Back on $375 Spend",
@@ -361,7 +361,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": "That's an effective 40% rebate when you meet the $375 spend requirement.",
-    "published": "Fri, 23 Oct 2026 17:45:32 +0000"
+    "published": "Wed, 25 Nov 2026 00:45:58 +0000"
   },
   {
     "id": 1010,
@@ -812,20 +812,6 @@
     "published": "Thu, 22 Oct 2026 16:15:01 +0000"
   },
   {
-    "id": 820,
-    "source": "Doctor of Credit",
-    "title": "[Targeted] Happen Bank (Formerly LendingClub) Level Up $400 Checking Bonus",
-    "url": "https://www.doctorofcredit.com/targeted-lendingclub-level-up-200-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$400 Bank Bonus",
-    "summary": "Bank bonus: $400",
-    "score": 8.0,
-    "score_label": "Excellent",
-    "status": "IMPROVED",
-    "why_it_matters": null,
-    "published": "Tue, 24 Nov 2026 15:00:32 +0000"
-  },
-  {
     "id": 711,
     "source": "Doctor of Credit",
     "title": "Staples: 100% Back In Points On Command Purchases Up To $40",
@@ -870,7 +856,7 @@
   {
     "id": 387,
     "source": "Frequent Miler",
-    "title": "New Capital One Venture Rewards welcome offer: 75K miles + $300 stays credit",
+    "title": "(Ending soon) New Capital One Venture Rewards welcome offer: 75K miles + $300 stays credit",
     "url": "https://frequentmiler.com/new-capital-one-venture-rewards-welcome-offer-75k-miles-300-stays-credit/",
     "offer_type": "credit_card",
     "headline": "75,000 Points",
@@ -879,7 +865,7 @@
     "score_label": "Excellent",
     "status": null,
     "why_it_matters": null,
-    "published": "Wed, 09 Sep 2026 18:45:36 +0000"
+    "published": "Tue, 24 Nov 2026 19:46:44 +0000"
   },
   {
     "id": 309,
@@ -1652,6 +1638,20 @@
     "published": "Sat, 10 Oct 2026 20:55:59 +0000"
   },
   {
+    "id": 820,
+    "source": "Doctor of Credit",
+    "title": "[Targeted] Happen Bank (Formerly LendingClub) Level Up $400 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/targeted-lendingclub-level-up-200-checking-bonus/",
+    "offer_type": "bank",
+    "headline": "$400 Bank Bonus",
+    "summary": "Bank bonus: $400",
+    "score": 7.0,
+    "score_label": "Very Good",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 24 Nov 2026 15:00:32 +0000"
+  },
+  {
     "id": 703,
     "source": "Doctor of Credit",
     "title": "[Targeted, AL, FL, GA, SC & TN] Synovus Bank $600 Checking Account Bonus",
@@ -2235,7 +2235,7 @@
     "summary": "Amex Offer: spend $85, get $10 back",
     "score": 6.0,
     "score_label": "Good",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": "That's an effective 11.8% rebate when you meet the $85 spend requirement.",
     "published": "Tue, 24 Nov 2026 00:40:44 +0000"
   },
@@ -3010,6 +3010,34 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
+    "id": 300,
+    "source": "Doctor of Credit",
+    "title": "ShopBack Shopping Portal $30 Signup Bonus & More Deals",
+    "url": "https://www.doctorofcredit.com/shopback-shopping-portal-20-signup-bonus-earn-cashback-on-amazon-ubereats-more/",
+    "offer_type": "promo",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
+    "score": 5.5,
+    "score_label": "Standard",
+    "status": "IMPROVED",
+    "why_it_matters": null,
+    "published": "Tue, 24 Nov 2026 17:15:39 +0000"
+  },
+  {
+    "id": 1514,
+    "source": "Doctor of Credit",
+    "title": "Chase Offers: Get 5% Back At Giftcards.com (Up To $40 Back)",
+    "url": "https://www.doctorofcredit.com/chase-offers-offers-get-5-back-at-giftcards-com-up-to-50-back/",
+    "offer_type": "promo",
+    "headline": "5% Back, $40 Value",
+    "summary": "Promo: 5% back, $40 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 25 Nov 2026 03:00:57 +0000"
+  },
+  {
     "id": 1507,
     "source": "Frequent Miler",
     "title": "BeFrugal: Get a $40 welcome bonus after earning $10 cashback",
@@ -3019,7 +3047,7 @@
     "summary": "Promo: $40 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 21:45:19 +0000"
   },
@@ -3033,7 +3061,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 24 Nov 2026 13:45:32 +0000"
   },
@@ -3047,7 +3075,7 @@
     "summary": "Credit card offer: $250 bonus",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 20:01:10 +0000"
   },
@@ -3061,7 +3089,7 @@
     "summary": "Promo: 25% back, $25 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 20:34:07 +0000"
   },
@@ -3110,14 +3138,14 @@
   {
     "id": 1455,
     "source": "Frequent Miler",
-    "title": "Rakuten offering up to $175 cashback or 17,500 Bilt points for for Citi cards",
+    "title": "Rakuten offering up to $50 cashback or 5,000 Bilt points for for Citi cards",
     "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/",
     "offer_type": "promo",
-    "headline": "$175 Value",
-    "summary": "Promo: $175 value",
+    "headline": "$50 Value",
+    "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": "REDUCED",
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 22:45:14 +0000"
   },
@@ -3358,20 +3386,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 11 Nov 2026 16:46:23 +0000"
-  },
-  {
-    "id": 1328,
-    "source": "Doctor of Credit",
-    "title": "Chase Offers/BofA: Get 10% Back At Marriott, Up To $85 Cashback",
-    "url": "https://www.doctorofcredit.com/chase-offers-bofa-get-10-back-at-marriott-up-to-35-cashback/",
-    "offer_type": "promo",
-    "headline": "10% Back, $85 Value",
-    "summary": "Promo: 10% back, $85 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 11 Nov 2026 19:30:29 +0000"
   },
   {
     "id": 1322,
@@ -3677,7 +3691,7 @@
     "summary": "Promo: $3 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 19:51:45 +0000"
   },
@@ -4113,7 +4127,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Sun, 01 Nov 2026 21:45:18 +0000"
+    "published": "Wed, 25 Nov 2026 01:45:30 +0000"
   },
   {
     "id": 469,
@@ -4240,20 +4254,6 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 05 Sep 2026 12:00:10 +0000"
-  },
-  {
-    "id": 300,
-    "source": "Doctor of Credit",
-    "title": "ShopBack Shopping Portal $20 Signup Bonus & More Deals (Deal Roundup)",
-    "url": "https://www.doctorofcredit.com/shopback-shopping-portal-20-signup-bonus-earn-cashback-on-amazon-ubereats-more/",
-    "offer_type": "promo",
-    "headline": "$20 Value",
-    "summary": "Promo: $20 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Tue, 17 Nov 2026 23:10:39 +0000"
   },
   {
     "id": 283,
@@ -4520,6 +4520,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Wed, 12 Aug 2026 00:41:04 +0000"
+  },
+  {
+    "id": 1516,
+    "source": "Doctor of Credit",
+    "title": "[CA, TX, AL, FL, GA, IL, IN, KY, MI, NC, OH, TN, WV, SC, AZ] Fifth Third $300 + $150 Checking Bonus",
+    "url": "https://www.doctorofcredit.com/fifth-third-200-checking-bonus-fl-ga-il-ky-mi-nc-oh-tn-wv/",
+    "offer_type": "bank",
+    "headline": "$150 Bank Bonus",
+    "summary": "Bank bonus: $150",
+    "score": 4.0,
+    "score_label": "Standard",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Tue, 24 Nov 2026 21:05:14 +0000"
   },
   {
     "id": 1407,

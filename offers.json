@@ -98,6 +98,20 @@
     "published": "Thu, 27 Aug 2026 18:32:57 +0000"
   },
   {
+    "id": 1544,
+    "source": "Frequent Miler",
+    "title": "Rove Black Friday promos: up to 55% transfer bonuses, 10x loyalty eligible hotel bookings, double qualifying miles, more",
+    "url": "https://frequentmiler.com/rove-black-friday-promos-up-to-55-transfer-bonuses-10x-loyalty-eligible-hotel-bookings-double-qualifying-miles-more/",
+    "offer_type": "transfer",
+    "headline": "55% Transfer Bonus",
+    "summary": "Transfer bonus: 55%",
+    "score": 9.0,
+    "score_label": "Exceptional",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Wed, 25 Nov 2026 17:45:09 +0000"
+  },
+  {
     "id": 1410,
     "source": "Doctor of Credit",
     "title": "Chase Ultimate Rewards: 40% Transfer Bonus To Virgin Atlantic (1:1.4)",
@@ -502,20 +516,6 @@
     "status": null,
     "why_it_matters": "That's an effective 50% rebate when you meet the $80 spend requirement.",
     "published": "Wed, 23 Sep 2026 14:00:04 +0000"
-  },
-  {
-    "id": 494,
-    "source": "Doctor of Credit",
-    "title": "[NY, In Branch] Hudson Valley Federal Credit Union $750 – $1,500 Business Checking Bonus",
-    "url": "https://www.doctorofcredit.com/ny-in-branch-hudson-valley-federal-credit-union-750-1500-business-checking-bonus/",
-    "offer_type": "bank",
-    "headline": "$1,500 Bank Bonus",
-    "summary": "Bank bonus: $1,500",
-    "score": 8.5,
-    "score_label": "Excellent",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Sat, 19 Sep 2026 14:00:06 +0000"
   },
   {
     "id": 440,
@@ -3010,18 +3010,18 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
-    "id": 300,
+    "id": 1534,
     "source": "Doctor of Credit",
-    "title": "ShopBack Shopping Portal $30 Signup Bonus & More Deals",
-    "url": "https://www.doctorofcredit.com/shopback-shopping-portal-20-signup-bonus-earn-cashback-on-amazon-ubereats-more/",
+    "title": "[Live 11/27] Starbucks: Purchase $25 eGiftcard, Get $5 Bonus Giftcard (Stack With Citi Offer)",
+    "url": "https://www.doctorofcredit.com/starbucks-purchase-25-egiftcard-get-5-bonus-giftcard-stack-with-citi-offer/",
     "offer_type": "promo",
-    "headline": "$30 Value",
-    "summary": "Promo: $30 value",
-    "score": 5.5,
+    "headline": "$5 Value",
+    "summary": "Promo: $5 value",
+    "score": 4.5,
     "score_label": "Standard",
-    "status": "IMPROVED",
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Tue, 24 Nov 2026 17:15:39 +0000"
+    "published": "Wed, 25 Nov 2026 21:00:11 +0000"
   },
   {
     "id": 1514,
@@ -3033,7 +3033,7 @@
     "summary": "Promo: 5% back, $40 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Wed, 25 Nov 2026 03:00:57 +0000"
   },
@@ -3145,7 +3145,7 @@
     "summary": "Promo: $50 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "REDUCED",
+    "status": null,
     "why_it_matters": null,
     "published": "Mon, 23 Nov 2026 22:45:14 +0000"
   },
@@ -4104,16 +4104,16 @@
   {
     "id": 481,
     "source": "Doctor of Credit",
-    "title": "UberEats: Promo Codes, Discounts & Other Savings: $11.25 off $18+",
+    "title": "UberEats: Promo Codes, Discounts & Other Savings: $5 off $20 (Works on Pickup; 11/25 Only)",
     "url": "https://www.doctorofcredit.com/ubereats-promo-codes-discounts-other-savings/",
     "offer_type": "promo",
-    "headline": "$11.25 Off $18 Spend",
-    "summary": "Promo: $11.25 off $18 spend",
+    "headline": "$5 Off $20 Spend",
+    "summary": "Promo: $5 off $20 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Sun, 22 Nov 2026 23:40:06 +0000"
+    "published": "Wed, 25 Nov 2026 19:47:06 +0000"
   },
   {
     "id": 478,
@@ -4202,7 +4202,7 @@
   {
     "id": 348,
     "source": "Doctor of Credit",
-    "title": "Postmates: $10 Off $25 With Promo Code BONEAPPETIT",
+    "title": "Postmates: $10 Off $25 With Promo Code GOBBLE",
     "url": "https://www.doctorofcredit.com/postmates-15-off-45-with-promo-code-dodgers/",
     "offer_type": "promo",
     "headline": "$10 Off $25 Spend",
@@ -4211,7 +4211,7 @@
     "score_label": "Standard",
     "status": null,
     "why_it_matters": null,
-    "published": "Fri, 30 Oct 2026 18:24:13 +0000"
+    "published": "Wed, 25 Nov 2026 21:50:13 +0000"
   },
   {
     "id": 318,
@@ -4254,6 +4254,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Sat, 05 Sep 2026 12:00:10 +0000"
+  },
+  {
+    "id": 300,
+    "source": "Doctor of Credit",
+    "title": "ShopBack Shopping Portal $30 Signup Bonus & More Deals",
+    "url": "https://www.doctorofcredit.com/shopback-shopping-portal-20-signup-bonus-earn-cashback-on-amazon-ubereats-more/",
+    "offer_type": "promo",
+    "headline": "$30 Value",
+    "summary": "Promo: $30 value",
+    "score": 4.5,
+    "score_label": "Standard",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Tue, 24 Nov 2026 17:15:39 +0000"
   },
   {
     "id": 283,
@@ -4531,7 +4545,7 @@
     "summary": "Bank bonus: $150",
     "score": 4.0,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Tue, 24 Nov 2026 21:05:14 +0000"
   },

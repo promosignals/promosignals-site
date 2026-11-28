@@ -107,7 +107,7 @@
     "summary": "Transfer bonus: 55%",
     "score": 9.0,
     "score_label": "Exceptional",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 27 Nov 2026 14:00:43 +0000"
   },
@@ -644,6 +644,20 @@
     "published": "Tue, 29 Sep 2026 00:20:12 +0000"
   },
   {
+    "id": 1571,
+    "source": "Frequent Miler",
+    "title": "(Back from Dec 1-7) Virgin Red credit card welcome offer boosted to 75K points",
+    "url": "https://frequentmiler.com/virgin-red-credit-card-welcome-offer-boosted-to-75k-points/",
+    "offer_type": "credit_card",
+    "headline": "75,000 Points",
+    "summary": "Credit card offer: 75,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 27 Nov 2026 17:45:46 +0000"
+  },
+  {
     "id": 1548,
     "source": "Doctor of Credit",
     "title": "Staples: 100% Back In Points On Battery Purchases Up To $40",
@@ -653,7 +667,7 @@
     "summary": "Promo: 100% back, $40 value",
     "score": 8.0,
     "score_label": "Excellent",
-    "status": "NEW",
+    "status": null,
     "why_it_matters": null,
     "published": "Fri, 27 Nov 2026 05:56:47 +0000"
   },
@@ -840,6 +854,20 @@
     "published": "Thu, 22 Oct 2026 16:15:01 +0000"
   },
   {
+    "id": 893,
+    "source": "Frequent Miler",
+    "title": "(75K offer ends 11/30) Mastercard Luxury Black Card from Barclays: Large welcome offer with high value points, but steep annual fee",
+    "url": "https://frequentmiler.com/mastercard-luxury-black-card-from-barclays-large-welcome-offer-with-high-value-points-but-steep-annual-fee/",
+    "offer_type": "credit_card",
+    "headline": "75,000 Points",
+    "summary": "Credit card offer: 75,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": "NEW",
+    "why_it_matters": null,
+    "published": "Fri, 27 Nov 2026 15:46:32 +0000"
+  },
+  {
     "id": 711,
     "source": "Doctor of Credit",
     "title": "Staples: 100% Back In Points On Command Purchases Up To $40",
@@ -866,6 +894,20 @@
     "status": null,
     "why_it_matters": null,
     "published": "Fri, 02 Oct 2026 14:00:23 +0000"
+  },
+  {
+    "id": 512,
+    "source": "Doctor of Credit",
+    "title": "[YMMV] American Express Delta Offers – Up To 90,000 Miles + $300 – No Lifetime Language",
+    "url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
+    "offer_type": "credit_card",
+    "headline": "90,000 Points",
+    "summary": "Credit card offer: 90,000 points",
+    "score": 8.0,
+    "score_label": "Excellent",
+    "status": null,
+    "why_it_matters": null,
+    "published": "Fri, 27 Nov 2026 19:36:09 +0000"
   },
   {
     "id": 510,
@@ -2240,6 +2282,20 @@
     "published": "Fri, 21 Aug 2026 23:54:06 +0000"
   },
   {
+    "id": 1566,
+    "source": "Frequent Miler",
+    "title": "Korean Air Amex Offer: Get $250 back when spending $2K+ (via Amex Travel™ only)",
+    "url": "https://frequentmiler.com/korean-air-amex-offer-get-250-back-when-spending-2k-via-amex-travel-only/",
+    "offer_type": "amex_offer",
+    "headline": "$250 Back on $2,000 Spend",
+    "summary": "Amex Offer: spend $2,000, get $250 back",
+    "score": 6.0,
+    "score_label": "Good",
+    "status": "NEW",
+    "why_it_matters": "That's an effective 12.5% rebate when you meet the $2,000 spend requirement.",
+    "published": "Fri, 27 Nov 2026 22:45:39 +0000"
+  },
+  {
     "id": 1496,
     "source": "Doctor of Credit",
     "title": "AmEx Offers: Shoprite, Spend $85, Get $10 Back",
@@ -3024,32 +3080,18 @@
     "published": "Fri, 23 Oct 2026 17:45:17 +0000"
   },
   {
-    "id": 1534,
+    "id": 1557,
     "source": "Doctor of Credit",
-    "title": "[Live 11/27] Starbucks: Purchase $25 eGiftcard, Get $5 Bonus Giftcard (Stack With Citi Offer)",
-    "url": "https://www.doctorofcredit.com/starbucks-purchase-25-egiftcard-get-5-bonus-giftcard-stack-with-citi-offer/",
+    "title": "[YMMV?] Shop App: Spend $400+ & Get $100 Shop Cash (11/27 Only)",
+    "url": "https://www.doctorofcredit.com/ymmv-shop-app-spend-400-get-100-shop-cash-11-27-only/",
     "offer_type": "promo",
-    "headline": "$5 Value",
-    "summary": "Promo: $5 value",
+    "headline": "$100 Value",
+    "summary": "Promo: $100 value",
     "score": 4.5,
     "score_label": "Standard",
-    "status": null,
+    "status": "NEW",
     "why_it_matters": null,
-    "published": "Fri, 27 Nov 2026 05:01:11 +0000"
-  },
-  {
-    "id": 1514,
-    "source": "Doctor of Credit",
-    "title": "Chase Offers: Get 5% Back At Giftcards.com (Up To $40 Back)",
-    "url": "https://www.doctorofcredit.com/chase-offers-offers-get-5-back-at-giftcards-com-up-to-50-back/",
-    "offer_type": "promo",
-    "headline": "5% Back, $40 Value",
-    "summary": "Promo: 5% back, $40 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Wed, 25 Nov 2026 03:00:57 +0000"
+    "published": "Fri, 27 Nov 2026 19:43:24 +0000"
   },
   {
     "id": 1507,
@@ -3752,20 +3794,6 @@
     "published": "Fri, 16 Oct 2026 17:20:10 +0000"
   },
   {
-    "id": 918,
-    "source": "Doctor of Credit",
-    "title": "U.S. Bank Offers: Get 10% Back On Dining Purchase (Limit $4 Cashback)",
-    "url": "https://www.doctorofcredit.com/u-s-bank-offers-get-10-back-on-dining-purchase-limit-4-cashback/",
-    "offer_type": "promo",
-    "headline": "10% Back, $4 Value",
-    "summary": "Promo: 10% back, $4 value",
-    "score": 4.5,
-    "score_label": "Standard",
-    "status": null,
-    "why_it_matters": null,
-    "published": "Thu, 15 Oct 2026 17:23:00 +0000"
-  },
-  {
     "id": 898,
     "source": "Doctor of Credit",
     "title": "Chase DoorDash Benefit: Non Restaurant $10 Credit Now Monthly (Was Quarterly)",
@@ -3908,16 +3936,16 @@
   {
     "id": 677,
     "source": "Doctor of Credit",
-    "title": "DoorDash Promo Codes: Best Buy, $40 Off $100+ With Promo Code BBCYBER40",
+    "title": "DoorDash Promo Codes: Lowe’s, $30 Off $90+ With Promo Code LOWESBF30",
     "url": "https://www.doctorofcredit.com/doordash-promo-codes-25-off-with-25off4u-20-maximum-savings/",
     "offer_type": "promo",
-    "headline": "$40 Off $100 Spend",
-    "summary": "Promo: $40 off $100 spend",
+    "headline": "$30 Off $90 Spend",
+    "summary": "Promo: $30 off $90 spend",
     "score": 4.5,
     "score_label": "Standard",
-    "status": "NEW",
+    "status": "REDUCED",
     "why_it_matters": null,
-    "published": "Fri, 27 Nov 2026 04:30:26 +0000"
+    "published": "Fri, 27 Nov 2026 20:01:26 +0000"
   },
   {
     "id": 654,
